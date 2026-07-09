@@ -1,0 +1,159 @@
+{
+  "version": 22,
+  "partners": [
+    {
+      "name": "Merkur Innsbruckathlon",
+      "discount": "25 %",
+      "detail": "25 % auf den Startplatz mit Code FREIZEIT25 (gültig 01.–30.04.2026). Hindernislauf durch die Innsbrucker Innenstadt, 5 km oder 10 km.",
+      "category": "Sport",
+      "code": "FREIZEIT25",
+      "website": "https://www.innsbruckathlon.at",
+      "address": "Innsbruck",
+      "lat": 47.2692,
+      "lon": 11.3933
+    },
+    {
+      "name": "Corthea Innsbruck",
+      "discount": "10 %",
+      "detail": "10 % auf alle Anwendungen, online mit Code oder vor Ort bei Vorlage des Tickets. Keine Doppelrabattierung.",
+      "category": "Wellness",
+      "code": "FREIZEIT10",
+      "website": null,
+      "address": "Innsbruck",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Silvretta Therme Ischgl",
+      "discount": "10 %",
+      "detail": "10 % auf reguläre Eintritts- und Nachzahltarife für Therme (Badewelt), Sauna und Kombi-Tickets an der Thermenkassa. Nur 1.10.–30.11., nicht online.",
+      "category": "Wellness",
+      "code": null,
+      "website": "https://www.silvretta-therme.at",
+      "address": "Ischgl",
+      "lat": 47.0114,
+      "lon": 10.2906
+    },
+    {
+      "name": "Raiders Tirol – Football",
+      "discount": "25 %",
+      "detail": "25 % auf Tickets bei EFA-Heimspielen 2026 an der Tages- oder Abendkasse.",
+      "category": "Sport",
+      "code": null,
+      "website": "https://www.raiders.at",
+      "address": "Innsbruck",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Raiders Tirol – Basketball",
+      "discount": "25 %",
+      "detail": "25 % auf Tickets der Basketball-2.-Liga-Heimspiele 2025/26.",
+      "category": "Sport",
+      "code": null,
+      "website": "https://www.raiders.at",
+      "address": "Innsbruck",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Padelfield Tirol",
+      "discount": "20 %",
+      "detail": "20 % auf Online-Platzbuchungen auf padel-field.at mit Code.",
+      "category": "Sport",
+      "code": "Freizeit25",
+      "website": "https://www.padel-field.at",
+      "address": "Tirol",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "192m-Bungy Europabrücke",
+      "discount": "bis € 60,-",
+      "detail": "Bis € 60,- Ermäßigung beim Online-Kauf eines Jumps (€ 169 statt € 239 vor Ort). Produkt: 192m-Bungy Europabrücke.",
+      "category": "Erlebnis",
+      "code": "192m-eb-freizeit",
+      "website": "https://www.bungy.at",
+      "address": "Europabrücke, Schönberg",
+      "lat": 47.2089,
+      "lon": 11.4019
+    },
+    {
+      "name": "Experience Tirol",
+      "discount": "10 %",
+      "detail": "10 % auf reguläre Eintrittspreise an der Kassa. Nicht mit anderen Rabatten kombinierbar.",
+      "category": "Erlebnis",
+      "code": null,
+      "website": null,
+      "address": "Tirol",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Your Dome",
+      "discount": "€ 2,-",
+      "detail": "€ 2,- Ermäßigung auf den regulären Ticketpreis für Erwachsene und Kinder.",
+      "category": "Erlebnis",
+      "code": null,
+      "website": null,
+      "address": null,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "IBSF Weltcup",
+      "discount": "50 %",
+      "detail": "50 % auf Tickets an der Tageskassa (28.–30.11.2025).",
+      "category": "Sport",
+      "code": null,
+      "website": null,
+      "address": "Olympia Eiskanal, Igls",
+      "lat": 47.2261,
+      "lon": 11.4267
+    },
+    {
+      "name": "WSG Tirol",
+      "discount": "3× / Jahr",
+      "detail": "3 Eintritte pro Jahr zu Bundesliga-Heimspielen im Tivoli Stadion (eigene FTT-Kassa Ostseite).",
+      "category": "Sport",
+      "code": null,
+      "website": "https://www.wsgtirol.at",
+      "address": "Tivoli Stadion, Innsbruck",
+      "lat": 47.2558,
+      "lon": 11.4108
+    },
+    {
+      "name": "Kaunertaler Gletscher",
+      "discount": "Skipass ab € 17",
+      "detail": "Skipass € 29 (Erw.), € 25 (Jug.), € 17 (Kind) mit Freizeitticket.",
+      "category": "Erlebnis",
+      "code": null,
+      "website": "https://www.kaunertaler-gletscher.at",
+      "address": "Feichten, Kaunertal",
+      "lat": 46.8669,
+      "lon": 10.733
+    },
+    {
+      "name": "Pitztaler Gletscher",
+      "discount": "Skipass ab € 17",
+      "detail": "Skipass € 29 (Erw.), € 25 (Jug.), € 17 (Kind) mit Freizeitticket.",
+      "category": "Erlebnis",
+      "code": null,
+      "website": "https://www.pitztaler-gletscher.at",
+      "address": "Mittelberg, St. Leonhard",
+      "lat": 46.9286,
+      "lon": 10.8728
+    },
+    {
+      "name": "Holiday on Ice 2027",
+      "discount": "15 %",
+      "detail": "\"−15 % für „Cinema of Dreams\" in oeticket-VVK und an der Abendkassa.\",\n              category: \"Kultur\", code: nil, website: \"https://www.holidayonice.com\", address: \"Olympiaworld Innsbruck\", lat: 47.2625, lon: 11.4083),\n        .init(name: \"Invibe\", discount: \"+2 Monate gratis\",\n              detail: \"+2 Monate gratis zu jeder neuen Jahresmitgliedschaft. Ein Abo für ganz Tirol.\",\n              category: \"Sport\", code: nil, website: \"https://www.invibe.at\", address: \"Tirol\", lat: nil, lon: nil),\n        .init(name: \"Casinos Innsbruck / Seefeld / Kitzbühel\", discount: \"€ 7",
+      "category": "",
+      "code": null,
+      "website": null,
+      "address": null,
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

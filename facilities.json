@@ -1,0 +1,2321 @@
+{
+  "version": 22,
+  "facilities": [
+    {
+      "name": "Hungerburgbahn (Nordkette)",
+      "category": "bergbahn",
+      "address": "Rennweg 3, 6020 Innsbruck",
+      "lat": 47.2685,
+      "lon": 11.3955,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "Moderne Standseilbahn (Zaha Hadid) von der Innsbrucker Altstadt/Congress auf die Hungerburg, mit Halt beim Alpenzoo. Ganzjährig.",
+      "hours": "ganzjährig, ca. 07:15–19:15",
+      "notes": "",
+      "url": "https://nordkette.com",
+      "tickets": [
+        {
+          "name": "Hungerburg Berg- & Talfahrt",
+          "price": 11.2,
+          "audience": "general"
+        },
+        {
+          "name": "Hungerburg Einzelfahrt",
+          "price": 8.4,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Seegrubenbahn (Nordkette)",
+      "category": "bergbahn",
+      "address": "Höhenstraße 145, 6020 Innsbruck",
+      "lat": 47.2987,
+      "lon": 11.3835,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "Pendelbahn von der Hungerburg auf die Seegrube (1.905 m). Wandern, Aussicht über Innsbruck, Klettersteig. Ganzjährig.",
+      "hours": "ganzjährig, ca. 08:30–17:30",
+      "notes": "Ausgenommen Bergsilvester.",
+      "url": "https://nordkette.com",
+      "tickets": [
+        {
+          "name": "Seegrube Berg- & Talfahrt",
+          "price": 39.0,
+          "audience": "general"
+        },
+        {
+          "name": "Seegrube Einzelfahrt",
+          "price": 25.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Hafelekarbahn (Nordkette)",
+      "category": "bergbahn",
+      "address": "Höhenstraße 145, 6020 Innsbruck",
+      "lat": 47.3128,
+      "lon": 11.3852,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "Top of Innsbruck (2.256 m). Ausgezeichnete Österreichische Sommerbahn, im Winter Freeride. Ganzjährig.",
+      "hours": "ganzjährig, ca. 09:00–17:00",
+      "notes": "",
+      "url": "https://nordkette.com",
+      "tickets": [
+        {
+          "name": "Top of Innsbruck Berg- & Talfahrt",
+          "price": 44.0,
+          "audience": "general"
+        },
+        {
+          "name": "Hafelekar Einzelfahrt",
+          "price": 29.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Patscherkofelbahn Igls",
+      "category": "bergbahn",
+      "address": "Römerstraße 81, 6080 Igls",
+      "lat": 47.2103,
+      "lon": 11.4607,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "https://www.patscherkofelbahnen.at",
+      "tickets": [
+        {
+          "name": "Tagesticket Sommer",
+          "price": 33.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 50.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Muttereralm Bergbahnen",
+      "category": "bergbahn",
+      "address": "Nockhofweg 40, 6162 Mutters",
+      "lat": 47.2286,
+      "lon": 11.3764,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Freizeitticket-Partner (kostenloses Parken für FTT-Inhaber).",
+      "url": "https://www.muttereralm.at",
+      "tickets": [
+        {
+          "name": "Tagesticket Sommer",
+          "price": 28.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 39.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Glungezerbahn Tulfes",
+      "category": "bergbahn",
+      "address": "Glungezerstraße 14, 6075 Tulfes",
+      "lat": 47.2514,
+      "lon": 11.5311,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "https://www.glungezerbahn.at",
+      "tickets": [
+        {
+          "name": "Tagesticket Sommer",
+          "price": 31.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 38.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Axamer Lizum",
+      "category": "bergbahn",
+      "address": "Axamer Lizum 6, 6094 Axams",
+      "lat": 47.1961,
+      "lon": 11.3023,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Freizeitticket Tirol gültig. Sommerbetrieb (Hoadlbahn) nur im Hochsommer.",
+      "url": "https://www.axamer-lizum.at",
+      "tickets": [
+        {
+          "name": "Tagesticket Sommer",
+          "price": 28.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 65.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Rangger Köpfl Oberperfuss",
+      "category": "bergbahn",
+      "address": "Peter-Anich-Weg 11, 6173 Oberperfuss",
+      "lat": 47.2639,
+      "lon": 11.2422,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "https://www.rangger-koepfl.at",
+      "tickets": [
+        {
+          "name": "Tagesticket Sommer",
+          "price": 36.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 42.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Stubaier Gletscher",
+      "category": "bergbahn",
+      "address": "Mutterberg 2, 6167 Neustift im Stubaital",
+      "lat": 47.0117,
+      "lon": 11.1242,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "Größtes Gletscherskigebiet Österreichs. Schneesicher, Gletscherbahnen bis 3.210 m, Aussichtsplattform Top of Tyrol. Sommerbetrieb ab Ende Juni.",
+      "hours": "saisonal",
+      "notes": "",
+      "url": "https://www.stubaier-gletscher.com",
+      "tickets": [
+        {
+          "name": "Berg- und Talfahrt Sommer (TOP OF TYROL)",
+          "price": 45.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 64.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Schlick 2000 Fulpmes",
+      "category": "bergbahn",
+      "address": "Tschaffinis Umgebung 26, 6166 Fulpmes",
+      "lat": 47.1539,
+      "lon": 11.3436,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "https://www.schlick2000.at",
+      "tickets": [
+        {
+          "name": "Tagesticket Sommer",
+          "price": 33.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 55.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Serlesbahnen Mieders",
+      "category": "bergbahn",
+      "address": "Waldrasterweg 1, 6142 Mieders",
+      "lat": 47.1658,
+      "lon": 11.3783,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Beste Österreichische Sommer-Bergbahn. Sommerticket berechtigt am Kauftag zum Miederer Schwimmbad.",
+      "url": "https://www.serlesbahnen.com",
+      "tickets": [
+        {
+          "name": "Tagesticket Sommer",
+          "price": 25.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 44.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Elferbahnen Neustift",
+      "category": "bergbahn",
+      "address": "Moos 12, 6167 Neustift im Stubaital",
+      "lat": 47.1072,
+      "lon": 11.3006,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Freizeitticket-Vorteilspartner. Sommer: Wandern, Biken, Paragleiten, größte begehbare Sonnenuhr.",
+      "url": "https://www.elferbahnen.at",
+      "tickets": [
+        {
+          "name": "Tagesticket Sommer",
+          "price": 24.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 48.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Ski- & Freizeit-Arena Bergeralm",
+      "category": "bergbahn",
+      "address": "Huebenweg 25, 6150 Steinach am Brenner",
+      "lat": 47.0903,
+      "lon": 11.4744,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Sommer: Bikepark Tirol, Wasser- und Erlebniswelt Bärenbachl.",
+      "url": "https://www.bergeralm.net",
+      "tickets": [
+        {
+          "name": "Tagesticket Sommer",
+          "price": 41.9,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 52.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Bergbahnen Rosshütte Seefeld",
+      "category": "bergbahn",
+      "address": "Talstation 419, 6100 Seefeld",
+      "lat": 47.3311,
+      "lon": 11.1999,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Freizeitticket Tirol gültig. Sommer: 3 Bahnen + Erlebnisspielplatz.",
+      "url": "https://www.rosshuette.at",
+      "tickets": [
+        {
+          "name": "Topkarte Sommer (alle 3 Bahnen)",
+          "price": 37.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 59.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Kellerjochbahn Schwaz",
+      "category": "bergbahn",
+      "address": "Pillbergstraße 210, 6136 Pill",
+      "lat": 47.3275,
+      "lon": 11.7247,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Mitglied Freizeitticket Tirol. Sommer: Wandern, längste Naturrodelbahn Nordtirols, Abenteuerspielplatz.",
+      "url": "https://www.kellerjochbahn.at",
+      "tickets": [
+        {
+          "name": "Berg- und Talfahrt Sommer",
+          "price": 24.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 42.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Bergbahnen Kühtai",
+      "category": "bergbahn",
+      "address": "Kühtai 48, 6183 Kühtai",
+      "lat": 47.213,
+      "lon": 11.008,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Sommer: DreiSeenBahn (bis Mitte September) auf 2.410 m, Bergseen, Klettersteige, Knappenweg.",
+      "url": "https://www.kuehtai.info",
+      "tickets": [
+        {
+          "name": "DreiSeenBahn Berg- & Talfahrt Sommer",
+          "price": 28.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 55.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Bergbahnen Hochkössen",
+      "category": "bergbahn",
+      "address": "Thurnbichl 47, 6345 Kössen",
+      "lat": 47.6542,
+      "lon": 12.4144,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Sommer: Wandern, Biken, Paragleiten am Unterberghorn.",
+      "url": "https://skisport.com/hochkoessen",
+      "tickets": [
+        {
+          "name": "Berg- und Talfahrt Sommer",
+          "price": 28.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 39.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Skiregion Gurgl",
+      "category": "bergbahn",
+      "address": "Gurglerstraße 93, 6456 Obergurgl",
+      "lat": 46.8706,
+      "lon": 11.0264,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Sommerbetrieb nur eingeschränkt (Kirchenkarbahn, Hohe Mut Bahn) im Hochsommer.",
+      "url": "https://www.gurgl.com",
+      "tickets": [
+        {
+          "name": "Berg- und Talfahrt Sommer",
+          "price": 28.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 79.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Bergbahnen Kappl",
+      "category": "bergbahn",
+      "address": "Au 483, 6555 Kappl",
+      "lat": 47.0628,
+      "lon": 10.3752,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Freizeitticket Tirol gültig. Sommer: Diasbahn, Sunny Mountain Erlebnispark, MTB-Trails.",
+      "url": "https://www.kappl.com",
+      "tickets": [
+        {
+          "name": "Kombiticket Sommer (Dias + Alblitt)",
+          "price": 29.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 67.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Bergbahnen Silvretta Galtür",
+      "category": "bergbahn",
+      "address": "Dorfplatz 39, 6563 Galtür",
+      "lat": 46.9635,
+      "lon": 10.1872,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Freizeitticket Tirol gültig. Sommer: Alpkogelbahn zu Bikepark, Boulderpark, Klettersteig.",
+      "url": "https://www.galtuer.com",
+      "tickets": [
+        {
+          "name": "Alpkogelbahn Berg- & Talfahrt Sommer",
+          "price": 21.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 55.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Silvrettaseilbahn Ischgl",
+      "category": "bergbahn",
+      "address": "Silvrettaplatz 2, 6561 Ischgl",
+      "lat": 47.0114,
+      "lon": 10.2908,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Freizeitticket Tirol gültig. Silvretta Arena 239 km. Sommer: 6 Bahnen, Erlebnispark Vider Truja.",
+      "url": "https://www.ischgl.com",
+      "tickets": [
+        {
+          "name": "Berg- und Talfahrt Sommer",
+          "price": 27.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 79.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Ski Arlberg (St. Anton)",
+      "category": "bergbahn",
+      "address": "Kandaharweg 9, 6580 St. Anton am Arlberg",
+      "lat": 47.1281,
+      "lon": 10.2678,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Größtes zusammenhängendes Skigebiet Österreichs. Sommer: 5 Bahnen, Arlberg Trail, Klettersteig.",
+      "url": "https://www.skiarlberg.at",
+      "tickets": [
+        {
+          "name": "Tagesticket Sommer",
+          "price": 39.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter)",
+          "price": 75.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Skilift Geigenbühel Seefeld",
+      "category": "bergbahn",
+      "address": "Geigenbühelstraße 505, 6100 Seefeld",
+      "lat": 47.3339,
+      "lon": 11.1853,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "Kleiner Anfänger-/Kinderlift im Zentrum (Happy Ski Card). Kein Sommerbetrieb.",
+      "url": "https://www.geigenbuehel.at",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 20.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Birkenlift Seefeld",
+      "category": "bergbahn",
+      "address": "Leutascherstraße 634, 6100 Seefeld",
+      "lat": 47.3358,
+      "lon": 11.1781,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "Kleiner Anfänger-/Kinderlift (Happy Ski Card). Kein Sommerbetrieb.",
+      "url": "https://www.birkenlift.at",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 20.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Bergbahn Leutasch Katzenkopf",
+      "category": "bergbahn",
+      "address": "Weidach 381a, 6105 Leutasch",
+      "lat": 47.3692,
+      "lon": 11.1461,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tagesticket",
+          "price": 38.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Hüttegglift Weerberg",
+      "category": "bergbahn",
+      "address": "Zallerstraße 81, 6133 Weerberg",
+      "lat": 47.2917,
+      "lon": 11.6669,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 20.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Schilift Kinderland Rinn",
+      "category": "bergbahn",
+      "address": "Dorfstraße 6, 6074 Rinn",
+      "lat": 47.2536,
+      "lon": 11.5034,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 15.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Schwannerlift Weerberg",
+      "category": "bergbahn",
+      "address": "Mitterberg 59, 6133 Weerberg",
+      "lat": 47.3194,
+      "lon": 11.6508,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 18.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Skigebiet Kolsassberg",
+      "category": "bergbahn",
+      "address": "Rettenbergstraße 25, 6115 Kolsassberg",
+      "lat": 47.3056,
+      "lon": 11.6361,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 22.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Skilift Trins",
+      "category": "bergbahn",
+      "address": "Trins 36, 6152 Trins",
+      "lat": 47.0828,
+      "lon": 11.4239,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 19.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Burglift Stans",
+      "category": "bergbahn",
+      "address": "Unterdorf 62, 6135 Stans",
+      "lat": 47.3719,
+      "lon": 11.7169,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 21.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Sonnberglift Gries im Sellrain",
+      "category": "bergbahn",
+      "address": "Gries 18a, 6182 Gries im Sellrain",
+      "lat": 47.2147,
+      "lon": 11.1558,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 16.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Sonnenberglift Milders",
+      "category": "bergbahn",
+      "address": "Franz-Senn-Straße 92, 6167 Neustift",
+      "lat": 47.1014,
+      "lon": 11.2825,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 16.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Vögelsberg Wattens",
+      "category": "bergbahn",
+      "address": "Halbeisfeld 9, 6112 Wattens",
+      "lat": 47.2819,
+      "lon": 11.5975,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 15.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Wildstättlift Wattenberg",
+      "category": "bergbahn",
+      "address": "Wattenberg 23a, 6113 Wattenberg",
+      "lat": 47.2547,
+      "lon": 11.6364,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 18.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Eislaufplatz Wattens",
+      "category": "eislaufen",
+      "address": "Innsbrucker Str. 3, 6112 Wattens",
+      "lat": 47.2922,
+      "lon": 11.5892,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 5.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Eislaufplatz Hötting West",
+      "category": "eislaufen",
+      "address": "Viktor-Franz-Hess-Straße 9a, 6020 Innsbruck",
+      "lat": 47.2669,
+      "lon": 11.3533,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "https://www.ikb.at",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 5.5,
+          "audience": "general"
+        },
+        {
+          "name": "Schlittschuhverleih",
+          "price": 4.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Eislaufplatz Sillpark",
+      "category": "eislaufen",
+      "address": "Amraser Straße 76, 6020 Innsbruck",
+      "lat": 47.2683,
+      "lon": 11.4014,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 4.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Eislaufplatz Igls",
+      "category": "eislaufen",
+      "address": "Zimmerwiese, 6080 Innsbruck",
+      "lat": 47.2288,
+      "lon": 11.4147,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 4.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Eislaufplatz Baggersee",
+      "category": "eislaufen",
+      "address": "Roßaugasse 2a, 6020 Innsbruck",
+      "lat": 47.2725,
+      "lon": 11.4369,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 5.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Olympiaworld – Tiroler Wasserkraftarena",
+      "category": "eislaufen",
+      "address": "Olympiastraße 10, 6020 Innsbruck",
+      "lat": 47.2625,
+      "lon": 11.4083,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Eishallen ganzjährig, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "https://www.olympiaworld.at",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 7.0,
+          "audience": "general"
+        },
+        {
+          "name": "Abendkarte",
+          "price": 4.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Eishalle Götzens",
+      "category": "eislaufen",
+      "address": "Burgstraße 3, 6091 Götzens",
+      "lat": 47.2381,
+      "lon": 11.3114,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 6.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Eislaufplatz Schwaz",
+      "category": "eislaufen",
+      "address": "Franz-Josef-Straße 2, 6130 Schwaz",
+      "lat": 47.3486,
+      "lon": 11.7142,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 5.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Eislaufplatz Silz",
+      "category": "eislaufen",
+      "address": "Widumgasse 1, 6424 Silz",
+      "lat": 47.2628,
+      "lon": 10.9256,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 4.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Eishalle Steinach",
+      "category": "eislaufen",
+      "address": "Rathausplatz 1, 6150 Steinach am Brenner",
+      "lat": 47.0919,
+      "lon": 11.4789,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 5.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Eislaufplatz Trins",
+      "category": "eislaufen",
+      "address": "Trins 36, 6152 Trins",
+      "lat": 47.0828,
+      "lon": 11.4239,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 4.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Eislaufplatz Vomp",
+      "category": "eislaufen",
+      "address": "Dorf 69, 6134 Vomp",
+      "lat": 47.3411,
+      "lon": 11.6847,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 4.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Eislaufplatz Zirl",
+      "category": "eislaufen",
+      "address": "Bühelstraße 1, 6170 Zirl",
+      "lat": 47.2711,
+      "lon": 11.2464,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "winter",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Wintersaison (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 4.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Hallenbad Amraserstraße",
+      "category": "schwimmbad",
+      "address": "Amraser Straße 3, 6020 Innsbruck",
+      "lat": 47.262,
+      "lon": 11.417,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": true,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "https://www.ikb.at/baeder/auslastung",
+      "desc": "",
+      "hours": "Ganzjährig, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Laut AGB ganztägig; max. 1 IKB-Bad pro Tag.",
+      "url": "https://www.ikb.at/baeder",
+      "tickets": [
+        {
+          "name": "4-Stunden-Karte",
+          "price": 9.5,
+          "audience": "general"
+        },
+        {
+          "name": "Schwimmschultarif",
+          "price": 7.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Hallenbad Höttinger Au",
+      "category": "schwimmbad",
+      "address": "Fürstenweg 12, 6020 Innsbruck",
+      "lat": 47.269,
+      "lon": 11.3717,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 150,
+      "perDay": true,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "https://www.ikb.at/baeder/auslastung",
+      "desc": "Sportbad mit Wettkampfbecken (permanente Bahnenabtrennung), Lehrschwimmbecken. Ideal für Bahnenschwimmer.",
+      "hours": "Ganzjährig, tägl. wechselnd (siehe IKB)",
+      "notes": "Laut AGB 2,5 Std. pro Besuch; max. 1 IKB-Bad pro Tag.",
+      "url": "https://www.ikb.at/baeder",
+      "tickets": [
+        {
+          "name": "4-Stunden-Karte",
+          "price": 9.5,
+          "audience": "general"
+        },
+        {
+          "name": "2,5-Stunden-Sporttarif",
+          "price": 7.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Hallenbad Olympisches Dorf",
+      "category": "schwimmbad",
+      "address": "Kugelfangweg 46, 6020 Innsbruck",
+      "lat": 47.2868,
+      "lon": 11.4178,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 240,
+      "perDay": true,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "https://www.ikb.at/baeder/auslastung",
+      "desc": "Familienbad mit 2 Riesenrutschen (107 m & 61 m), Babybecken, ganzjährigem Freibecken, Palmengarten. 30–32 °C.",
+      "hours": "Ganzjährig, tägl. wechselnd (siehe IKB)",
+      "notes": "Laut AGB 4 Std. pro Besuch; max. 1 IKB-Bad pro Tag.",
+      "url": "https://www.ikb.at/baeder",
+      "tickets": [
+        {
+          "name": "4-Stunden-Karte",
+          "price": 12.8,
+          "audience": "general"
+        },
+        {
+          "name": "Abendkarte",
+          "price": 10.2,
+          "audience": "general"
+        },
+        {
+          "name": "Familienkarte",
+          "price": 28.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Telfer Bad",
+      "category": "schwimmbad",
+      "address": "Weißenbachgasse 17, 6410 Telfs",
+      "lat": 47.306,
+      "lon": 11.07,
+      "price": 0.0,
+      "maxEntries": 3,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "https://www.telferbad.at",
+      "desc": "",
+      "hours": "Hallenbad ganzjährig, Freibad im Sommer (siehe Website)",
+      "notes": "Laut FTT-AGB 3 Zutritte pro Saison.",
+      "url": "https://www.telferbad.at",
+      "tickets": [
+        {
+          "name": "4-Stunden-Karte",
+          "price": 11.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tageskarte",
+          "price": 14.5,
+          "audience": "general"
+        },
+        {
+          "name": "2-Stunden-Tarif",
+          "price": 8.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Badesee Weißlahn Terfens",
+      "category": "schwimmbad",
+      "address": "Dorfplatz 1, 6123 Terfens",
+      "lat": 47.3197,
+      "lon": 11.6319,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "summer",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Badesaison im Sommer (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 5.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Natterer See",
+      "category": "schwimmbad",
+      "address": "Natterer See 1, 6161 Natters",
+      "lat": 47.2347,
+      "lon": 11.3411,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "summer",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Badesaison im Sommer (ohne Gewähr)",
+      "notes": "",
+      "url": "https://www.natterersee.com",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 8.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Freischwimmbad Völser Badl",
+      "category": "schwimmbad",
+      "address": "Dorfstraße 31, 6176 Völs",
+      "lat": 47.2533,
+      "lon": 11.3169,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "summer",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommersaison (ca. Mai–Sept), siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 6.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Freibad Wattens",
+      "category": "schwimmbad",
+      "address": "Innsbrucker Str. 3, 6112 Wattens",
+      "lat": 47.2922,
+      "lon": 11.5892,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "summer",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommersaison (ca. Mai–Sept), siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 5.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Badesee Rossau",
+      "category": "schwimmbad",
+      "address": "Roßaugasse 2a, 6020 Innsbruck",
+      "lat": 47.273,
+      "lon": 11.431,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "summer",
+      "occupancy": "https://www.ikb.at/baeder/auslastung",
+      "desc": "",
+      "hours": "Badesaison im Sommer (ohne Gewähr)",
+      "notes": "",
+      "url": "https://www.ikb.at/baeder",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 5.8,
+          "audience": "general"
+        },
+        {
+          "name": "Abendkarte",
+          "price": 3.2,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Tivoli Freibad",
+      "category": "schwimmbad",
+      "address": "Purtschellerstraße 1, 6020 Innsbruck",
+      "lat": 47.258,
+      "lon": 11.409,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "summer",
+      "occupancy": "https://www.ikb.at/baeder/auslastung",
+      "desc": "",
+      "hours": "Sommersaison (ca. Mai–Sept), siehe IKB (ohne Gewähr)",
+      "notes": "",
+      "url": "https://www.ikb.at/baeder",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 6.8,
+          "audience": "general"
+        },
+        {
+          "name": "Halbtageskarte",
+          "price": 4.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Schwimmbad Hall",
+      "category": "schwimmbad",
+      "address": "Scheidenstein 3, 6060 Hall in Tirol",
+      "lat": 47.2861,
+      "lon": 11.5019,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Hallenbad ganzjährig, Freibad im Sommer (siehe Website)",
+      "notes": "",
+      "url": "https://www.freizeit-hall.at",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 6.5,
+          "audience": "general"
+        },
+        {
+          "name": "Abendkarte",
+          "price": 4.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Schwimmbad Inzing",
+      "category": "schwimmbad",
+      "address": "Kohlstatt 2, 6401 Inzing",
+      "lat": 47.2789,
+      "lon": 11.1911,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "summer",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommersaison (ca. Mai–Sept), siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 5.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Schwimmbad Mieders",
+      "category": "schwimmbad",
+      "address": "Dorfstraße 19, 6142 Mieders",
+      "lat": 47.1694,
+      "lon": 11.3814,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "summer",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommersaison (Juni–Aug), siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 5.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Schwimmbad Mutters",
+      "category": "schwimmbad",
+      "address": "Schulgasse 4, 6162 Mutters",
+      "lat": 47.2258,
+      "lon": 11.3789,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "summer",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommersaison (ca. Mai–Sept), siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 6.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Erlebnisschwimmbad Schwaz",
+      "category": "schwimmbad",
+      "address": "Innsbruckerstraße 72, 6130 Schwaz",
+      "lat": 47.3447,
+      "lon": 11.706,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "summer",
+      "occupancy": "https://www.schwaz.at/schwimmbadauslastung/",
+      "desc": "Erlebnisfreibad mit Rutsche, Sprungbecken und Liegewiese.",
+      "hours": "Sommersaison, ca. 09:00–19:00 (ohne Gewähr)",
+      "notes": "",
+      "url": "https://www.schwaz.at",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 6.5,
+          "audience": "general"
+        },
+        {
+          "name": "Abendkarte",
+          "price": 3.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Strandperle Seefeld",
+      "category": "schwimmbad",
+      "address": "Innsbrucker Straße 500, 6100 Seefeld",
+      "lat": 47.3236,
+      "lon": 11.1917,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "summer",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Badesaison im Sommer (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 7.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Freischwimmbad Steinach",
+      "category": "schwimmbad",
+      "address": "Rathausplatz 1, 6150 Steinach am Brenner",
+      "lat": 47.0919,
+      "lon": 11.4789,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "summer",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommersaison (ca. Mai–Sept), siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 5.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Badeanlage Zirl",
+      "category": "schwimmbad",
+      "address": "Bühelstraße 1, 6170 Zirl",
+      "lat": 47.2711,
+      "lon": 11.2464,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "summer",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommersaison (ca. Mai–Sept), siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Tageskarte",
+          "price": 5.5,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Museum Wattens",
+      "category": "museum",
+      "address": "Innsbrucker Str. 3, 6112 Wattens",
+      "lat": 47.2917,
+      "lon": 11.5914,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Zeiten siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "",
+      "tickets": [
+        {
+          "name": "Eintritt",
+          "price": 8.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Tiroler Landesmuseen",
+      "category": "museum",
+      "address": "Museumstraße 15, 6020 Innsbruck",
+      "lat": 47.268,
+      "lon": 11.3955,
+      "price": 0.0,
+      "maxEntries": 3,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Di–So, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Laut AGB 3 Zutritte pro Saison.",
+      "url": "https://www.tiroler-landesmuseen.at",
+      "tickets": [
+        {
+          "name": "Kombikarte",
+          "price": 14.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Museum der Völker Schwaz",
+      "category": "museum",
+      "address": "St. Martin 16, 6130 Schwaz",
+      "lat": 47.3425,
+      "lon": 11.7022,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Zeiten siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "https://www.museumdervoelker.com",
+      "tickets": [
+        {
+          "name": "Eintritt",
+          "price": 10.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Swarovski Kristallwelten",
+      "category": "museum",
+      "address": "Swarovskistraße 30, 6112 Wattens",
+      "lat": 47.3033,
+      "lon": 11.644,
+      "price": 0.0,
+      "maxEntries": 3,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "Kunst-/Erlebniswelt rund um Kristall: Wunderkammern, Riese, Spielturm, Garten.",
+      "hours": "tägl. 09:00–19:00 (ohne Gewähr)",
+      "notes": "Laut AGB 3 Zutritte pro Saison.",
+      "url": "https://kristallwelten.swarovski.com",
+      "tickets": [
+        {
+          "name": "Tagesticket Erwachsener",
+          "price": 25.0,
+          "audience": "adult"
+        },
+        {
+          "name": "Tagesticket Kind",
+          "price": 9.0,
+          "audience": "child"
+        }
+      ]
+    },
+    {
+      "name": "Audioversum Innsbruck",
+      "category": "museum",
+      "address": "Wilhelm-Greil-Straße 23, 6020 Innsbruck",
+      "lat": 47.2655,
+      "lon": 11.3956,
+      "price": 0.0,
+      "maxEntries": 3,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Di–So, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Laut AGB 3 Zutritte pro Saison.",
+      "url": "https://www.audioversum.at",
+      "tickets": [
+        {
+          "name": "Eintritt Erwachsener",
+          "price": 11.0,
+          "audience": "adult"
+        },
+        {
+          "name": "Familienticket",
+          "price": 22.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Museum Goldenes Dachl",
+      "category": "museum",
+      "address": "Herzog-Friedrich-Straße 15, 6020 Innsbruck",
+      "lat": 47.2686,
+      "lon": 11.3933,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Zeiten siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "https://www.innsbruck.gv.at",
+      "tickets": [
+        {
+          "name": "Eintritt",
+          "price": 6.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Glockenmuseum Grassmayr",
+      "category": "museum",
+      "address": "Leopoldstraße 53, 6020 Innsbruck",
+      "lat": 47.2572,
+      "lon": 11.3978,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Mo–Sa, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "https://www.grassmayr.at",
+      "tickets": [
+        {
+          "name": "Eintritt",
+          "price": 10.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Stadtarchiv / Stadtmuseum Innsbruck",
+      "category": "museum",
+      "address": "Badgasse 2, 6020 Innsbruck",
+      "lat": 47.2692,
+      "lon": 11.3936,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Zeiten siehe Website (ohne Gewähr)",
+      "notes": "",
+      "url": "https://www.innsbruck.gv.at",
+      "tickets": [
+        {
+          "name": "Eintritt",
+          "price": 6.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Münze Hall",
+      "category": "museum",
+      "address": "Burg Hasegg 6, 6060 Hall in Tirol",
+      "lat": 47.281,
+      "lon": 11.511,
+      "price": 0.0,
+      "maxEntries": 3,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Di–So, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Laut AGB 3 Zutritte pro Saison.",
+      "url": "https://www.muenze-hall.at",
+      "tickets": [
+        {
+          "name": "Eintritt inkl. Turm",
+          "price": 12.0,
+          "audience": "general"
+        },
+        {
+          "name": "Nur Museum",
+          "price": 9.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Tiroler Abend mit Familie Gundolf",
+      "category": "museum",
+      "address": "Aurain 1, 6063 Rum",
+      "lat": 47.2847,
+      "lon": 11.4428,
+      "price": 0.0,
+      "maxEntries": 3,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Abendveranstaltung, siehe Website (ohne Gewähr)",
+      "notes": "Laut AGB 3 Zutritte pro Saison.",
+      "url": "https://www.tiroler-abend.at",
+      "tickets": [
+        {
+          "name": "Eintritt & Getränk",
+          "price": 35.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Sauna Höttinger Au",
+      "category": "sauna",
+      "address": "Fürstenweg 12, 6020 Innsbruck",
+      "lat": 47.269,
+      "lon": 11.3717,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "https://www.ikb.at/baeder/auslastung",
+      "desc": "",
+      "hours": "Ganzjährig, Zeiten siehe IKB (ohne Gewähr)",
+      "notes": "Sauna laut AGB tarifpflichtig – Anrechnung je nach Bedingungen.",
+      "url": "https://www.ikb.at/baeder",
+      "tickets": [
+        {
+          "name": "4-Stunden-Karte",
+          "price": 18.8,
+          "audience": "general"
+        },
+        {
+          "name": "Ermäßigt (bis 14h)",
+          "price": 15.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Sauna Amraserstraße",
+      "category": "sauna",
+      "address": "Amraser Straße 3, 6020 Innsbruck",
+      "lat": 47.262,
+      "lon": 11.417,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "https://www.ikb.at/baeder/auslastung",
+      "desc": "",
+      "hours": "Ganzjährig, Zeiten siehe IKB (ohne Gewähr)",
+      "notes": "Zutritt ab 16 Jahren. Sauna laut AGB tarifpflichtig.",
+      "url": "https://www.ikb.at/baeder",
+      "tickets": [
+        {
+          "name": "4-Stunden-Karte",
+          "price": 21.2,
+          "audience": "general"
+        },
+        {
+          "name": "Ermäßigt (bis 14h)",
+          "price": 17.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Sauna Olympisches Dorf",
+      "category": "sauna",
+      "address": "Kugelfangweg 46, 6020 Innsbruck",
+      "lat": 47.2868,
+      "lon": 11.4178,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "https://www.ikb.at/baeder/auslastung",
+      "desc": "",
+      "hours": "Ganzjährig, Zeiten siehe IKB (ohne Gewähr)",
+      "notes": "Familien-/Damensauna je nach Tag. Laut AGB tarifpflichtig.",
+      "url": "https://www.ikb.at/baeder",
+      "tickets": [
+        {
+          "name": "4-Stunden-Karte",
+          "price": 18.8,
+          "audience": "general"
+        },
+        {
+          "name": "Jugendtarif",
+          "price": 11.3,
+          "audience": "youth"
+        }
+      ]
+    },
+    {
+      "name": "Dampfbad Salurner Straße",
+      "category": "sauna",
+      "address": "Salurner Straße 6, 6020 Innsbruck",
+      "lat": 47.2625,
+      "lon": 11.395,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Ganzjährig, Zeiten siehe IKB (ohne Gewähr)",
+      "notes": "Art-Déco-Saunaanlage. Laut AGB tarifpflichtig.",
+      "url": "https://www.ikb.at/baeder",
+      "tickets": [
+        {
+          "name": "4-Stunden-Karte",
+          "price": 22.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tageskarte",
+          "price": 26.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Sauna Telfer Bad",
+      "category": "sauna",
+      "address": "Weißenbachgasse 17, 6410 Telfs",
+      "lat": 47.306,
+      "lon": 11.07,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "https://www.telferbad.at",
+      "desc": "",
+      "hours": "Ganzjährig, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Sauna im Telfer Bad.",
+      "url": "https://www.telferbad.at",
+      "tickets": [
+        {
+          "name": "4-Stunden-Karte",
+          "price": 20.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tageskarte",
+          "price": 25.0,
+          "audience": "general"
+        }
+      ]
+    }
+  ]
+}
