@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "facilities": [
     {
       "name": "Hungerburgbahn (Nordkette)",
@@ -238,13 +238,38 @@
       "url": "https://www.rangger-koepfl.at",
       "tickets": [
         {
-          "name": "Tagesticket Sommer",
+          "name": "1 Fahrtenkarte Sommer",
+          "price": 15.0,
+          "audience": "general"
+        },
+        {
+          "name": "2 Fahrtenkarte Sommer",
+          "price": 21.0,
+          "audience": "general"
+        },
+        {
+          "name": "3 Fahrtenkarte Sommer",
+          "price": 26.0,
+          "audience": "general"
+        },
+        {
+          "name": "4 Fahrtenkarte Sommer",
+          "price": 30.0,
+          "audience": "general"
+        },
+        {
+          "name": "5 Fahrtenkarte Sommer",
+          "price": 34.0,
+          "audience": "general"
+        },
+        {
+          "name": "6 Fahrtenkarte Sommer",
           "price": 36.0,
           "audience": "general"
         },
         {
           "name": "Tagesticket Ski (Winter)",
-          "price": 42.0,
+          "price": 47.0,
           "audience": "general"
         }
       ]
@@ -263,14 +288,14 @@
       "winterPrice": 0.0,
       "season": "yearRound",
       "occupancy": "",
-      "desc": "Größtes Gletscherskigebiet Österreichs. Schneesicher, Gletscherbahnen bis 3.210 m, Aussichtsplattform Top of Tyrol. Sommerbetrieb ab Ende Juni.",
+      "desc": "Größtes Gletscherskigebiet Österreichs. Schneesicher, Gletscherbahnen bis 3.210 m, Aussichtsplattform Top of Tyrol. Sommerbetrieb ab Ende Juni. Ticketpreise variieren - Ticketshop auf Webseite überprüfen.",
       "hours": "saisonal",
       "notes": "",
       "url": "https://www.stubaier-gletscher.com",
       "tickets": [
         {
           "name": "Berg- und Talfahrt Sommer (TOP OF TYROL)",
-          "price": 45.0,
+          "price": 40.70,
           "audience": "general"
         },
         {
