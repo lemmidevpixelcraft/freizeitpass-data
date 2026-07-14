@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "facilities": [
     {
       "name": "Hungerburgbahn (Nordkette)",
@@ -295,7 +295,7 @@
       "tickets": [
         {
           "name": "Berg- und Talfahrt Sommer (TOP OF TYROL)",
-          "price": 40.70,
+          "price": 40.7,
           "audience": "general"
         },
         {
@@ -1410,7 +1410,7 @@
       "occupancy": "https://www.ikb.at/baeder/auslastung",
       "desc": "",
       "hours": "Ganzjährig, Zeiten siehe Website (ohne Gewähr)",
-      "notes": "Laut AGB ganztägig; max. 1 IKB-Bad pro Tag. Sauna laut AGB tarifpflichtig – Anrechnung je nach Bedingungen.",
+      "notes": "Laut AGB ganztägig; max. 1 IKB-Bad pro Tag.",
       "url": "https://www.ikb.at/baeder",
       "tickets": [
         {
@@ -1439,7 +1439,7 @@
       "winterPrice": 0.0,
       "season": "yearRound",
       "occupancy": "https://www.ikb.at/baeder/auslastung",
-      "desc": "Sportbad mit Wettkampfbecken (permanente Bahnenabtrennung), Lehrschwimmbecken. Ideal für Bahnenschwimmer. Sauna laut AGB tarifpflichtig - Anrechnung je nach Bedingungen.",
+      "desc": "Sportbad mit Wettkampfbecken (permanente Bahnenabtrennung), Lehrschwimmbecken. Ideal für Bahnenschwimmer.",
       "hours": "Ganzjährig, tägl. wechselnd (siehe IKB)",
       "notes": "Laut AGB 2,5 Std. pro Besuch; max. 1 IKB-Bad pro Tag.",
       "url": "https://www.ikb.at/baeder",
@@ -1470,7 +1470,7 @@
       "winterPrice": 0.0,
       "season": "yearRound",
       "occupancy": "https://www.ikb.at/baeder/auslastung",
-      "desc": "Familienbad mit 2 Riesenrutschen (107 m & 61 m), Babybecken, ganzjährigem Freibecken, Palmengarten. 30–32 °C. Sauna laut AGB tarifpflichtig – Anrechnung je nach Bedingungen.",
+      "desc": "Familienbad mit 2 Riesenrutschen (107 m & 61 m), Babybecken, ganzjährigem Freibecken, Palmengarten. 30–32 °C.",
       "hours": "Ganzjährig, tägl. wechselnd (siehe IKB)",
       "notes": "Laut AGB 4 Std. pro Besuch; max. 1 IKB-Bad pro Tag.",
       "url": "https://www.ikb.at/baeder",
@@ -2187,5 +2187,160 @@
         }
       ]
     },
+    {
+      "name": "Sauna Höttinger Au",
+      "category": "sauna",
+      "address": "Fürstenweg 12, 6020 Innsbruck",
+      "lat": 47.269,
+      "lon": 11.3717,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "https://www.ikb.at/baeder/auslastung",
+      "desc": "",
+      "hours": "Ganzjährig, Zeiten siehe IKB (ohne Gewähr)",
+      "notes": "Sauna laut AGB tarifpflichtig – Anrechnung je nach Bedingungen.",
+      "url": "https://www.ikb.at/baeder",
+      "tickets": [
+        {
+          "name": "4-Stunden-Karte",
+          "price": 18.8,
+          "audience": "general"
+        },
+        {
+          "name": "Ermäßigt (bis 14h)",
+          "price": 15.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Sauna Amraserstraße",
+      "category": "sauna",
+      "address": "Amraser Straße 3, 6020 Innsbruck",
+      "lat": 47.262,
+      "lon": 11.417,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "https://www.ikb.at/baeder/auslastung",
+      "desc": "",
+      "hours": "Ganzjährig, Zeiten siehe IKB (ohne Gewähr)",
+      "notes": "Zutritt ab 16 Jahren. Sauna laut AGB tarifpflichtig.",
+      "url": "https://www.ikb.at/baeder",
+      "tickets": [
+        {
+          "name": "4-Stunden-Karte",
+          "price": 21.2,
+          "audience": "general"
+        },
+        {
+          "name": "Ermäßigt (bis 14h)",
+          "price": 17.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Sauna Olympisches Dorf",
+      "category": "sauna",
+      "address": "Kugelfangweg 46, 6020 Innsbruck",
+      "lat": 47.2868,
+      "lon": 11.4178,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "https://www.ikb.at/baeder/auslastung",
+      "desc": "",
+      "hours": "Ganzjährig, Zeiten siehe IKB (ohne Gewähr)",
+      "notes": "Familien-/Damensauna je nach Tag. Laut AGB tarifpflichtig.",
+      "url": "https://www.ikb.at/baeder",
+      "tickets": [
+        {
+          "name": "4-Stunden-Karte",
+          "price": 18.8,
+          "audience": "general"
+        },
+        {
+          "name": "Jugendtarif",
+          "price": 11.3,
+          "audience": "youth"
+        }
+      ]
+    },
+    {
+      "name": "Dampfbad Salurner Straße",
+      "category": "sauna",
+      "address": "Salurner Straße 6, 6020 Innsbruck",
+      "lat": 47.2625,
+      "lon": 11.395,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Ganzjährig, Zeiten siehe IKB (ohne Gewähr)",
+      "notes": "Art-Déco-Saunaanlage. Laut AGB tarifpflichtig.",
+      "url": "https://www.ikb.at/baeder",
+      "tickets": [
+        {
+          "name": "4-Stunden-Karte",
+          "price": 22.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tageskarte",
+          "price": 26.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Sauna Telfer Bad",
+      "category": "sauna",
+      "address": "Weißenbachgasse 17, 6410 Telfs",
+      "lat": 47.306,
+      "lon": 11.07,
+      "price": 0.0,
+      "maxEntries": 0,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "https://www.telferbad.at",
+      "desc": "",
+      "hours": "Ganzjährig, Zeiten siehe Website (ohne Gewähr)",
+      "notes": "Sauna im Telfer Bad.",
+      "url": "https://www.telferbad.at",
+      "tickets": [
+        {
+          "name": "4-Stunden-Karte",
+          "price": 20.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tageskarte",
+          "price": 25.0,
+          "audience": "general"
+        }
+      ]
+    }
   ]
 }
