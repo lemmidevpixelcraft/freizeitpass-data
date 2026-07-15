@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "facilities": [
     {
       "name": "Hungerburgbahn (Nordkette)",
@@ -22,12 +22,12 @@
       "tickets": [
         {
           "name": "Innsbruck-Hungerburg-Innsbruck",
-          "price": 14,
+          "price": 14.0,
           "audience": "general"
         },
         {
-          "name": "Top of Innsbruck",
-          "price": 56,
+          "name": "Einzelfahrt",
+          "price": 8.4,
           "audience": "general"
         }
       ]
@@ -52,13 +52,13 @@
       "url": "https://nordkette.com",
       "tickets": [
         {
-          "name": "Seegrube Berg- & Talfahrt",
-          "price": 39.0,
+          "name": "Innsbruck-Seegrube Hin- u. Retour",
+          "price": 50.4,
           "audience": "general"
         },
         {
-          "name": "Seegrube Einzelfahrt",
-          "price": 25.5,
+          "name": "Einzelfahrt",
+          "price": 30.2,
           "audience": "general"
         }
       ]
@@ -83,13 +83,13 @@
       "url": "https://nordkette.com",
       "tickets": [
         {
-          "name": "Top of Innsbruck Berg- & Talfahrt",
-          "price": 44.0,
+          "name": "Top of Innsbruck Hin- u. Retour",
+          "price": 56.0,
           "audience": "general"
         },
         {
-          "name": "Hafelekar Einzelfahrt",
-          "price": 29.5,
+          "name": "Einzelfahrt",
+          "price": 33.6,
           "audience": "general"
         }
       ]
@@ -322,21 +322,11 @@
       "desc": "",
       "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
       "notes": "",
-      "url": "https://www.stubai.at/skigebiete/schlick2000",
+      "url": "https://www.schlick2000.at",
       "tickets": [
         {
-          "name": "1x Fulpmes - Mittelstation Froneben und retour",
-          "price": 20.9,
-          "audience": "general"
-        },
-        {
-          "name": "1-Tageskarte, jede Bahn einmal",
-          "price": 39.8,
-          "audience": "general"
-        },
-        {
-          "name": "Berg/Tal (Fulpmes Kreuzjoch u. retour)",
-          "price": 32.3,
+          "name": "Tagesticket Sommer",
+          "price": 33.0,
           "audience": "general"
         },
         {
@@ -363,21 +353,11 @@
       "desc": "",
       "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
       "notes": "Beste Österreichische Sommer-Bergbahn. Sommerticket berechtigt am Kauftag zum Miederer Schwimmbad.",
-      "url": "https://www.stubai.at/skigebiete/serlesbahnen",
+      "url": "https://www.serlesbahnen.com",
       "tickets": [
         {
-          "name": "Berg- & Talfahrt Serlesbahnen",
-          "price": 23.5,
-          "audience": "general"
-        },
-        {
-          "name": "Bergfahrt Serlesbahnen",
-          "price": 15.5,
-          "audience": "general"
-        },
-        {
-          "name": "Talfahrt Serlesbahnen",
-          "price": 15.5,
+          "name": "Tagesticket Sommer",
+          "price": 25.0,
           "audience": "general"
         },
         {
@@ -403,12 +383,12 @@
       "occupancy": "",
       "desc": "",
       "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
-      "notes": "Freizeitticket-Vorteilspartner. Sommer: Wandern, Biken, Paragleiten, Mountainbiken. Größte begehbare Sonnenuhr. Für Tarifdetails Webseite besuchen.",
-      "url": "https://www.stubai.at/skigebiete/elferbahnen",
+      "notes": "Freizeitticket-Vorteilspartner. Sommer: Wandern, Biken, Paragleiten, größte begehbare Sonnenuhr.",
+      "url": "https://www.elferbahnen.at",
       "tickets": [
         {
-          "name": "Berg-und Talfahrt",
-          "price": 22.0,
+          "name": "Tagesticket Sommer",
+          "price": 24.0,
           "audience": "general"
         },
         {
@@ -438,22 +418,7 @@
       "url": "https://www.bergeralm.net",
       "tickets": [
         {
-          "name": "Tal – Mitte Sommer",
-          "price": 14.9,
-          "audience": "general"
-        },
-        {
-          "name": "Tal – Mitte + Retour Sommer",
-          "price": 21.9,
-          "audience": "general"
-        },
-        {
-          "name": "Tal – Berg Sommer",
-          "price": 28.2,
-          "audience": "general"
-        },
-        {
-          "name": "Tal – Berg + Retour Sommer",
+          "name": "Tagesticket Sommer",
           "price": 41.9,
           "audience": "general"
         },
@@ -1924,9 +1889,9 @@
     {
       "name": "Badeanlage Zirl",
       "category": "schwimmbad",
-      "address": "Bühelstraße 1, 6170 Zirl",
-      "lat": 47.2711,
-      "lon": 11.2464,
+      "address": "Schwimmbadweg 12, 6170 Zirl",
+      "lat": 47.2758,
+      "lon": 11.2447,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1938,7 +1903,7 @@
       "desc": "",
       "hours": "Sommersaison (ca. Mai–Sept), siehe Website (ohne Gewähr)",
       "notes": "",
-      "url": "",
+      "url": "https://www.zirl.gv.at",
       "tickets": [
         {
           "name": "Tageskarte",
