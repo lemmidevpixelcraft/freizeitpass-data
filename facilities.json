@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "facilities": [
     {
       "name": "Hungerburgbahn (Nordkette)",
@@ -21,13 +21,13 @@
       "url": "https://nordkette.com",
       "tickets": [
         {
-          "name": "Hungerburg Berg- & Talfahrt",
-          "price": 11.2,
+          "name": "Innsbruck-Hungerburg-Innsbruck",
+          "price": 14,
           "audience": "general"
         },
         {
-          "name": "Hungerburg Einzelfahrt",
-          "price": 8.4,
+          "name": "Top of Innsbruck",
+          "price": 56,
           "audience": "general"
         }
       ]
