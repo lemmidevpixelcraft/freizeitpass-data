@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "partners": [
     {
       "name": "Merkur Innsbruckathlon",
@@ -120,7 +120,8 @@
       "website": "https://www.wsgtirol.at",
       "address": "Tivoli Stadion, Innsbruck",
       "lat": 47.2558,
-      "lon": 11.4108
+      "lon": 11.4108,
+      "maxUses": 3
     },
     {
       "name": "Kaunertaler Gletscher",
