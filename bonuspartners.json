@@ -148,8 +148,30 @@
     {
       "name": "Holiday on Ice 2027",
       "discount": "15 %",
-      "detail": "\"−15 % für „Cinema of Dreams\" in oeticket-VVK und an der Abendkassa.\",\n              category: \"Kultur\", code: nil, website: \"https://www.holidayonice.com\", address: \"Olympiaworld Innsbruck\", lat: 47.2625, lon: 11.4083),\n        .init(name: \"Invibe\", discount: \"+2 Monate gratis\",\n              detail: \"+2 Monate gratis zu jeder neuen Jahresmitgliedschaft. Ein Abo für ganz Tirol.\",\n              category: \"Sport\", code: nil, website: \"https://www.invibe.at\", address: \"Tirol\", lat: nil, lon: nil),\n        .init(name: \"Casinos Innsbruck / Seefeld / Kitzbühel\", discount: \"€ 7",
-      "category": "",
+      "detail": "-15 % für \"Cinema of Dreams\" in oeticket-VVK und an der Abendkassa.",
+      "category": "Kultur",
+      "code": null,
+      "website": "https://www.holidayonice.com",
+      "address": "Olympiaworld Innsbruck",
+      "lat": 47.2625,
+      "lon": 11.4083
+    },
+    {
+      "name": "Invibe",
+      "discount": "+2 Monate gratis",
+      "detail": "+2 Monate gratis zu jeder neuen Jahresmitgliedschaft. Ein Abo für ganz Tirol.",
+      "category": "Sport",
+      "code": null,
+      "website": "https://www.invibe.at",
+      "address": "Tirol",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Casinos Innsbruck / Seefeld / Kitzbühel",
+      "discount": "€ 7",
+      "detail": null,
+      "category": null,
       "code": null,
       "website": null,
       "address": null,
