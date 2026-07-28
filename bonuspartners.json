@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 23,
   "partners": [
     {
       "name": "Merkur Innsbruckathlon",
@@ -8,7 +8,7 @@
       "category": "Sport",
       "code": "FREIZEIT25",
       "website": "https://www.innsbruckathlon.at",
-      "address": "Innsbruck",
+      "address": "Rennweg (Landestheater Vorplatz), 6020 Innsbruck",
       "lat": 47.2692,
       "lon": 11.3933
     },
@@ -18,10 +18,10 @@
       "detail": "10 % auf alle Anwendungen, online mit Code oder vor Ort bei Vorlage des Tickets. Keine Doppelrabattierung.",
       "category": "Wellness",
       "code": "FREIZEIT10",
-      "website": null,
-      "address": "Innsbruck",
-      "lat": null,
-      "lon": null
+      "website": "https://www.corthea.com",
+      "address": "Erlerstraße 4, 6020 Innsbruck",
+      "lat": 47.2667,
+      "lon": 11.3957
     },
     {
       "name": "Silvretta Therme Ischgl",
@@ -30,7 +30,7 @@
       "category": "Wellness",
       "code": null,
       "website": "https://www.silvretta-therme.at",
-      "address": "Ischgl",
+      "address": "Thermenweg 1, 6561 Ischgl",
       "lat": 47.0114,
       "lon": 10.2906
     },
@@ -41,9 +41,9 @@
       "category": "Sport",
       "code": null,
       "website": "https://www.raiders.at",
-      "address": "Innsbruck",
-      "lat": null,
-      "lon": null
+      "address": "Stadionstraße 1, 6020 Innsbruck",
+      "lat": 47.2558,
+      "lon": 11.4108
     },
     {
       "name": "Raiders Tirol – Basketball",
@@ -52,9 +52,9 @@
       "category": "Sport",
       "code": null,
       "website": "https://www.raiders.at",
-      "address": "Innsbruck",
-      "lat": null,
-      "lon": null
+      "address": "Stadionstraße 1, 6020 Innsbruck",
+      "lat": 47.2558,
+      "lon": 11.4108
     },
     {
       "name": "Padelfield Tirol",
@@ -63,9 +63,9 @@
       "category": "Sport",
       "code": "Freizeit25",
       "website": "https://www.padel-field.at",
-      "address": "Tirol",
-      "lat": null,
-      "lon": null
+      "address": "Valiergasse 15, 6020 Innsbruck",
+      "lat": 47.2631,
+      "lon": 11.4253
     },
     {
       "name": "192m-Bungy Europabrücke",
@@ -73,8 +73,8 @@
       "detail": "Bis € 60,- Ermäßigung beim Online-Kauf eines Jumps (€ 169 statt € 239 vor Ort). Produkt: 192m-Bungy Europabrücke.",
       "category": "Erlebnis",
       "code": "192m-eb-freizeit",
-      "website": "https://www.bungy.at",
-      "address": "Europabrücke, Schönberg",
+      "website": "https://www.europabruecke.at",
+      "address": "Europabrücke, 6141 Schönberg im Stubaital",
       "lat": 47.2089,
       "lon": 11.4019
     },
@@ -84,10 +84,10 @@
       "detail": "10 % auf reguläre Eintrittspreise an der Kassa. Nicht mit anderen Rabatten kombinierbar.",
       "category": "Erlebnis",
       "code": null,
-      "website": null,
-      "address": "Tirol",
-      "lat": null,
-      "lon": null
+      "website": "https://www.experiencetirol.com",
+      "address": "Maria-Theresien-Straße 31 (Kaufhaus Tyrol), 6020 Innsbruck",
+      "lat": 47.2655,
+      "lon": 11.3941
     },
     {
       "name": "Your Dome",
@@ -95,10 +95,10 @@
       "detail": "€ 2,- Ermäßigung auf den regulären Ticketpreis für Erwachsene und Kinder.",
       "category": "Erlebnis",
       "code": null,
-      "website": null,
-      "address": null,
-      "lat": null,
-      "lon": null
+      "website": "https://www.yourdome.tirol",
+      "address": "Alte Landstraße 15, 6130 Schwaz",
+      "lat": 47.3482,
+      "lon": 11.7145
     },
     {
       "name": "IBSF Weltcup",
@@ -106,8 +106,8 @@
       "detail": "50 % auf Tickets an der Tageskassa (28.–30.11.2025).",
       "category": "Sport",
       "code": null,
-      "website": null,
-      "address": "Olympia Eiskanal, Igls",
+      "website": "https://www.olympiaworld.at",
+      "address": "Heiligwasserwiese 1 (Olympia Eiskanal), 6080 Igls",
       "lat": 47.2261,
       "lon": 11.4267
     },
@@ -117,8 +117,8 @@
       "detail": "3 Eintritte pro Jahr zu Bundesliga-Heimspielen im Tivoli Stadion (eigene FTT-Kassa Ostseite).",
       "category": "Sport",
       "code": null,
-      "website": "https://www.wsgtirol.at",
-      "address": "Tivoli Stadion, Innsbruck",
+      "website": "https://www.wsg-fussball.at",
+      "address": "Stadionstraße 1 (Tivoli Stadion), 6020 Innsbruck",
       "lat": 47.2558,
       "lon": 11.4108,
       "maxUses": 3
@@ -130,9 +130,9 @@
       "category": "Erlebnis",
       "code": null,
       "website": "https://www.kaunertaler-gletscher.at",
-      "address": "Feichten, Kaunertal",
+      "address": "Gletscherstraße, 6524 Feichten im Kaunertal",
       "lat": 46.8669,
-      "lon": 10.733
+      "lon": 10.7330
     },
     {
       "name": "Pitztaler Gletscher",
@@ -141,7 +141,7 @@
       "category": "Erlebnis",
       "code": null,
       "website": "https://www.pitztaler-gletscher.at",
-      "address": "Mittelberg, St. Leonhard",
+      "address": "Mittelberg, 6481 St. Leonhard im Pitztal",
       "lat": 46.9286,
       "lon": 10.8728
     },
@@ -152,9 +152,9 @@
       "category": "Kultur",
       "code": null,
       "website": "https://www.holidayonice.com",
-      "address": "Olympiaworld Innsbruck",
-      "lat": 47.2625,
-      "lon": 11.4083
+      "address": "Olympiastraße 10 (Olympiahalle), 6020 Innsbruck",
+      "lat": 47.2580,
+      "lon": 11.4090
     },
     {
       "name": "Invibe",
@@ -163,9 +163,9 @@
       "category": "Sport",
       "code": null,
       "website": "https://www.invibe.at",
-      "address": "Tirol",
-      "lat": null,
-      "lon": null
+      "address": "Diverse Standorte (z.B. Grabenweg 68, 6020 Innsbruck)",
+      "lat": 47.2642,
+      "lon": 11.4312
     },
     {
       "name": "Casinos Innsbruck / Seefeld / Kitzbühel",
@@ -173,10 +173,10 @@
       "detail": "Begrüßungsjetons im Wert von € 30,- um € 23,- und ein Glas Sekt. 3x einzulösen in den Casinos Innsbruck, Seefeld, Kitzbühel.",
       "category": "Erlebnis",
       "code": null,
-      "website": null,
-      "address": "Innsbruck, Seefeld, Kitzbühel",
-      "lat": null,
-      "lon": null
+      "website": "https://www.casinos.at",
+      "address": "Salurner Straße 15, 6020 Innsbruck (u.a.)",
+      "lat": 47.2638,
+      "lon": 11.3965
     },
     {
       "name": "Lumagica Innsbruck",
@@ -184,10 +184,10 @@
       "detail": "Eine leuchtende Reise um die Welt (14.11.2025 bis 01.02.2026). -20% auf Kinder und Erwachsenen Preis (kein Familienticket).",
       "category": "Erlebnis",
       "code": "FREIZEITTICKET25",
-      "website": null,
-      "address": "Innsbruck",
-      "lat": null,
-      "lon": null
+      "website": "https://www.lumagica.com",
+      "address": "Rennweg (Hofgarten), 6020 Innsbruck",
+      "lat": 47.2727,
+      "lon": 11.3976
     },
     {
       "name": "Lumagica Ehrenberg/Reutte",
@@ -195,10 +195,10 @@
       "detail": "Zauberhafter Lichterpark (14.11.2025 bis 22.02.2026). -20% auf Kinder und Erwachsenen Preis (kein Familienticket).",
       "category": "Erlebnis",
       "code": "FREIZEITTICKET25",
-      "website": null,
-      "address": "Reutte",
-      "lat": null,
-      "lon": null
+      "website": "https://www.lumagica.com",
+      "address": "Klause 1 (Burgruine Ehrenberg), 6600 Reutte",
+      "lat": 47.4640,
+      "lon": 10.7180
     },
     {
       "name": "Air 4 You Tandemflüge",
@@ -206,10 +206,10 @@
       "detail": "€ 20,- Rabatt auf deinen Gleitschirm-Tandemflug im Stubaital.",
       "category": "Erlebnis",
       "code": null,
-      "website": null,
-      "address": "Stubaital",
-      "lat": null,
-      "lon": null
+      "website": "https://www.air4you.at",
+      "address": "Moos 12, 6167 Neustift im Stubaital",
+      "lat": 47.1085,
+      "lon": 11.3060
     },
     {
       "name": "METROPOL – Tirols Multiplex",
@@ -217,10 +217,10 @@
       "detail": "20 % Rabatt auf den Vollpreis deines Kinotickets.",
       "category": "Kultur",
       "code": null,
-      "website": null,
-      "address": "Innsbruck",
-      "lat": null,
-      "lon": null
+      "website": "https://www.metropol-kino.at",
+      "address": "Innstraße 5, 6020 Innsbruck",
+      "lat": 47.2693,
+      "lon": 11.3934
     },
     {
       "name": "Body & Soul",
@@ -228,10 +228,10 @@
       "detail": "10 % auf alle Tarife bei einer Neu-Mitgliedschaft und die Aufnahmegebühr gratis (statt € 99).",
       "category": "Sport",
       "code": null,
-      "website": null,
-      "address": "Tirol",
-      "lat": null,
-      "lon": null
+      "website": "https://www.bodyandsoul.at",
+      "address": "Mitterweg 16, 6020 Innsbruck",
+      "lat": 47.2642,
+      "lon": 11.3731
     },
     {
       "name": "FLIP LAB Innsbruck",
@@ -239,10 +239,10 @@
       "detail": "3 € Rabatt auf deine FLIPTIME. Bei Onlinebuchungen Code verwenden.",
       "category": "Erlebnis",
       "code": "FTT2021",
-      "website": null,
-      "address": "Innsbruck",
-      "lat": null,
-      "lon": null
+      "website": "https://www.fliplab.at/innsbruck",
+      "address": "Gießenweg 15 (Cyta Areal), 6176 Völs",
+      "lat": 47.2570,
+      "lon": 11.3260
     },
     {
       "name": "FLIP ON Bewegung berührt",
@@ -250,8 +250,8 @@
       "detail": "15 % Rabatt auf Massagen und die angebotenen Kurse.",
       "category": "Wellness",
       "code": null,
-      "website": null,
-      "address": null,
+      "website": "https://www.flip-on.at",
+      "address": "Tirol (Online Buchung)",
       "lat": null,
       "lon": null
     },
@@ -261,10 +261,10 @@
       "detail": "20 % Rabatt auf alle Gruppenkurse.",
       "category": "Sport",
       "code": null,
-      "website": null,
-      "address": "Seefeld",
-      "lat": null,
-      "lon": null
+      "website": "https://www.seefeldgolf.com",
+      "address": "Reitherspitzstraße 632, 6100 Seefeld in Tirol",
+      "lat": 47.3323,
+      "lon": 11.1925
     },
     {
       "name": "Naturmentalcoaching",
@@ -272,8 +272,8 @@
       "detail": "20 % Rabatt auf alle Produkte in der Rubrik Naturmentalcoach im Onlineshop.",
       "category": "Wellness",
       "code": "5b1fb85",
-      "website": null,
-      "address": null,
+      "website": "https://www.naturmentalcoach.com",
+      "address": "Online",
       "lat": null,
       "lon": null
     },
@@ -283,10 +283,10 @@
       "detail": "3-Stunden-Pass für den Banger Park Scharnitz um EUR 35 (statt EUR 50).",
       "category": "Erlebnis",
       "code": null,
-      "website": null,
-      "address": "Scharnitz",
-      "lat": null,
-      "lon": null
+      "website": "https://www.bangerpark.com",
+      "address": "Innsbrucker Str. 367, 6108 Scharnitz",
+      "lat": 47.3890,
+      "lon": 11.2650
     },
     {
       "name": "THE FLYING SOFA",
@@ -294,10 +294,10 @@
       "detail": "10 % Rabatt auf alle Gästeflüge (Rund- und Taxiflüge vom Innsbruck Airport).",
       "category": "Erlebnis",
       "code": null,
-      "website": null,
-      "address": "Innsbruck",
-      "lat": null,
-      "lon": null
+      "website": "https://www.theflyingsofa.at",
+      "address": "Fürstenweg 180 (Flughafen), 6020 Innsbruck",
+      "lat": 47.2596,
+      "lon": 11.3485
     },
     {
       "name": "Up Stream Surfing",
@@ -305,10 +305,10 @@
       "detail": "20 % Rabatt auf eine Up Stream Surfing Session. Ausgenommen reduzierte Leistungen/Gutscheine.",
       "category": "Sport",
       "code": "Freizeitticket2021",
-      "website": null,
-      "address": null,
-      "lat": null,
-      "lon": null
+      "website": "https://www.upstreamsurfing.com",
+      "address": "Kranebitter Allee, 6020 Innsbruck",
+      "lat": 47.2620,
+      "lon": 11.3430
     },
     {
       "name": "Inntour Active Holidays",
@@ -316,8 +316,8 @@
       "detail": "12 % Rabatt auf alle buchbaren Radreisen (ausgenommen Halbpension, Radverleih etc.).",
       "category": "Erlebnis",
       "code": null,
-      "website": null,
-      "address": null,
+      "website": "https://www.inntour.at",
+      "address": "Online Buchung",
       "lat": null,
       "lon": null
     },
@@ -327,8 +327,8 @@
       "detail": "10% Rabatt auf deine Online-Buchung für Mietboote (Naturgebiet des Inn).",
       "category": "Erlebnis",
       "code": "Freizeitticket",
-      "website": null,
-      "address": "Innsbruck",
+      "website": "https://www.mietboot.at",
+      "address": "Innsbruck (Inn)",
       "lat": null,
       "lon": null
     },
@@ -338,10 +338,10 @@
       "detail": "15 % Rabatt auf Aktivitäten wie Biketouren, Wanderungen, Klettersteige, Canyoning, Rafting, Paragleiten uvm.",
       "category": "Erlebnis",
       "code": null,
-      "website": null,
-      "address": "Seefeld",
-      "lat": null,
-      "lon": null
+      "website": "https://www.bergschule-tirol.at",
+      "address": "Olympiastraße, 6100 Seefeld in Tirol",
+      "lat": 47.3290,
+      "lon": 11.1890
     },
     {
       "name": "Malkurse mit Silvia Paizoni",
@@ -349,8 +349,8 @@
       "detail": "10 % Rabatt auf die angebotenen Kurse beim ausgebildeten Bob Ross® Instruktor.",
       "category": "Kultur",
       "code": null,
-      "website": null,
-      "address": null,
+      "website": "https://www.malkurse-tirol.at",
+      "address": "Innsbruck",
       "lat": null,
       "lon": null
     },
@@ -360,10 +360,10 @@
       "detail": "15% Rabatt auf nicht reduzierte Ware im Mons Royale Store Innsbruck.",
       "category": "Einkaufen",
       "code": null,
-      "website": null,
-      "address": "Innsbruck",
-      "lat": null,
-      "lon": null
+      "website": "https://eu.monsroyale.com",
+      "address": "Maria-Theresien-Straße 42, 6020 Innsbruck",
+      "lat": 47.2642,
+      "lon": 11.3948
     },
     {
       "name": "CORTHEA CONCEPT STORE",
@@ -371,10 +371,10 @@
       "detail": "Preisvorteil von 10 % im CORTHEA Concept Store auf das gesamte Sortiment (vor Ort oder online für Supplements).",
       "category": "Einkaufen",
       "code": "FREIZEIT10",
-      "website": null,
-      "address": "Innsbruck",
-      "lat": null,
-      "lon": null
+      "website": "https://www.corthea.com",
+      "address": "Erlerstraße 4, 6020 Innsbruck",
+      "lat": 47.2667,
+      "lon": 11.3957
     },
     {
       "name": "Sport Stubai",
@@ -382,10 +382,10 @@
       "detail": "10 % Rabatt auf Verleih (Winter) und Verkauf (ausg. reduzierte Ware, Gutscheine) in Neustift.",
       "category": "Einkaufen",
       "code": null,
-      "website": null,
-      "address": "Neustift im Stubaital",
-      "lat": null,
-      "lon": null
+      "website": "https://www.sportstubai.at",
+      "address": "Dorf 3, 6167 Neustift im Stubaital",
+      "lat": 47.1100,
+      "lon": 11.3065
     },
     {
       "name": "Melon Optics",
@@ -393,10 +393,10 @@
       "detail": "10 % Rabatt im Melon Optics Flagship Store am Adolf-Pichler-Platz auf das gesamte Sortiment.",
       "category": "Einkaufen",
       "code": null,
-      "website": null,
-      "address": "Innsbruck",
-      "lat": null,
-      "lon": null
+      "website": "https://www.melonoptics.com",
+      "address": "Adolf-Pichler-Platz, 6020 Innsbruck",
+      "lat": 47.2651,
+      "lon": 11.3917
     },
     {
       "name": "Odlo Store Innsbruck",
@@ -404,10 +404,10 @@
       "detail": "10% Rabatt auf nicht reduzierte Ware in der Maria-Theresien-Straße.",
       "category": "Einkaufen",
       "code": null,
-      "website": null,
-      "address": "Innsbruck",
-      "lat": null,
-      "lon": null
+      "website": "https://www.odlo.com",
+      "address": "Maria-Theresien-Straße 57, 6020 Innsbruck",
+      "lat": 47.2635,
+      "lon": 11.3952
     },
     {
       "name": "Eleonto",
@@ -415,8 +415,8 @@
       "detail": "15 % Rabatt beim Tiroler Online Elektronik-Spezialist.",
       "category": "Einkaufen",
       "code": "FZTELEONTO23",
-      "website": null,
-      "address": "Kundl",
+      "website": "https://www.eleonto.com",
+      "address": "Online",
       "lat": null,
       "lon": null
     },
@@ -426,8 +426,8 @@
       "detail": "5 % Rabatt auf das Walkie-Talkie für Outdoor und Action Fans.",
       "category": "Einkaufen",
       "code": "FZTMILO23",
-      "website": null,
-      "address": null,
+      "website": "https://www.okmilo.com",
+      "address": "Online",
       "lat": null,
       "lon": null
     },
@@ -437,10 +437,10 @@
       "detail": "10 % Rabatt auf das Sortiment bzw. 5 % Rabatt auf Kletterseile (ausg. rabattierte Artikel, Lebensmittel).",
       "category": "Einkaufen",
       "code": null,
-      "website": null,
-      "address": "Innsbruck",
-      "lat": null,
-      "lon": null
+      "website": "https://www.bolting.eu",
+      "address": "Andechsstraße 85, 6020 Innsbruck",
+      "lat": 47.2685,
+      "lon": 11.4172
     },
     {
       "name": "DELAYON Eyewear",
@@ -448,8 +448,8 @@
       "detail": "20% Rabatt auf alle Produkte (ausgenommen Outlet).",
       "category": "Einkaufen",
       "code": "FZT20",
-      "website": null,
-      "address": null,
+      "website": "https://www.delayon-eyewear.at",
+      "address": "Online",
       "lat": null,
       "lon": null
     },
@@ -459,10 +459,10 @@
       "detail": "10 % Rabatt auf deinen funkelnden Einkauf in Innsbruck und Fulpmes.",
       "category": "Einkaufen",
       "code": null,
-      "website": null,
-      "address": "Innsbruck, Fulpmes",
-      "lat": null,
-      "lon": null
+      "website": "https://www.appelt.at",
+      "address": "Herzog-Friedrich-Straße 21, 6020 Innsbruck",
+      "lat": 47.2682,
+      "lon": 11.3931
     },
     {
       "name": "Burton Store Innsbruck",
@@ -470,10 +470,10 @@
       "detail": "10 % Rabatt auf das gesamte Angebot im Burton Flagshipstore (Haller Straße).",
       "category": "Einkaufen",
       "code": null,
-      "website": null,
-      "address": "Innsbruck",
-      "lat": null,
-      "lon": null
+      "website": "https://www.burton.com",
+      "address": "Haller Straße 111, 6020 Innsbruck",
+      "lat": 47.2730,
+      "lon": 11.4285
     },
     {
       "name": "Naturprodukte aus Tirol",
@@ -481,8 +481,8 @@
       "detail": "20 % Rabatt auf alle Produkte im Onlineshop.",
       "category": "Einkaufen",
       "code": "18582a3",
-      "website": null,
-      "address": null,
+      "website": "https://www.naturprodukte-tirol.com",
+      "address": "Online",
       "lat": null,
       "lon": null
     },
@@ -492,10 +492,10 @@
       "detail": "10 % Ermäßigung auf deinen Einkauf im Shop auf der Seegrube (ausgenommen Schmuck).",
       "category": "Einkaufen",
       "code": null,
-      "website": null,
-      "address": "Innsbruck",
-      "lat": null,
-      "lon": null
+      "website": "https://www.nordkette.com",
+      "address": "Seegrube 1, 6020 Innsbruck",
+      "lat": 47.3040,
+      "lon": 11.3790
     },
     {
       "name": "INTERSPORT OKAY - 3x in Innsbruck",
@@ -503,10 +503,10 @@
       "detail": "10 % Rabatt auf Ski- und Snowboard Textilien (Kaufhaus Tyrol, Landhausplatz, Cyta).",
       "category": "Einkaufen",
       "code": null,
-      "website": null,
-      "address": "Innsbruck, Völs",
-      "lat": null,
-      "lon": null
+      "website": "https://www.intersport-okay.at",
+      "address": "Maria-Theresien-Straße 31 (Kaufhaus Tyrol), 6020 Innsbruck",
+      "lat": 47.2655,
+      "lon": 11.3941
     },
     {
       "name": "Weinshoptirol",
@@ -515,7 +515,7 @@
       "category": "Einkaufen",
       "code": "Freizeitticket",
       "website": "https://www.weinshoptirol.at",
-      "address": null,
+      "address": "Online",
       "lat": null,
       "lon": null
     },
@@ -525,8 +525,8 @@
       "detail": "10 % auf Textilware und 7 % auf Hartware wie Helme, Brillen, Schuhe usw. (ausg. reduzierte Ware).",
       "category": "Einkaufen",
       "code": null,
-      "website": null,
-      "address": null,
+      "website": "https://www.matadorworld.com",
+      "address": "Online",
       "lat": null,
       "lon": null
     },
@@ -537,7 +537,7 @@
       "category": "Einkaufen",
       "code": "ROSSIGNOLINNSBRUCK",
       "website": "https://www.rossignol.com",
-      "address": null,
+      "address": "Online",
       "lat": null,
       "lon": null
     },
@@ -547,10 +547,10 @@
       "detail": "15% auf Bekleidung, Helme und Rucksäcke (ausgenommen bereits reduzierte Ware).",
       "category": "Einkaufen",
       "code": null,
-      "website": null,
-      "address": "Völs",
-      "lat": null,
-      "lon": null
+      "website": "https://www.sport-baumgartner.at",
+      "address": "Bahnhofstraße 10, 6176 Völs",
+      "lat": 47.2562,
+      "lon": 11.3255
     },
     {
       "name": "Sport Bartl",
@@ -558,10 +558,10 @@
       "detail": "10% Rabatt auf das gesamte, reguläre Sortiment (ausgenommen American Football Artikel).",
       "category": "Einkaufen",
       "code": null,
-      "website": null,
-      "address": null,
-      "lat": null,
-      "lon": null
+      "website": "https://www.sport-bartl.at",
+      "address": "Pradler Straße 45, 6020 Innsbruck",
+      "lat": 47.2653,
+      "lon": 11.4087
     }
   ]
 }
