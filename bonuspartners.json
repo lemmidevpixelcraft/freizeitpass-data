@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "partners": [
     {
       "name": "Merkur Innsbruckathlon",
@@ -132,7 +132,7 @@
       "website": "https://www.kaunertaler-gletscher.at",
       "address": "Gletscherstraße, 6524 Feichten im Kaunertal",
       "lat": 46.8669,
-      "lon": 10.7330
+      "lon": 10.733
     },
     {
       "name": "Pitztaler Gletscher",
@@ -153,8 +153,8 @@
       "code": null,
       "website": "https://www.holidayonice.com",
       "address": "Olympiastraße 10 (Olympiahalle), 6020 Innsbruck",
-      "lat": 47.2580,
-      "lon": 11.4090
+      "lat": 47.258,
+      "lon": 11.409
     },
     {
       "name": "Invibe",
@@ -197,8 +197,8 @@
       "code": "FREIZEITTICKET25",
       "website": "https://www.lumagica.com",
       "address": "Klause 1 (Burgruine Ehrenberg), 6600 Reutte",
-      "lat": 47.4640,
-      "lon": 10.7180
+      "lat": 47.464,
+      "lon": 10.718
     },
     {
       "name": "Air 4 You Tandemflüge",
@@ -209,7 +209,7 @@
       "website": "https://www.air4you.at",
       "address": "Moos 12, 6167 Neustift im Stubaital",
       "lat": 47.1085,
-      "lon": 11.3060
+      "lon": 11.306
     },
     {
       "name": "METROPOL – Tirols Multiplex",
@@ -241,8 +241,8 @@
       "code": "FTT2021",
       "website": "https://www.fliplab.at/innsbruck",
       "address": "Gießenweg 15 (Cyta Areal), 6176 Völs",
-      "lat": 47.2570,
-      "lon": 11.3260
+      "lat": 47.257,
+      "lon": 11.326
     },
     {
       "name": "FLIP ON Bewegung berührt",
@@ -285,8 +285,8 @@
       "code": null,
       "website": "https://www.bangerpark.com",
       "address": "Innsbrucker Str. 367, 6108 Scharnitz",
-      "lat": 47.3890,
-      "lon": 11.2650
+      "lat": 47.389,
+      "lon": 11.265
     },
     {
       "name": "THE FLYING SOFA",
@@ -307,8 +307,8 @@
       "code": "Freizeitticket2021",
       "website": "https://www.upstreamsurfing.com",
       "address": "Kranebitter Allee, 6020 Innsbruck",
-      "lat": 47.2620,
-      "lon": 11.3430
+      "lat": 47.262,
+      "lon": 11.343
     },
     {
       "name": "Inntour Active Holidays",
@@ -340,8 +340,8 @@
       "code": null,
       "website": "https://www.bergschule-tirol.at",
       "address": "Olympiastraße, 6100 Seefeld in Tirol",
-      "lat": 47.3290,
-      "lon": 11.1890
+      "lat": 47.329,
+      "lon": 11.189
     },
     {
       "name": "Malkurse mit Silvia Paizoni",
@@ -384,7 +384,7 @@
       "code": null,
       "website": "https://www.sportstubai.at",
       "address": "Dorf 3, 6167 Neustift im Stubaital",
-      "lat": 47.1100,
+      "lat": 47.11,
       "lon": 11.3065
     },
     {
@@ -472,7 +472,7 @@
       "code": null,
       "website": "https://www.burton.com",
       "address": "Haller Straße 111, 6020 Innsbruck",
-      "lat": 47.2730,
+      "lat": 47.273,
       "lon": 11.4285
     },
     {
@@ -494,8 +494,8 @@
       "code": null,
       "website": "https://www.nordkette.com",
       "address": "Seegrube 1, 6020 Innsbruck",
-      "lat": 47.3040,
-      "lon": 11.3790
+      "lat": 47.304,
+      "lon": 11.379
     },
     {
       "name": "INTERSPORT OKAY - 3x in Innsbruck",
