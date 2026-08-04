@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "facilities": [
     {
       "name": "Hungerburgbahn (Nordkette)",
@@ -129,8 +129,8 @@
       "name": "Muttereralm Bergbahnen",
       "category": "bergbahn",
       "address": "Nockhofweg 40, 6162 Mutters",
-      "lat": 47.2286,
-      "lon": 11.3764,
+      "lat": 47.222545998909744,
+      "lon": 11.366281292470198,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -160,8 +160,8 @@
       "name": "Glungezerbahn Tulfes",
       "category": "bergbahn",
       "address": "Glungezerstraße 14, 6075 Tulfes",
-      "lat": 47.2514,
-      "lon": 11.5311,
+      "lat": 47.2563435,
+      "lon": 11.5354142,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -191,8 +191,8 @@
       "name": "Axamer Lizum",
       "category": "bergbahn",
       "address": "Axamer Lizum 6, 6094 Axams",
-      "lat": 47.1961,
-      "lon": 11.3023,
+      "lat": 47.1953914,
+      "lon": 11.3020575,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -222,8 +222,8 @@
       "name": "Rangger Köpfl Oberperfuss",
       "category": "bergbahn",
       "address": "Peter-Anich-Weg 11, 6173 Oberperfuss",
-      "lat": 47.2639,
-      "lon": 11.2422,
+      "lat": 47.2455463,
+      "lon": 11.2374476,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -278,8 +278,8 @@
       "name": "Stubaier Gletscher",
       "category": "bergbahn",
       "address": "Mutterberg 2, 6167 Neustift im Stubaital",
-      "lat": 47.0117,
-      "lon": 11.1242,
+      "lat": 47.0107299,
+      "lon": 11.1550099,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1429,8 +1429,8 @@
       "name": "Hallenbad Höttinger Au",
       "category": "schwimmbad",
       "address": "Fürstenweg 12, 6020 Innsbruck",
-      "lat": 47.26515,
-      "lon": 11.38075,
+      "lat": 47.26508331298828,
+      "lon": 11.381096839904785,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 150,
@@ -1496,8 +1496,8 @@
       "name": "Telfer Bad",
       "category": "schwimmbad",
       "address": "Weißenbachgasse 17, 6410 Telfs",
-      "lat": 47.306,
-      "lon": 11.07,
+      "lat": 47.3049865,
+      "lon": 11.0686682,
       "price": 0.0,
       "maxEntries": 3,
       "timeMin": 0,
@@ -1558,8 +1558,8 @@
       "name": "Natterer See",
       "category": "schwimmbad",
       "address": "Natterer See 1, 6161 Natters",
-      "lat": 47.2347,
-      "lon": 11.3411,
+      "lat": 47.23749415309598,
+      "lon": 11.341297324476077,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1571,7 +1571,7 @@
       "desc": "",
       "hours": "Badesaison im Sommer (ohne Gewähr)",
       "notes": "",
-      "url": "https://www.natterersee.com",
+      "url": "https://www.natterersee.com/badesee/wasserspass",
       "tickets": [
         {
           "name": "Tageskarte",
@@ -1584,8 +1584,8 @@
       "name": "Freischwimmbad Völser Badl",
       "category": "schwimmbad",
       "address": "Blaike 7, 6176 Völs",
-      "lat": 47.25207,
-      "lon": 11.32584,
+      "lat": 47.2525747,
+      "lon": 11.3254314,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1597,7 +1597,7 @@
       "desc": "",
       "hours": "Sommersaison (ca. Mai–Sept), siehe Website (ohne Gewähr)",
       "notes": "",
-      "url": "",
+      "url": "https://www.voels.at/Freischwimmbad_Voelser_Badl_",
       "tickets": [
         {
           "name": "Tageskarte",
@@ -1728,9 +1728,9 @@
     {
       "name": "Schwimmbad Inzing",
       "category": "schwimmbad",
-      "address": "Kohlstatt 2, 6401 Inzing",
-      "lat": 47.2789,
-      "lon": 11.1911,
+      "address": "Sportplatzweg 35, 6401 Inzing",
+      "lat": 47.2751665,
+      "lon": 11.1897786,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1742,11 +1742,11 @@
       "desc": "",
       "hours": "Sommersaison (ca. Mai–Sept), siehe Website (ohne Gewähr)",
       "notes": "",
-      "url": "",
+      "url": "https://www.inzing.gv.at/Unser_Inzing/Schwimmbad",
       "tickets": [
         {
           "name": "Tageskarte",
-          "price": 5.0,
+          "price": 6.5,
           "audience": "general"
         }
       ]
@@ -1780,9 +1780,9 @@
     {
       "name": "Schwimmbad Mutters",
       "category": "schwimmbad",
-      "address": "Schulgasse 4, 6162 Mutters",
-      "lat": 47.2258,
-      "lon": 11.3789,
+      "address": "Birchfeld 39, 6162 Mutters",
+      "lat": 47.2259146,
+      "lon": 11.3681413,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1794,11 +1794,11 @@
       "desc": "",
       "hours": "Sommersaison (ca. Mai–Sept), siehe Website (ohne Gewähr)",
       "notes": "",
-      "url": "",
+      "url": "https://www.mutters.gv.at/Unser_Mutters/Freizeit/Familienbad_Mutters",
       "tickets": [
         {
           "name": "Tageskarte",
-          "price": 6.0,
+          "price": 7.0,
           "audience": "general"
         }
       ]
@@ -1807,8 +1807,8 @@
       "name": "Erlebnisschwimmbad Schwaz",
       "category": "schwimmbad",
       "address": "Innsbruckerstraße 72, 6130 Schwaz",
-      "lat": 47.3447,
-      "lon": 11.706,
+      "lat": 47.3373165,
+      "lon": 11.7049123,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1820,16 +1820,11 @@
       "desc": "Erlebnisfreibad mit Rutsche, Sprungbecken und Liegewiese.",
       "hours": "Sommersaison, ca. 09:00–19:00 (ohne Gewähr)",
       "notes": "",
-      "url": "https://www.schwaz.at",
+      "url": "https://www.schwaz.at/news/aktuelles/newsdetail/familien-und-erlebnisschwimmbad-schwaz/",
       "tickets": [
         {
           "name": "Tageskarte",
-          "price": 6.5,
-          "audience": "general"
-        },
-        {
-          "name": "Abendkarte",
-          "price": 3.5,
+          "price": 5.7,
           "audience": "general"
         }
       ]
@@ -1838,8 +1833,8 @@
       "name": "Strandperle Seefeld",
       "category": "schwimmbad",
       "address": "Innsbrucker Straße 500, 6100 Seefeld",
-      "lat": 47.3236,
-      "lon": 11.1917,
+      "lat": 47.3225485,
+      "lon": 11.1923124,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1849,13 +1844,18 @@
       "season": "summer",
       "occupancy": "",
       "desc": "",
-      "hours": "Badesaison im Sommer (ohne Gewähr)",
+      "hours": "Badesaison im Sommer (siehe Webseite)",
       "notes": "",
-      "url": "",
+      "url": "https://www.restaurant-seefeld.at/sommerwelt",
       "tickets": [
         {
           "name": "Tageskarte",
-          "price": 7.0,
+          "price": 8.4,
+          "audience": "general"
+        },
+        {
+          "name": "Ab 16:00",
+          "price": 5.0,
           "audience": "general"
         }
       ]
@@ -1863,9 +1863,9 @@
     {
       "name": "Freischwimmbad Steinach",
       "category": "schwimmbad",
-      "address": "Erlach 129a, 6150 Steinach am Brenner",
-      "lat": 47.09548,
-      "lon": 11.46849,
+      "address": "Kranebitten 199, 6150 Steinach am Brenner",
+      "lat": 47.09604390437052,
+      "lon": 11.468202233096218,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1877,7 +1877,7 @@
       "desc": "",
       "hours": "Sommersaison (ca. Mai–Sept), siehe Website (ohne Gewähr)",
       "notes": "",
-      "url": "",
+      "url": "https://www.steinach.gv.at/Einrichtungen/Infrastruktur/Schwimmbad",
       "tickets": [
         {
           "name": "Tageskarte",
@@ -1890,8 +1890,8 @@
       "name": "Badeanlage Zirl",
       "category": "schwimmbad",
       "address": "Schwimmbadweg 12, 6170 Zirl",
-      "lat": 47.2758,
-      "lon": 11.2447,
+      "lat": 47.2766746,
+      "lon": 11.2366127,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1903,11 +1903,11 @@
       "desc": "",
       "hours": "Sommersaison (ca. Mai–Sept), siehe Website (ohne Gewähr)",
       "notes": "",
-      "url": "https://www.zirl.gv.at",
+      "url": "https://www.zirl.gv.at/Einrichtungen/Kultur_und_Sport/Schwimmbad",
       "tickets": [
         {
           "name": "Tageskarte",
-          "price": 5.5,
+          "price": 5.2,
           "audience": "general"
         }
       ]
