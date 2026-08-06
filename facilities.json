@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "facilities": [
     {
       "name": "Hungerburgbahn (Nordkette)",
@@ -2146,8 +2146,8 @@
       "name": "Museum Wattens",
       "category": "museum",
       "address": "Innsbrucker Straße 2, 6112 Wattens",
-      "lat": 47.29111,
-      "lon": 11.59258,
+      "lat": 47.2913427,
+      "lon": 11.5926848,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -2159,21 +2159,21 @@
       "desc": "",
       "hours": "Zeiten siehe Website (ohne Gewähr)",
       "notes": "",
-      "url": "",
+      "url": "https://www.museum-wattens.com/",
       "tickets": [
         {
           "name": "Eintritt",
-          "price": 8.0,
+          "price": 6.0,
           "audience": "general"
         }
       ]
     },
     {
-      "name": "Tiroler Landesmuseen",
+      "name": "Tirol Panorama mit Kaiserjägermuseum",
       "category": "museum",
-      "address": "Museumstraße 15, 6020 Innsbruck",
-      "lat": 47.268,
-      "lon": 11.3955,
+      "address": "Bergisel 1-2, 6020 Innsbruck",
+      "lat": 47.2504764,
+      "lon": 11.4015764,
       "price": 0.0,
       "maxEntries": 3,
       "timeMin": 0,
@@ -2183,13 +2183,13 @@
       "season": "yearRound",
       "occupancy": "",
       "desc": "",
-      "hours": "Di–So, Zeiten siehe Website (ohne Gewähr)",
+      "hours": "Mi – Mo 9 – 17 Uhr - letzter Einlass 16.30 Uhr. Sonderöffnungszeiten: 3.10.2026, ORF-Lange Nacht der Museen, 18 – 0 Uhr; 26.10.2026, Tag der offenen Tür, 9 – 17 Uhr - Eintritt frei; 24.12.2026, Heiligabend, 9 – 14 Uhr, Eintritt frei; 25.12.2026, Christtag, geschlossen; 31.12.2026, Silvester, 9 – 14 Uhr",
       "notes": "Laut AGB 3 Zutritte pro Saison.",
       "url": "https://www.tiroler-landesmuseen.at",
       "tickets": [
         {
-          "name": "Kombikarte",
-          "price": 14.0,
+          "name": "Eintritt",
+          "price": 9.0,
           "audience": "general"
         }
       ]
@@ -2198,8 +2198,8 @@
       "name": "Museum der Völker Schwaz",
       "category": "museum",
       "address": "St. Martin 16, 6130 Schwaz",
-      "lat": 47.3425,
-      "lon": 11.7022,
+      "lat": 47.35085960082634,
+      "lon": 11.718285144978777,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -2215,7 +2215,7 @@
       "tickets": [
         {
           "name": "Eintritt",
-          "price": 10.0,
+          "price": 9.0,
           "audience": "general"
         }
       ]
@@ -2255,8 +2255,8 @@
       "name": "Audioversum Innsbruck",
       "category": "museum",
       "address": "Wilhelm-Greil-Straße 23, 6020 Innsbruck",
-      "lat": 47.2655,
-      "lon": 11.3956,
+      "lat": 47.2634691,
+      "lon": 11.3967841,
       "price": 0.0,
       "maxEntries": 3,
       "timeMin": 0,
@@ -2272,12 +2272,12 @@
       "tickets": [
         {
           "name": "Eintritt Erwachsener",
-          "price": 11.0,
+          "price": 14.0,
           "audience": "adult"
         },
         {
-          "name": "Familienticket",
-          "price": 22.0,
+          "name": "Eintritt Kinder 7 bis 15 Jahre",
+          "price": 9.0,
           "audience": "general"
         }
       ]
@@ -2286,8 +2286,8 @@
       "name": "Museum Goldenes Dachl",
       "category": "museum",
       "address": "Herzog-Friedrich-Straße 15, 6020 Innsbruck",
-      "lat": 47.2686,
-      "lon": 11.3933,
+      "lat": 47.2686574,
+      "lon": 11.3932692,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -2299,7 +2299,7 @@
       "desc": "",
       "hours": "Zeiten siehe Website (ohne Gewähr)",
       "notes": "",
-      "url": "https://www.innsbruck.gv.at",
+      "url": "https://www.innsbruck.gv.at/freizeit/kultur/museen-stadtarchiv/museum-goldenes-dachl",
       "tickets": [
         {
           "name": "Eintritt",
@@ -2312,8 +2312,8 @@
       "name": "Glockenmuseum Grassmayr",
       "category": "museum",
       "address": "Leopoldstraße 53, 6020 Innsbruck",
-      "lat": 47.2572,
-      "lon": 11.3978,
+      "lat": 47.256286,
+      "lon": 11.398137,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -2323,13 +2323,18 @@
       "season": "yearRound",
       "occupancy": "",
       "desc": "",
-      "hours": "Mo–Sa, Zeiten siehe Website (ohne Gewähr)",
+      "hours": "Montag bis Freitag: ganzjährig, Samstags: vom 01.04. bis 31.12.2026; während unserer regulären Öffnungszeiten: 10:00 bis 16:00 Uhr; Sonn- und Feiertage geschlossen",
       "notes": "",
       "url": "https://www.grassmayr.at",
       "tickets": [
         {
           "name": "Eintritt",
           "price": 10.0,
+          "audience": "general"
+        },
+        {
+          "name": "Eintritt Kinder 6 bis 14 Jahre",
+          "price": 6.0,
           "audience": "general"
         }
       ]
@@ -2338,8 +2343,8 @@
       "name": "Stadtarchiv / Stadtmuseum Innsbruck",
       "category": "museum",
       "address": "Badgasse 2, 6020 Innsbruck",
-      "lat": 47.2692,
-      "lon": 11.3936,
+      "lat": 47.2691033,
+      "lon": 11.3927079,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -2349,23 +2354,23 @@
       "season": "yearRound",
       "occupancy": "",
       "desc": "",
-      "hours": "Zeiten siehe Website (ohne Gewähr)",
+      "hours": "Stadtmuseum: Montag bis Donnerstag: 9.00-12.00 Uhr und 13.00-17.00 Uhr, Freitag: 9.00-13.00 Uhr; Samstag, Sonntag und Feiertag geschlossen. Stadtarchiv: Montag bis Donnerstag: 9.00-12.00 Uhr und 13.00-17.00 Uhr, Freitag: 9.00-13.00 Uhr, Samstag, Sonntag und Feiertag geschlossen.(ohne Gewähr)",
       "notes": "",
-      "url": "https://www.innsbruck.gv.at",
+      "url": "https://www.innsbruck.gv.at/freizeit/kultur/museen-stadtarchiv/stadtarchiv",
       "tickets": [
         {
           "name": "Eintritt",
-          "price": 6.0,
+          "price": 4.5,
           "audience": "general"
         }
       ]
     },
     {
-      "name": "Münze Hall",
+      "name": "Zeughaus Innsbruck",
       "category": "museum",
-      "address": "Burg Hasegg 6, 6060 Hall in Tirol",
-      "lat": 47.281,
-      "lon": 11.511,
+      "address": "Zeughausgasse 1, 6020 Innsbruck",
+      "lat": 47.2707578,
+      "lon": 11.4071156,
       "price": 0.0,
       "maxEntries": 3,
       "timeMin": 0,
@@ -2375,17 +2380,95 @@
       "season": "yearRound",
       "occupancy": "",
       "desc": "",
-      "hours": "Di–So, Zeiten siehe Website (ohne Gewähr)",
+      "hours": "Di – So 9 – 17 Uhr, Sonderöffnungszeiten: 3.10.2026, Lange Nacht der Museen, 18 – 0 Uhr; 26.10.2026, Tag der offenen Tür, 9  – 17 Uhr, Eintritt frei; 24.12.2026, Heiligabend, 9  – 17 Uhr, Eintritt frei; 25.12.2026, Christtag, geschlossen; 31.12.2026, Silvester, 9  – 14 Uhr (ohne Gewähr)",
+      "notes": "Laut AGB 3 Zutritte pro Saison.",
+      "url": "https://www.tiroler-landesmuseen.at/haeuser/zeughaus-in-innsbruck/",
+      "tickets": [
+        {
+          "name": "Eintritt",
+          "price": 9.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Tiroler Volkskunstmuseum",
+      "category": "museum",
+      "address": "Universitätsstraße 2, 6020 Innsbruck ",
+      "lat": 47.2682981,
+      "lon": 11.3958512,
+      "price": 0.0,
+      "maxEntries": 3,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Das Ferdinandeum ist umbaubedingt bis 2028 geschlossen! (ohne Gewähr)",
+      "notes": "Laut AGB 3 Zutritte pro Saison.",
+      "url": "https://www.tiroler-landesmuseen.at/haeuser/ferdinandeum/",
+      "tickets": [
+        {
+          "name": "Eintritt",
+          "price": 9.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Hofkirche Innsbruck",
+      "category": "museum",
+      "address": "Universitätsstraße 2, 6020 Innsbruck ",
+      "lat": 47.2682981,
+      "lon": 11.3958512,
+      "price": 0.0,
+      "maxEntries": 3,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Mo – Sa 9  – 17 Uhr - letzter Einlass 16.30 Uhr, So & Feiertag 12.30  – 17 Uhr - Eingang über Volkskunstmuseum; Sonderöffnungszeiten siehe Webseite (ohne Gewähr)",
+      "notes": "Laut AGB 3 Zutritte pro Saison.",
+      "url": "https://www.tiroler-landesmuseen.at/haeuser/hofkirche/",
+      "tickets": [
+        {
+          "name": "Eintritt",
+          "price": 9.0,
+          "audience": "general"
+        }
+      ]
+    },
+    {
+      "name": "Münze Hall",
+      "category": "museum",
+      "address": "Burg Hasegg 6, 6060 Hall in Tirol",
+      "lat": 47.27926385829409,
+      "lon": 11.507104316804,
+      "price": 0.0,
+      "maxEntries": 3,
+      "timeMin": 0,
+      "perDay": false,
+      "summerPrice": 0.0,
+      "winterPrice": 0.0,
+      "season": "yearRound",
+      "occupancy": "",
+      "desc": "",
+      "hours": "Sommer: (April-Okt.)Dienstag bis Sonntag 10.00 - 17.00 Uhr Montag geschlossen; Winter: (Nov.-März) Dienstag bis Samstag 10.00 - 17.00 Uhr Montag und Sonntag geschlossen (ohne Gewähr)",
       "notes": "Laut AGB 3 Zutritte pro Saison.",
       "url": "https://www.muenze-hall.at",
       "tickets": [
         {
           "name": "Eintritt inkl. Turm",
-          "price": 12.0,
+          "price": 13.0,
           "audience": "general"
         },
         {
-          "name": "Nur Museum",
+          "name": "Eintritt inkl. Turm Kinder von 6 bis 16 Jahren",
           "price": 9.0,
           "audience": "general"
         }
@@ -2394,9 +2477,9 @@
     {
       "name": "Tiroler Abend mit Familie Gundolf",
       "category": "museum",
-      "address": "Aurain 1, 6063 Rum",
-      "lat": 47.2847,
-      "lon": 11.4428,
+      "address": " Kapuzinergasse 11, 6020 Innsbruck",
+      "lat": 47.270529032586595,
+      "lon": 11.403476333223788,
       "price": 0.0,
       "maxEntries": 3,
       "timeMin": 0,
@@ -2407,11 +2490,11 @@
       "occupancy": "",
       "desc": "",
       "hours": "Abendveranstaltung, siehe Website (ohne Gewähr)",
-      "notes": "Laut AGB 3 Zutritte pro Saison.",
+      "notes": "Kapuzinergasse 11 Eingang in der, Ing.-Etzel-Straße. Laut AGB 3 Zutritte pro Saison. Tiroler Abend mit dem FREIZEITTICKET TIROL online buchen (Eintritt OHNE Getränk)",
       "url": "https://www.tiroler-abend.at",
       "tickets": [
         {
-          "name": "Eintritt & Getränk",
+          "name": "Eintritt",
           "price": 35.0,
           "audience": "general"
         }
