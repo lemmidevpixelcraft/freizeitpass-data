@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "facilities": [
     {
       "name": "Hungerburgbahn (Nordkette)",
@@ -1358,8 +1358,8 @@
       "name": "Eislaufplatz Igls",
       "category": "eislaufen",
       "address": "Zimmerwiese, 6080 Innsbruck",
-      "lat": 47.2288,
-      "lon": 11.4147,
+      "lat": 47.2289642,
+      "lon": 11.4140006,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1383,9 +1383,9 @@
     {
       "name": "Eislaufplatz Baggersee",
       "category": "eislaufen",
-      "address": "Roßaugasse 2a, 6020 Innsbruck",
-      "lat": 47.2725,
-      "lon": 11.4369,
+      "address": "Archenweg 62, 6020 Innsbruck",
+      "lat": 47.2664023,
+      "lon": 11.4492881,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1435,9 +1435,9 @@
     {
       "name": "Eishalle Götzens",
       "category": "eislaufen",
-      "address": "Burgstraße 3, 6091 Götzens",
-      "lat": 47.2381,
-      "lon": 11.3114,
+      "address": "Neu-Götzner-Straße 48, 6091 Götzens ",
+      "lat": 47.2328198,
+      "lon": 11.3223796,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1449,7 +1449,7 @@
       "desc": "",
       "hours": "Wintersaison (ohne Gewähr)",
       "notes": "",
-      "url": "",
+      "url": "https://www.goetzens.gv.at/Eissportzentrum",
       "tickets": [
         {
           "name": "Tageskarte",
@@ -1461,9 +1461,9 @@
     {
       "name": "Eislaufplatz Schwaz",
       "category": "eislaufen",
-      "address": "Franz-Josef-Straße 2, 6130 Schwaz",
-      "lat": 47.3486,
-      "lon": 11.7142,
+      "address": "Johannes Messner Weg 12, 6130 Schwaz ",
+      "lat": 47.352654,
+      "lon": 11.7157405,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1475,7 +1475,7 @@
       "desc": "",
       "hours": "Wintersaison (ohne Gewähr)",
       "notes": "",
-      "url": "",
+      "url": "https://www.schwaz.at/stadtleben/sport/sportanlagen-u-infrastruktur/eislaufplatz/",
       "tickets": [
         {
           "name": "Tageskarte",
@@ -1487,9 +1487,9 @@
     {
       "name": "Eislaufplatz Silz",
       "category": "eislaufen",
-      "address": "Widumgasse 1, 6424 Silz",
-      "lat": 47.2628,
-      "lon": 10.9256,
+      "address": "Raimund-Wallnöfer-Weg 8, 6424 Silz",
+      "lat": 47.2630424,
+      "lon": 10.9300076,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1501,7 +1501,7 @@
       "desc": "",
       "hours": "Wintersaison (ohne Gewähr)",
       "notes": "",
-      "url": "",
+      "url": "https://www.silz.gv.at/Einrichtungen/Freizeit_und_Soziales/Eis_Arena",
       "tickets": [
         {
           "name": "Tageskarte",
@@ -1514,8 +1514,8 @@
       "name": "Eishalle Steinach",
       "category": "eislaufen",
       "address": "Kranebitten, 6150 Steinach am Brenner",
-      "lat": 47.09535,
-      "lon": 11.4687,
+      "lat": 47.096935890532926,
+      "lon": 11.46776152060172,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1527,11 +1527,11 @@
       "desc": "",
       "hours": "Wintersaison (ohne Gewähr)",
       "notes": "",
-      "url": "",
+      "url": "https://www.steinach.gv.at/Einrichtungen/Infrastruktur/Kunsteis-_und_Mehrzweckhalle",
       "tickets": [
         {
           "name": "Tageskarte",
-          "price": 5.5,
+          "price": 4.6,
           "audience": "general"
         }
       ]
@@ -1540,8 +1540,8 @@
       "name": "Eislaufplatz Trins",
       "category": "eislaufen",
       "address": "Trins 36, 6152 Trins",
-      "lat": 47.0828,
-      "lon": 11.4239,
+      "lat": 47.0774016,
+      "lon": 11.4134425,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1553,7 +1553,7 @@
       "desc": "",
       "hours": "Wintersaison (ohne Gewähr)",
       "notes": "",
-      "url": "",
+      "url": "https://www.schilift-trins.at/",
       "tickets": [
         {
           "name": "Tageskarte",
@@ -1566,8 +1566,8 @@
       "name": "Eislaufplatz Vomp",
       "category": "eislaufen",
       "address": "Dorf 69, 6134 Vomp",
-      "lat": 47.3411,
-      "lon": 11.6847,
+      "lat": 47.3447185,
+      "lon": 11.6913819,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1579,11 +1579,11 @@
       "desc": "",
       "hours": "Wintersaison (ohne Gewähr)",
       "notes": "",
-      "url": "",
+      "url": "https://www.vomp.gv.at/Kunsteisbahn",
       "tickets": [
         {
           "name": "Tageskarte",
-          "price": 4.0,
+          "price": 3.0,
           "audience": "general"
         }
       ]
@@ -1592,8 +1592,8 @@
       "name": "Eislaufplatz Zirl",
       "category": "eislaufen",
       "address": "Bühelstraße 1, 6170 Zirl",
-      "lat": 47.2711,
-      "lon": 11.2464,
+      "lat": 47.2666237,
+      "lon": 11.2338788,
       "price": 0.0,
       "maxEntries": 0,
       "timeMin": 0,
@@ -1605,7 +1605,7 @@
       "desc": "",
       "hours": "Wintersaison (ohne Gewähr)",
       "notes": "",
-      "url": "",
+      "url": "https://www.zirl.gv.at/Eislaufplatz",
       "tickets": [
         {
           "name": "Tageskarte",
