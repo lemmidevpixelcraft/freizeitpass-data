@@ -1,16 +1,16 @@
 {
-  "version": 24,
+  "version": 25,
   "partners": [
     {
-      "name": "Merkur Innsbruckathlon",
-      "discount": "25 %",
-      "detail": "25 % auf den Startplatz mit Code FREIZEIT25 (gültig 01.–30.04.2026). Hindernislauf durch die Innsbrucker Innenstadt, 5 km oder 10 km.",
-      "category": "Sport",
-      "code": "FREIZEIT25",
-      "website": "https://www.innsbruckathlon.at",
-      "address": "Rennweg (Landestheater Vorplatz), 6020 Innsbruck",
-      "lat": 47.2692,
-      "lon": 11.3933
+      "name": "Airparc Stubai & Zillertal",
+      "discount": "10 %",
+      "detail": "10 % Ermäßigung auf Tageskarten (DI–FR) im Airparc Stubai & Zillertal sowie € 4,- Ermäßigung auf den Erstbesuch. Keine Doppelrabattierung.",
+      "category": "Erlebnis",
+      "code": null,
+      "website": "https://airparc.com",
+      "address": "Stubai: Telfer Landesstraße 1, 6165 Telfes im Stubai; Zillertal: Gewerbestraße 6, 6272 Kaltenbach",
+      "lat": null,
+      "lon": null
     },
     {
       "name": "Corthea Innsbruck",
@@ -22,39 +22,6 @@
       "address": "Erlerstraße 4, 6020 Innsbruck",
       "lat": 47.2667,
       "lon": 11.3957
-    },
-    {
-      "name": "Silvretta Therme Ischgl",
-      "discount": "10 %",
-      "detail": "10 % auf reguläre Eintritts- und Nachzahltarife für Therme (Badewelt), Sauna und Kombi-Tickets an der Thermenkassa. Nur 1.10.–30.11., nicht online.",
-      "category": "Wellness",
-      "code": null,
-      "website": "https://www.silvretta-therme.at",
-      "address": "Thermenweg 1, 6561 Ischgl",
-      "lat": 47.0114,
-      "lon": 10.2906
-    },
-    {
-      "name": "Raiders Tirol – Football",
-      "discount": "25 %",
-      "detail": "25 % auf Tickets bei EFA-Heimspielen 2026 an der Tages- oder Abendkasse.",
-      "category": "Sport",
-      "code": null,
-      "website": "https://www.raiders.at",
-      "address": "Stadionstraße 1, 6020 Innsbruck",
-      "lat": 47.2558,
-      "lon": 11.4108
-    },
-    {
-      "name": "Raiders Tirol – Basketball",
-      "discount": "25 %",
-      "detail": "25 % auf Tickets der Basketball-2.-Liga-Heimspiele 2025/26.",
-      "category": "Sport",
-      "code": null,
-      "website": "https://www.raiders.at",
-      "address": "Stadionstraße 1, 6020 Innsbruck",
-      "lat": 47.2558,
-      "lon": 11.4108
     },
     {
       "name": "Padelfield Tirol",
@@ -99,17 +66,6 @@
       "address": "Alte Landstraße 15, 6130 Schwaz",
       "lat": 47.3482,
       "lon": 11.7145
-    },
-    {
-      "name": "IBSF Weltcup",
-      "discount": "50 %",
-      "detail": "50 % auf Tickets an der Tageskassa (28.–30.11.2025).",
-      "category": "Sport",
-      "code": null,
-      "website": "https://www.olympiaworld.at",
-      "address": "Heiligwasserwiese 1 (Olympia Eiskanal), 6080 Igls",
-      "lat": 47.2261,
-      "lon": 11.4267
     },
     {
       "name": "WSG Tirol",
@@ -170,35 +126,14 @@
     {
       "name": "Casinos Innsbruck / Seefeld / Kitzbühel",
       "discount": "€ 7",
-      "detail": "Begrüßungsjetons im Wert von € 30,- um € 23,- und ein Glas Sekt. 3x einzulösen in den Casinos Innsbruck, Seefeld, Kitzbühel.",
+      "detail": "Begrüßungsjetons im Wert von € 30,- um € 23,- und ein Glas Sekt bzw. eine alkoholfreie Alternative. 3x einzulösen in den Casinos Innsbruck, Seefeld und Kitzbühel.",
       "category": "Erlebnis",
       "code": null,
       "website": "https://www.casinos.at",
       "address": "Salurner Straße 15, 6020 Innsbruck (u.a.)",
       "lat": 47.2638,
-      "lon": 11.3965
-    },
-    {
-      "name": "Lumagica Innsbruck",
-      "discount": "20 %",
-      "detail": "Eine leuchtende Reise um die Welt (14.11.2025 bis 01.02.2026). -20% auf Kinder und Erwachsenen Preis (kein Familienticket).",
-      "category": "Erlebnis",
-      "code": "FREIZEITTICKET25",
-      "website": "https://www.lumagica.com",
-      "address": "Rennweg (Hofgarten), 6020 Innsbruck",
-      "lat": 47.2727,
-      "lon": 11.3976
-    },
-    {
-      "name": "Lumagica Ehrenberg/Reutte",
-      "discount": "20 %",
-      "detail": "Zauberhafter Lichterpark (14.11.2025 bis 22.02.2026). -20% auf Kinder und Erwachsenen Preis (kein Familienticket).",
-      "category": "Erlebnis",
-      "code": "FREIZEITTICKET25",
-      "website": "https://www.lumagica.com",
-      "address": "Klause 1 (Burgruine Ehrenberg), 6600 Reutte",
-      "lat": 47.464,
-      "lon": 10.718
+      "lon": 11.3965,
+      "maxUses": 3
     },
     {
       "name": "Air 4 You Tandemflüge",
@@ -245,7 +180,7 @@
       "lon": 11.326
     },
     {
-      "name": "FLIP ON Bewegung berührt",
+      "name": "Bewegung berührt",
       "discount": "15 %",
       "detail": "15 % Rabatt auf Massagen und die angebotenen Kurse.",
       "category": "Wellness",
@@ -279,8 +214,8 @@
     },
     {
       "name": "Banger Park Scharnitz",
-      "discount": "3h-Pass für € 45,-",
-      "detail": "3-Stunden-Pass für den Banger Park Scharnitz um EUR 35 (statt EUR 50).",
+      "discount": "3h-Pass für € 35,-",
+      "detail": "3-Stunden-Pass für den Banger Park Scharnitz um € 35 (statt € 50).",
       "category": "Erlebnis",
       "code": null,
       "website": "https://www.bangerpark.com",
@@ -351,6 +286,17 @@
       "code": null,
       "website": "https://www.malkurse-tirol.at",
       "address": "Innsbruck",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "ACON Trampoline",
+      "discount": "5 %",
+      "detail": "5 % Ermäßigung sowie kostenlose Zustellung nach Hause beim Kauf eines ACON Trampolins oder Sportartikels. Bei Selbstabholung im Airparc Stubai oder Zillertal ist der Tageszutritt an diesem Tag kostenlos.",
+      "category": "Einkaufen",
+      "code": null,
+      "website": "https://acon24.at",
+      "address": "Online / Abholung im Airparc Stubai oder Zillertal",
       "lat": null,
       "lon": null
     },
@@ -434,7 +380,7 @@
     {
       "name": "bolting.eu Klettershop Innsbruck",
       "discount": "10 %",
-      "detail": "10 % Rabatt auf das Sortiment bzw. 5 % Rabatt auf Kletterseile (ausg. rabattierte Artikel, Lebensmittel).",
+      "detail": "10 % Rabatt auf das Sortiment bzw. 5 % Rabatt auf Kletterseile (ausg. rabattierte Artikel, Lebensmittel, Bücher und Gutscheine).",
       "category": "Einkaufen",
       "code": null,
       "website": "https://www.bolting.eu",
@@ -485,17 +431,6 @@
       "address": "Online",
       "lat": null,
       "lon": null
-    },
-    {
-      "name": "Nordkette Shop – Seegrube",
-      "discount": "10 %",
-      "detail": "10 % Ermäßigung auf deinen Einkauf im Shop auf der Seegrube (ausgenommen Schmuck).",
-      "category": "Einkaufen",
-      "code": null,
-      "website": "https://www.nordkette.com",
-      "address": "Seegrube 1, 6020 Innsbruck",
-      "lat": 47.304,
-      "lon": 11.379
     },
     {
       "name": "INTERSPORT OKAY - 3x in Innsbruck",
