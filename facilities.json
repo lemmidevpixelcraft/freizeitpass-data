@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "facilities": [
     {
       "name": "Hungerburgbahn (Nordkette)",
@@ -324,15 +324,10 @@
       "season": "yearRound",
       "occupancy": "",
       "desc": "Größtes Gletscherskigebiet Österreichs. Schneesicher, Gletscherbahnen bis 3.210 m, Aussichtsplattform Top of Tyrol. Sommerbetrieb ab Ende Juni. Ticketpreise variieren - Ticketshop auf Webseite überprüfen.",
-      "hours": "saisonal",
+      "hours": "Sommer- & Winterbetrieb saisonal; aktuelle Betriebszeiten siehe Website (ohne Gewähr)",
       "notes": "",
       "url": "https://www.stubaier-gletscher.com",
       "tickets": [
-        {
-          "name": "TOP OF TYROL Ticket, 3.165 m - 04.07. bis 06.09.2026, Berg- und Talfahrt bis Bergstation Schaufeljoch (= 6 Sektionen)",
-          "price": 40.7,
-          "audience": "general"
-        },
         {
           "name": "1 Sektion - Bergfahrt bis Mittelstation Fernau, 2.300 m",
           "price": 10.7,
@@ -616,12 +611,12 @@
       "tickets": [
         {
           "name": "Bergfahrt oder Talfahrt",
-          "price": 20.0,
+          "price": 16.0,
           "audience": "general"
         },
         {
           "name": "Bergfahrt und Talfahrt",
-          "price": 16.0,
+          "price": 20.0,
           "audience": "general"
         },
         {
@@ -753,7 +748,7 @@
       "notes": "Freizeitticket Tirol gültig. Sommer: Diasbahn, Sunny Mountain Erlebnispark, MTB-Trails.",
       "url": "https://www.kappl.com",
       "tickets": [
-         {
+        {
           "name": "Bergfahrt Diasbahn",
           "price": 17.5,
           "audience": "general"
@@ -1565,7 +1560,7 @@
     {
       "name": "Eislaufplatz Vomp",
       "category": "eislaufen",
-      "address": "Dorf 69, 6134 Vomp",
+      "address": "Albert-Nöckl-Platz 1, 6134 Vomp",
       "lat": 47.3447185,
       "lon": 11.6913819,
       "price": 0.0,
@@ -1655,7 +1650,7 @@
       "season": "yearRound",
       "occupancy": "https://www.ikb.at/baeder/auslastung",
       "desc": "Sportbad mit Wettkampfbecken (permanente Bahnenabtrennung), Lehrschwimmbecken. Ideal für Bahnenschwimmer.",
-      "hours": "Ganzjährig, tägl. wechselnd (siehe IKB) - Sommersperre von 4.7. bis 6.9.2026",
+      "hours": "Ganzjährig, tägl. wechselnd (siehe IKB, ohne Gewähr)",
       "notes": "Laut AGB 2,5 Std. pro Besuch; max. 1 IKB-Bad pro Tag.",
       "url": "https://www.ikb.at/baeder",
       "tickets": [
@@ -2406,9 +2401,9 @@
       "season": "yearRound",
       "occupancy": "",
       "desc": "",
-      "hours": "Das Ferdinandeum ist umbaubedingt bis 2028 geschlossen! (ohne Gewähr)",
+      "hours": "Mo – So 9 – 17 Uhr, letzter Einlass 16.30 Uhr (ohne Gewähr)",
       "notes": "Laut AGB 3 Zutritte pro Saison.",
-      "url": "https://www.tiroler-landesmuseen.at/haeuser/ferdinandeum/",
+      "url": "https://www.tiroler-landesmuseen.at/haeuser/tiroler-volkskunstmuseum/",
       "tickets": [
         {
           "name": "Eintritt",
