@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "facilities": [
     {
       "name": "Hungerburgbahn (Nordkette)",
@@ -833,7 +833,7 @@
       "lat": 47.0099059,
       "lon": 10.2880859,
       "price": 0.0,
-      "maxEntries": 0,
+      "maxEntries": 3,
       "timeMin": 0,
       "perDay": false,
       "summerPrice": 0.0,
@@ -842,7 +842,7 @@
       "occupancy": "",
       "desc": "",
       "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
-      "notes": "Freizeitticket Tirol gültig. Silvretta Arena 239 km. Sommer: 6 Bahnen, Erlebnispark Vider Truja.",
+      "notes": "Freizeitticket Tirol gültig. Silvretta Arena 239 km. Sommer: 6 Bahnen, Erlebnispark Vider Truja. Laut FTT-AGB 3 Zutritte; Erstzutritt nur in Ischgl möglich. An Konzerttagen und Abendveranstaltungen ist das FTT in Ischgl nicht gültig. Nicht verbrauchte Winter-Zutritte können im Sommer eingelöst werden.",
       "url": "https://www.ischgl.com",
       "tickets": [
         {
@@ -1681,7 +1681,7 @@
       "season": "yearRound",
       "occupancy": "https://www.ikb.at/baeder/auslastung",
       "desc": "Familienbad mit 2 Riesenrutschen (107 m & 61 m), Babybecken, ganzjährigem Freibecken, Palmengarten. 30–32 °C.",
-      "hours": "Ganzjährig, tägl. wechselnd (siehe IKB) - Sommersperre von 10.8. bis 11.9.2026",
+      "hours": "Ganzjährig, tägl. wechselnd (siehe IKB, ohne Gewähr)",
       "notes": "Laut AGB 4 Std. pro Besuch; max. 1 IKB-Bad pro Tag.",
       "url": "https://www.ikb.at/baeder",
       "tickets": [
@@ -1766,7 +1766,7 @@
       "lat": 47.23749415309598,
       "lon": 11.341297324476077,
       "price": 0.0,
-      "maxEntries": 0,
+      "maxEntries": 3,
       "timeMin": 0,
       "perDay": false,
       "summerPrice": 0.0,
@@ -1775,7 +1775,7 @@
       "occupancy": "",
       "desc": "",
       "hours": "Badesaison im Sommer (ohne Gewähr)",
-      "notes": "",
+      "notes": "Laut FTT-AGB 3 Zutritte pro Saison.",
       "url": "https://www.natterersee.com/badesee/wasserspass",
       "tickets": [
         {
