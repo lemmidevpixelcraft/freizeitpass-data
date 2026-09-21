@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "partners": [
     {
       "name": "Airparc Stubai & Zillertal",
@@ -9,8 +9,8 @@
       "code": null,
       "website": "https://airparc.com",
       "address": "Stubai: Telfer Landesstraße 1, 6165 Telfes im Stubai; Zillertal: Gewerbestraße 6, 6272 Kaltenbach",
-      "lat": null,
-      "lon": null
+      "lat": 47.1667,
+      "lon": 11.3611
     },
     {
       "name": "Corthea Innsbruck",
@@ -22,6 +22,17 @@
       "address": "Erlerstraße 4, 6020 Innsbruck",
       "lat": 47.2667,
       "lon": 11.3957
+    },
+    {
+      "name": "RAIDERS TIROL - FOOTBALL",
+      "discount": "25 %",
+      "detail": "25 % Rabatt auf Tickets bei EFA-Heimspielen in der Saison 2026 an der Tages- oder Abendkassa gegen Vorlage des Freizeittickets.",
+      "category": "Sport",
+      "code": null,
+      "website": "https://www.raiders.at",
+      "address": "Stadionstraße 1 (Tivoli Stadion), 6020 Innsbruck",
+      "lat": 47.2558,
+      "lon": 11.4108
     },
     {
       "name": "Padelfield Tirol",
