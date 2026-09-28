@@ -1,6 +1,17 @@
 {
-  "version": 26,
+  "version": 27,
   "partners": [
+    {
+      "name": "Ice Magic Innsbruck",
+      "discount": "20 %",
+      "detail": "20 % Ermäßigung auf den regulären Ticketpreis bei ICE MAGIC Innsbruck am Landhausplatz. Gültig von Mitte November 2026 bis Mitte Februar 2027.",
+      "category": "Erlebnis",
+      "code": null,
+      "website": "https://www.freizeitticket.at/bonus/erlebnisse/",
+      "address": "Landhausplatz, 6020 Innsbruck",
+      "lat": 47.2631,
+      "lon": 11.397
+    },
     {
       "name": "Airparc Stubai & Zillertal",
       "discount": "10 %",
@@ -136,8 +147,8 @@
     },
     {
       "name": "Casinos Innsbruck / Seefeld / Kitzbühel",
-      "discount": "€ 7",
-      "detail": "Begrüßungsjetons im Wert von € 30,- um € 23,- und ein Glas Sekt bzw. eine alkoholfreie Alternative. 3x einzulösen in den Casinos Innsbruck, Seefeld und Kitzbühel.",
+      "discount": "15 %",
+      "detail": "15 % Bonus laut aktueller Freizeitticket-Seite. Begrüßungsjetons im Wert von € 30,- um € 23,- und ein Glas Sekt bzw. eine alkoholfreie Alternative. 3x einzulösen in den Casinos Innsbruck, Seefeld und Kitzbühel. Nicht mit anderen Aktionen & Packages kombinierbar.",
       "category": "Erlebnis",
       "code": null,
       "website": "https://www.casinos.at",
@@ -196,7 +207,7 @@
       "detail": "15 % Rabatt auf Massagen und die angebotenen Kurse.",
       "category": "Wellness",
       "code": null,
-      "website": "https://www.flip-on.at",
+      "website": "https://bewegung-beruehrt.at/",
       "address": "Tirol (Online Buchung)",
       "lat": null,
       "lon": null
