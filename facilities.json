@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "facilities": [
     {
       "name": "Hungerburgbahn (Nordkette)",
@@ -642,7 +642,7 @@
       "occupancy": "",
       "desc": "",
       "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
-      "notes": "Sommer: DreiSeenBahn (bis Mitte September) auf 2.410 m, Bergseen, Klettersteige, Knappenweg.(Kuppelbare 4er-Sesselbahn mit Wetterschutzhauben)",
+      "notes": "Sommer: DreiSeenBahn saisonal auf 2.410 m, Bergseen, Klettersteige, Knappenweg. Aktuelle Betriebszeiten siehe Website. (Kuppelbare 4er-Sesselbahn mit Wetterschutzhauben)",
       "url": "https://www.kuehtai.info",
       "tickets": [
         {
@@ -1812,7 +1812,7 @@
       ]
     },
     {
-      "name": "Freibad Wattens",
+      "name": "Alpenbad Wattens",
       "category": "schwimmbad",
       "address": "Dr.-Karl-Stainer-Straße 32, 6112 Wattens",
       "lat": 47.29473,
