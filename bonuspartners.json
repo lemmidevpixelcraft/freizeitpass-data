@@ -1,39 +1,6 @@
 {
-  "version": 28,
+  "version": 29,
   "partners": [
-    {
-      "name": "Daniel Haslwanter Fotografie",
-      "discount": "15 %",
-      "detail": "15 % Ermäßigung auf Familien- und Couple-Shootings. Nicht mit anderen Rabatten kombinierbar.",
-      "category": "Erlebnis",
-      "code": null,
-      "website": "https://www.daniel-haslwanter.at",
-      "address": "Elferweg 8, 6167 Neustift im Stubaital",
-      "lat": 47.1258429,
-      "lon": 11.337681
-    },
-    {
-      "name": "InSALT – Salzraum Tirol",
-      "discount": "10 %",
-      "detail": "10 % Ermäßigung auf Einzelsitzungen bei InSALT. Nicht mit anderen Rabatten, Aktionen oder Karten kombinierbar.",
-      "category": "Wellness",
-      "code": null,
-      "website": "https://www.insalt.at",
-      "address": "Stublerfeld 25, 6123 Terfens",
-      "lat": 47.3249007,
-      "lon": 11.6757926
-    },
-    {
-      "name": "Silvretta Therme Ischgl",
-      "discount": "10 %",
-      "detail": "10 % Rabatt auf reguläre Eintritts- und Nachzahltarife für Badewelt, Sauna und Kombi-Tickets an der Thermenkassa. Nicht online einlösbar, keine Doppelrabattierung. Gültig 01.10.–25.11.2026.",
-      "category": "Wellness",
-      "code": null,
-      "website": "https://www.silvrettatherme.at",
-      "address": "Brandweg 2, 6561 Ischgl",
-      "lat": 47.0134337,
-      "lon": 10.2888423
-    },
     {
       "name": "Ice Magic Innsbruck",
       "discount": "20 %",
@@ -66,6 +33,17 @@
       "address": "Erlerstraße 4, 6020 Innsbruck",
       "lat": 47.2667,
       "lon": 11.3957
+    },
+    {
+      "name": "RAIDERS TIROL - FOOTBALL",
+      "discount": "25 %",
+      "detail": "25 % Rabatt auf Tickets bei EFA-Heimspielen in der Saison 2026 an der Tages- oder Abendkassa gegen Vorlage des Freizeittickets.",
+      "category": "Sport",
+      "code": null,
+      "website": "https://www.raiders.at",
+      "address": "Stadionstraße 1 (Tivoli Stadion), 6020 Innsbruck",
+      "lat": 47.2558,
+      "lon": 11.4108
     },
     {
       "name": "Padelfield Tirol",
@@ -541,6 +519,61 @@
       "address": "Pradler Straße 45, 6020 Innsbruck",
       "lat": 47.2653,
       "lon": 11.4087
+    },
+    {
+      "name": "Daniel Haslwanter Fotografie",
+      "discount": "15 %",
+      "detail": "15 % Ermäßigung auf Familien- und Couple-Shootings. Nicht mit anderen Rabatten kombinierbar.",
+      "category": "Erlebnis",
+      "code": null,
+      "website": null,
+      "address": null,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "InSALT – Salzraum Tirol",
+      "discount": "10 %",
+      "detail": "10 % Ermäßigung auf Einzelsitzungen bei InSALT. Nicht mit anderen Rabatten, Aktionen oder Karten kombinierbar.",
+      "category": "Wellness",
+      "code": null,
+      "website": null,
+      "address": null,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Silvretta Therme Ischgl",
+      "discount": "10 %",
+      "detail": "10 % Rabatt auf alle regulären Eintritts- und Nachzahltarife für Therme (Badewelt), Sauna und Kombi-Tickets an der Thermenkassa in Ischgl. Keine Doppelrabattierungen, nicht online einlösbar. Gültig von 01.10. bis 25.11.2026.",
+      "category": "Wellness",
+      "code": null,
+      "website": null,
+      "address": "Silvrettaplatz 2, 6561 Ischgl",
+      "lat": 47.011,
+      "lon": 10.289
+    },
+    {
+      "name": "IBSF Bob und Skeleton Doppelweltcup",
+      "discount": "1+1",
+      "detail": "1+1 Gratis-Ticket an der Tageskassa gegen Vorlage des Freizeittickets für den IBSF Bob und Skeleton Doppelweltcup vom 04.–06.12.2026 sowie 10.–13.12.2026.",
+      "category": "Sport",
+      "code": null,
+      "website": null,
+      "address": "Olympiastraße 10, 6080 Igls",
+      "lat": 47.221,
+      "lon": 11.434
+    },
+    {
+      "name": "Vapiano",
+      "discount": "10 %",
+      "detail": "10 % Rabatt auf Speisen und Getränke im Restaurant für Freizeitticketbesitzer. Nicht mit anderen Rabatten kombinierbar.",
+      "category": "Einkaufen",
+      "code": null,
+      "website": "https://www.vapiano.at",
+      "address": null,
+      "lat": null,
+      "lon": null
     }
   ]
 }
