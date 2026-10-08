@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "partners": [
     {
       "name": "Ice Magic Innsbruck",
@@ -8,12 +8,12 @@
       "category": "Erlebnis",
       "code": null,
       "website": "https://www.freizeitticket.at/bonus/erlebnisse/",
-      "address": "Landhausplatz, 6020 Innsbruck",
-      "lat": 47.2631,
-      "lon": 11.397,
+      "address": "Eduard-Wallnöfer-Platz 3, 6020 Innsbruck",
+      "lat": 47.2634,
+      "lon": 11.3957,
       "locationType": "physical",
       "locationReviewStatus": "checked",
-      "locationReviewNote": "Adresse und Koordinaten am Eduard-Wallnöfer-Platz / Landhausplatz verifiziert."
+      "locationReviewNote": "Adresse auf offiziellen Eduard-Wallnöfer-Platz 3 präzisiert und Koordinaten auf Veranstaltungsfläche justiert."
     },
     {
       "name": "Airparc Stubai & Zillertal",
@@ -374,11 +374,11 @@
           "id": "voels",
           "name": "INVIBE Völs",
           "address": "Cytastraße 7, 6176 Völs",
-          "lat": 47.2562,
-          "lon": 11.3255,
+          "lat": 47.2556,
+          "lon": 11.3286,
           "addressSource": "https://www.invibe.at/standorte/",
           "coordinateSource": "https://www.invibe.at/standorte/",
-          "checkedAt": "2026-10-06",
+          "checkedAt": "2026-10-08",
           "coordinateStatus": "checked"
         },
         {
@@ -417,7 +417,7 @@
       ],
       "locationType": "physical",
       "locationReviewStatus": "checked",
-      "locationReviewNote": "Sämtliche 19 INVIBE-Standorte in Tirol geprüft und mit Geokoordinaten hinterlegt."
+      "locationReviewNote": "INVIBE Völs Koordinaten nachgebessert."
     },
     {
       "name": "Casinos Innsbruck / Seefeld / Kitzbühel",
@@ -629,12 +629,12 @@
       "category": "Sport",
       "code": "Freizeitticket2021",
       "website": "https://www.upstreamsurfing.com",
-      "address": "Kranebitter Allee, 6020 Innsbruck",
-      "lat": 47.262,
-      "lon": 11.343,
+      "address": "Hans-Flöckinger-Promenade 199, 6020 Innsbruck",
+      "lat": 47.2562,
+      "lon": 11.3323,
       "locationType": "physical",
       "locationReviewStatus": "checked",
-      "locationReviewNote": "Surf-Spot Kranebitten verifiziert."
+      "locationReviewNote": "Adresse auf aktuellen Surf- und Chillspot (Airport Reef) korrigiert."
     },
     {
       "name": "Inntour Active Holidays",
@@ -953,28 +953,28 @@
           "id": "landhausplatz",
           "name": "INTERSPORT OKAY Landhausplatz",
           "address": "Maria-Theresien-Straße 47, 6020 Innsbruck",
-          "lat": 47.2638,
-          "lon": 11.3962,
+          "lat": 47.2648,
+          "lon": 11.3952,
           "addressSource": "https://www.intersport-okay.at/standorte/innsbruck/flagshipstore-okay/",
           "coordinateSource": "https://www.intersport-okay.at/standorte/innsbruck/flagshipstore-okay/",
-          "checkedAt": "2026-10-06",
+          "checkedAt": "2026-10-08",
           "coordinateStatus": "checked"
         },
         {
           "id": "cyta",
           "name": "INTERSPORT OKAY Cyta",
           "address": "Cytastraße 22, 6176 Völs",
-          "lat": 47.2568,
-          "lon": 11.3251,
+          "lat": 47.2575,
+          "lon": 11.3242,
           "addressSource": "https://www.intersport-okay.at/standorte/voels/cyta/",
           "coordinateSource": "https://www.intersport-okay.at/standorte/voels/cyta/",
-          "checkedAt": "2026-10-06",
+          "checkedAt": "2026-10-08",
           "coordinateStatus": "checked"
         }
       ],
       "locationType": "physical",
       "locationReviewStatus": "checked",
-      "locationReviewNote": "Drei Standorte in Innsbruck/Völs verifiziert und mit GPS-Koordinaten hinterlegt."
+      "locationReviewNote": "Drei Standorte in Innsbruck/Völs verifiziert und mit GPS-Koordinaten hinterlegt. Landhausplatz und Cyta exakt justiert."
     },
     {
       "name": "Weinshoptirol",
@@ -1028,12 +1028,12 @@
       "category": "Einkaufen",
       "code": null,
       "website": "https://www.sport-baumgartner.at",
-      "address": "Bahnhofstraße 10, 6176 Völs",
-      "lat": 47.2562,
-      "lon": 11.3255,
+      "address": "Gießenweg 1/2, 6176 Völs",
+      "lat": 47.2530,
+      "lon": 11.3218,
       "locationType": "physical",
       "locationReviewStatus": "checked",
-      "locationReviewNote": "Bahnhofstraße 10 Völs verifiziert."
+      "locationReviewNote": "Adresse von Bahnhofstraße 10 auf Gießenweg 1/2 korrigiert und exakte Koordinaten hinterlegt."
     },
     {
       "name": "Sport Bartl",
