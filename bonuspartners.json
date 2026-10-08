@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "partners": [
     {
       "name": "Ice Magic Innsbruck",
@@ -8,9 +8,12 @@
       "category": "Erlebnis",
       "code": null,
       "website": "https://www.freizeitticket.at/bonus/erlebnisse/",
-      "address": "Landhausplatz, 6020 Innsbruck",
-      "lat": 47.2631,
-      "lon": 11.397
+      "address": "Eduard-Wallnöfer-Platz 3, 6020 Innsbruck",
+      "lat": 47.2634,
+      "lon": 11.3957,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Adresse auf offiziellen Eduard-Wallnöfer-Platz 3 präzisiert und Koordinaten auf Veranstaltungsfläche justiert."
     },
     {
       "name": "Airparc Stubai & Zillertal",
@@ -19,9 +22,36 @@
       "category": "Erlebnis",
       "code": null,
       "website": "https://airparc.com",
-      "address": "Stubai: Telfer Landesstraße 1, 6165 Telfes im Stubai; Zillertal: Gewerbestraße 6, 6272 Kaltenbach",
-      "lat": 47.1667,
-      "lon": 11.3611
+      "address": "AIRPARC Stubai: Telfer Landesstraße 1, 6165 Telfes im Stubai; AIRPARC Zillertal: Gewerbestraße 6, 6272 Kaltenbach",
+      "lat": 47.160662,
+      "lon": 11.3551086,
+      "locations": [
+        {
+          "id": "stubai",
+          "name": "AIRPARC Stubai",
+          "address": "Telfer Landesstraße 1, 6165 Telfes im Stubai",
+          "lat": 47.160662,
+          "lon": 11.3551086,
+          "addressSource": "https://airparc.com/stubai/kontakt/",
+          "coordinateSource": "https://airparc.com/stubai/anfahrt/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "provider_map"
+        },
+        {
+          "id": "zillertal",
+          "name": "AIRPARC Zillertal",
+          "address": "Gewerbestraße 6, 6272 Kaltenbach",
+          "lat": 47.2896627,
+          "lon": 11.8754628,
+          "addressSource": "https://airparc.com/zillertal/kontakt/",
+          "coordinateSource": "https://airparc.com/zillertal/anfahrt/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "provider_map"
+        }
+      ],
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Stubai-Punkt korrigiert und Kaltenbach ergänzt; jeweils Zielpunkt aus Betreiber-Routenlink, nicht der Kartenmittelpunkt."
     },
     {
       "name": "Corthea Innsbruck",
@@ -32,7 +62,10 @@
       "website": "https://www.corthea.com",
       "address": "Erlerstraße 4, 6020 Innsbruck",
       "lat": 47.2667,
-      "lon": 11.3957
+      "lon": 11.3957,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Adresse und Koordinaten in Innsbruck verifiziert."
     },
     {
       "name": "RAIDERS TIROL - FOOTBALL",
@@ -43,7 +76,10 @@
       "website": "https://www.raiders.at",
       "address": "Stadionstraße 1 (Tivoli Stadion), 6020 Innsbruck",
       "lat": 47.2558,
-      "lon": 11.4108
+      "lon": 11.4108,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Tivoli Stadion Innsbruck als Spielort verifiziert."
     },
     {
       "name": "Padelfield Tirol",
@@ -54,7 +90,10 @@
       "website": "https://www.padel-field.at",
       "address": "Valiergasse 15, 6020 Innsbruck",
       "lat": 47.2631,
-      "lon": 11.4253
+      "lon": 11.4253,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Standort Valiergasse verifiziert."
     },
     {
       "name": "192m-Bungy Europabrücke",
@@ -64,8 +103,11 @@
       "code": "192m-eb-freizeit",
       "website": "https://www.europabruecke.at",
       "address": "Europabrücke, 6141 Schönberg im Stubaital",
-      "lat": 47.2089,
-      "lon": 11.4019
+      "lat": 47.200483,
+      "lon": 11.400548,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Standort Europabrücke verifiziert."
     },
     {
       "name": "Experience Tirol",
@@ -75,8 +117,11 @@
       "code": null,
       "website": "https://www.experiencetirol.com",
       "address": "Maria-Theresien-Straße 31 (Kaufhaus Tyrol), 6020 Innsbruck",
-      "lat": 47.2655,
-      "lon": 11.3941
+      "lat": 47.265491,
+      "lon": 11.395165,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Standort Kaufhaus Tyrol verifiziert."
     },
     {
       "name": "Your Dome",
@@ -86,8 +131,11 @@
       "code": null,
       "website": "https://www.yourdome.tirol",
       "address": "Alte Landstraße 15, 6130 Schwaz",
-      "lat": 47.3482,
-      "lon": 11.7145
+      "lat": 47.353945,
+      "lon": 11.727222,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Standort Schwaz verifiziert."
     },
     {
       "name": "WSG Tirol",
@@ -99,7 +147,10 @@
       "address": "Stadionstraße 1 (Tivoli Stadion), 6020 Innsbruck",
       "lat": 47.2558,
       "lon": 11.4108,
-      "maxUses": 3
+      "maxUses": 3,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Tivoli Stadion Ostkasse verifiziert."
     },
     {
       "name": "Kaunertaler Gletscher",
@@ -110,7 +161,10 @@
       "website": "https://www.kaunertaler-gletscher.at",
       "address": "Gletscherstraße, 6524 Feichten im Kaunertal",
       "lat": 46.8669,
-      "lon": 10.733
+      "lon": 10.733,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Kaunertal Gletscherstraße verifiziert."
     },
     {
       "name": "Pitztaler Gletscher",
@@ -121,7 +175,10 @@
       "website": "https://www.pitztaler-gletscher.at",
       "address": "Mittelberg, 6481 St. Leonhard im Pitztal",
       "lat": 46.9286,
-      "lon": 10.8728
+      "lon": 10.8728,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Mittelberg Pitztal verifiziert."
     },
     {
       "name": "Holiday on Ice 2027",
@@ -132,7 +189,10 @@
       "website": "https://www.holidayonice.com",
       "address": "Olympiastraße 10 (Olympiahalle), 6020 Innsbruck",
       "lat": 47.258,
-      "lon": 11.409
+      "lon": 11.409,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Olympiahalle Innsbruck verifiziert."
     },
     {
       "name": "Invibe",
@@ -141,9 +201,223 @@
       "category": "Sport",
       "code": null,
       "website": "https://www.invibe.at",
-      "address": "Diverse Standorte (z.B. Grabenweg 68, 6020 Innsbruck)",
-      "lat": 47.2642,
-      "lon": 11.4312
+      "address": "INVIBE Axams: Innsbrucker Straße 80, 6094 Axams; INVIBE Brixlegg: Niederfeldweg 9c, 6230 Brixlegg; INVIBE Fiss: Fisser Straße 42/1, 6533 Fiss; INVIBE Fügen: Zillertalstraße 31, 6263 Fügen; INVIBE Hall in Tirol: Behaimstraße 2, 6060 Hall in Tirol; INVIBE Innsbruck Tivoli: Stadionstraße 1, 6020 Innsbruck; INVIBE Innsbruck West: Mitterweg 16, 6020 Innsbruck; INVIBE Kitzbühel: Jochberger Straße 98, 6370 Kitzbühel; INVIBE Kufstein: Salurner Straße 22, 6330 Kufstein; INVIBE Ried: Ärztehaus 51, 6531 Ried; INVIBE Schwaz: Bahnhofstraße 16, 6130 Schwaz; INVIBE Schwaz Urban: Spornbergerstraße 1, 6130 Schwaz; INVIBE St. Johann in Tirol: Mauthfeld 12, 6380 St. Johann in Tirol; INVIBE Tarrenz: Hauptstraße 78, 6464 Tarrenz; INVIBE Telfs: Obermarktstraße 41, 6410 Telfs; INVIBE Völs: Cytastraße 7, 6176 Völs; INVIBE Volders: Kreuzbichl 5, 6111 Volders; INVIBE Wörgl: Salzburger Straße 32/M4, 6300 Wörgl; INVIBE Zams: Hauptplatz 4, 6511 Zams",
+      "lat": null,
+      "lon": null,
+      "locations": [
+        {
+          "id": "axams",
+          "name": "INVIBE Axams",
+          "address": "Innsbrucker Straße 80, 6094 Axams",
+          "lat": 47.2302,
+          "lon": 11.2821,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "brixlegg",
+          "name": "INVIBE Brixlegg",
+          "address": "Niederfeldweg 9c, 6230 Brixlegg",
+          "lat": 47.4325,
+          "lon": 11.8781,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "fiss",
+          "name": "INVIBE Fiss",
+          "address": "Fisser Straße 42/1, 6533 Fiss",
+          "lat": 47.0561,
+          "lon": 10.6191,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "fuegen",
+          "name": "INVIBE Fügen",
+          "address": "Zillertalstraße 31, 6263 Fügen",
+          "lat": 47.3481,
+          "lon": 11.8502,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "hall",
+          "name": "INVIBE Hall in Tirol",
+          "address": "Behaimstraße 2, 6060 Hall in Tirol",
+          "lat": 47.2818,
+          "lon": 11.5072,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "tivoli",
+          "name": "INVIBE Innsbruck Tivoli",
+          "address": "Stadionstraße 1, 6020 Innsbruck",
+          "lat": 47.2558,
+          "lon": 11.4108,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "innsbruck-west",
+          "name": "INVIBE Innsbruck West",
+          "address": "Mitterweg 16, 6020 Innsbruck",
+          "lat": 47.2642,
+          "lon": 11.3731,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "kitzbuehel",
+          "name": "INVIBE Kitzbühel",
+          "address": "Jochberger Straße 98, 6370 Kitzbühel",
+          "lat": 47.4381,
+          "lon": 12.3921,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "kufstein",
+          "name": "INVIBE Kufstein",
+          "address": "Salurner Straße 22, 6330 Kufstein",
+          "lat": 47.5792,
+          "lon": 12.1625,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "ried",
+          "name": "INVIBE Ried",
+          "address": "Ärztehaus 51, 6531 Ried",
+          "lat": 47.0541,
+          "lon": 10.6521,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "schwaz",
+          "name": "INVIBE Schwaz",
+          "address": "Bahnhofstraße 16, 6130 Schwaz",
+          "lat": 47.349635,
+          "lon": 11.702444,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "schwaz-urban",
+          "name": "INVIBE Schwaz Urban",
+          "address": "Spornbergerstraße 1, 6130 Schwaz",
+          "lat": 47.347456,
+          "lon": 11.699837,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "st-johann",
+          "name": "INVIBE St. Johann in Tirol",
+          "address": "Mauthfeld 12, 6380 St. Johann in Tirol",
+          "lat": 47.5211,
+          "lon": 12.4281,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "tarrenz",
+          "name": "INVIBE Tarrenz",
+          "address": "Hauptstraße 78, 6464 Tarrenz",
+          "lat": 47.2651,
+          "lon": 10.7612,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "telfs",
+          "name": "INVIBE Telfs",
+          "address": "Obermarktstraße 41, 6410 Telfs",
+          "lat": 47.3061,
+          "lon": 11.0721,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "voels",
+          "name": "INVIBE Völs",
+          "address": "Cytastraße 7, 6176 Völs",
+          "lat": 47.2556,
+          "lon": 11.3286,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-08",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "volders",
+          "name": "INVIBE Volders",
+          "address": "Kreuzbichl 5, 6111 Volders",
+          "lat": 47.2881,
+          "lon": 11.5621,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "woergl",
+          "name": "INVIBE Wörgl",
+          "address": "Salzburger Straße 32/M4, 6300 Wörgl",
+          "lat": 47.4831,
+          "lon": 12.0681,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "zams",
+          "name": "INVIBE Zams",
+          "address": "Hauptplatz 4, 6511 Zams",
+          "lat": 47.1581,
+          "lon": 10.5891,
+          "addressSource": "https://www.invibe.at/standorte/",
+          "coordinateSource": "https://www.invibe.at/standorte/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        }
+      ],
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "INVIBE Völs Koordinaten nachgebessert."
     },
     {
       "name": "Casinos Innsbruck / Seefeld / Kitzbühel",
@@ -152,10 +426,48 @@
       "category": "Erlebnis",
       "code": null,
       "website": "https://www.casinos.at",
-      "address": "Salurner Straße 15, 6020 Innsbruck (u.a.)",
-      "lat": 47.2638,
-      "lon": 11.3965,
-      "maxUses": 3
+      "address": "Casino Innsbruck: Salurner Straße 15, 6020 Innsbruck; Casino Seefeld: Bahnhofstraße 124, 6100 Seefeld in Tirol; Casino Kitzbühel: Hinterstadt 24, 6370 Kitzbühel",
+      "lat": 47.262114,
+      "lon": 11.3963574,
+      "maxUses": 3,
+      "locations": [
+        {
+          "id": "innsbruck",
+          "name": "Casino Innsbruck",
+          "address": "Salurner Straße 15, 6020 Innsbruck",
+          "lat": 47.262114,
+          "lon": 11.3963574,
+          "addressSource": "https://www.casinos.at/casinos/innsbruck/kontakt-oeffnungszeiten",
+          "coordinateSource": "https://goo.gl/maps/q6gdGCuyR8JtWvFLA",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "provider_map"
+        },
+        {
+          "id": "seefeld",
+          "name": "Casino Seefeld",
+          "address": "Bahnhofstraße 124, 6100 Seefeld in Tirol",
+          "lat": 47.3291479,
+          "lon": 11.1884722,
+          "addressSource": "https://www.casinos.at/casinos/seefeld/kontakt-oeffnungszeiten",
+          "coordinateSource": "https://goo.gl/maps/prjQ8ad2jHshqG8H7",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "provider_map"
+        },
+        {
+          "id": "kitzbuehel",
+          "name": "Casino Kitzbühel",
+          "address": "Hinterstadt 24, 6370 Kitzbühel",
+          "lat": 47.4458813,
+          "lon": 12.390489,
+          "addressSource": "https://www.casinos.at/casinos/kitzbuehel/kontakt-oeffnungszeiten",
+          "coordinateSource": "https://www.casinos.at/casinos/kitzbuehel/kontakt-oeffnungszeiten",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "provider_map"
+        }
+      ],
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Drei Standorte bei einem Partner; maxUses=3 bleibt unverändert gemeinsam. Seefeld: Kontaktadresse Bahnhofstraße 124; FAQ nennt abweichend Dorfplatz 137 (Parken). Kartenlink des Betreibers verwendet."
     },
     {
       "name": "Air 4 You Tandemflüge",
@@ -166,7 +478,10 @@
       "website": "https://www.air4you.at",
       "address": "Moos 12, 6167 Neustift im Stubaital",
       "lat": 47.1085,
-      "lon": 11.306
+      "lon": 11.306,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Treffpunkt Neustift im Stubaital verifiziert."
     },
     {
       "name": "METROPOL – Tirols Multiplex",
@@ -175,9 +490,25 @@
       "category": "Kultur",
       "code": null,
       "website": "https://www.metropol-kino.at",
-      "address": "Innstraße 5, 6020 Innsbruck",
-      "lat": 47.2693,
-      "lon": 11.3934
+      "address": "METROPOL Innsbruck: Innstraße 5, 6020 Innsbruck",
+      "lat": 47.269121,
+      "lon": 11.390337,
+      "locations": [
+        {
+          "id": "innsbruck",
+          "name": "METROPOL Innsbruck",
+          "address": "Innstraße 5, 6020 Innsbruck",
+          "lat": 47.269121,
+          "lon": 11.390337,
+          "addressSource": "https://www.metropol-kino.at/kino/metropol-kino",
+          "coordinateSource": "https://www.metropol-kino.at/kino/metropol-kino",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "provider_map"
+        }
+      ],
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Koordinaten aus dem Kartenlink der Kinoseite; alter Punkt etwa 230 m zu weit östlich."
     },
     {
       "name": "Body & Soul",
@@ -188,7 +519,10 @@
       "website": "https://www.bodyandsoul.at",
       "address": "Mitterweg 16, 6020 Innsbruck",
       "lat": 47.2642,
-      "lon": 11.3731
+      "lon": 11.3731,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Mitterweg Innsbruck verifiziert."
     },
     {
       "name": "FLIP LAB Innsbruck",
@@ -197,9 +531,25 @@
       "category": "Erlebnis",
       "code": "FTT2021",
       "website": "https://www.fliplab.at/innsbruck",
-      "address": "Gießenweg 15 (Cyta Areal), 6176 Völs",
-      "lat": 47.257,
-      "lon": 11.326
+      "address": "FLIP LAB Innsbruck: Landesstraße 3, 6176 Völs",
+      "lat": 47.2549637,
+      "lon": 11.3272575,
+      "locations": [
+        {
+          "id": "voels",
+          "name": "FLIP LAB Innsbruck",
+          "address": "Landesstraße 3, 6176 Völs",
+          "lat": 47.2549637,
+          "lon": 11.3272575,
+          "addressSource": "https://fliplab.at/innsbruck/",
+          "coordinateSource": "https://fliplab.at/innsbruck/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "provider_map"
+        }
+      ],
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Betreiber-Adresse und Ortspunkt übernommen; Gießenweg 15 ersetzt."
     },
     {
       "name": "Bewegung berührt",
@@ -210,7 +560,10 @@
       "website": "https://bewegung-beruehrt.at/",
       "address": "Tirol (Online Buchung)",
       "lat": null,
-      "lon": null
+      "lon": null,
+      "locationType": "unknown",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Dienstleister auf Anfrage bzw. Kursbasis."
     },
     {
       "name": "Golfschule Seefeld",
@@ -221,7 +574,10 @@
       "website": "https://www.seefeldgolf.com",
       "address": "Reitherspitzstraße 632, 6100 Seefeld in Tirol",
       "lat": 47.3323,
-      "lon": 11.1925
+      "lon": 11.1925,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Reitherspitzstraße Seefeld verifiziert."
     },
     {
       "name": "Naturmentalcoaching",
@@ -232,7 +588,11 @@
       "website": "https://www.naturmentalcoach.com",
       "address": "Online",
       "lat": null,
-      "lon": null
+      "lon": null,
+      "locationType": "online",
+      "locations": [],
+      "locationReviewStatus": "online",
+      "locationReviewNote": "Reines Onlineangebot."
     },
     {
       "name": "Banger Park Scharnitz",
@@ -243,7 +603,10 @@
       "website": "https://www.bangerpark.com",
       "address": "Innsbrucker Str. 367, 6108 Scharnitz",
       "lat": 47.389,
-      "lon": 11.265
+      "lon": 11.265,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Standort Scharnitz verifiziert."
     },
     {
       "name": "THE FLYING SOFA",
@@ -254,7 +617,10 @@
       "website": "https://www.theflyingsofa.at",
       "address": "Fürstenweg 180 (Flughafen), 6020 Innsbruck",
       "lat": 47.2596,
-      "lon": 11.3485
+      "lon": 11.3485,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Flughafen Innsbruck General Aviation Areal verifiziert."
     },
     {
       "name": "Up Stream Surfing",
@@ -263,9 +629,12 @@
       "category": "Sport",
       "code": "Freizeitticket2021",
       "website": "https://www.upstreamsurfing.com",
-      "address": "Kranebitter Allee, 6020 Innsbruck",
-      "lat": 47.262,
-      "lon": 11.343
+      "address": "Hans-Flöckinger-Promenade 199, 6020 Innsbruck",
+      "lat": 47.2562,
+      "lon": 11.3323,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Adresse auf aktuellen Surf- und Chillspot (Airport Reef) korrigiert."
     },
     {
       "name": "Inntour Active Holidays",
@@ -276,7 +645,11 @@
       "website": "https://www.inntour.at",
       "address": "Online Buchung",
       "lat": null,
-      "lon": null
+      "lon": null,
+      "locationType": "online",
+      "locations": [],
+      "locationReviewStatus": "online",
+      "locationReviewNote": "Online-Reisebuchung."
     },
     {
       "name": "Bootsvermietung & Rafting Innsbruck",
@@ -287,7 +660,10 @@
       "website": "https://www.mietboot.at",
       "address": "Innsbruck (Inn)",
       "lat": null,
-      "lon": null
+      "lon": null,
+      "locationType": "unknown",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Mietboot Einstiegspunkte nach Vereinbarung."
     },
     {
       "name": "Bergschule Tirol – Seefeld",
@@ -295,10 +671,13 @@
       "detail": "15 % Rabatt auf Aktivitäten wie Biketouren, Wanderungen, Klettersteige, Canyoning, Rafting, Paragleiten uvm.",
       "category": "Erlebnis",
       "code": null,
-      "website": "https://www.bergschule-tirol.at",
-      "address": "Olympiastraße, 6100 Seefeld in Tirol",
-      "lat": 47.329,
-      "lon": 11.189
+      "website": "https://www.bergschuletirol.com/",
+      "address": "Gschwandtkopf 702, 6100 Seefeld in Tirol",
+      "lat": 47.324722,
+      "lon": 11.179664,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Standort Seefeld Gschwandtkopf verifiziert."
     },
     {
       "name": "Malkurse mit Silvia Paizoni",
@@ -306,10 +685,13 @@
       "detail": "10 % Rabatt auf die angebotenen Kurse beim ausgebildeten Bob Ross® Instruktor.",
       "category": "Kultur",
       "code": null,
-      "website": "https://www.malkurse-tirol.at",
-      "address": "Innsbruck",
-      "lat": null,
-      "lon": null
+      "website": "https://www.malschule.tirol/",
+      "address": "Loaweg 40, 6091 Götzens",
+      "lat": 47.237698,
+      "lon": 11.316775,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Loaweg Götzens verifiziert."
     },
     {
       "name": "ACON Trampoline",
@@ -318,9 +700,36 @@
       "category": "Einkaufen",
       "code": null,
       "website": "https://acon24.at",
-      "address": "Online / Abholung im Airparc Stubai oder Zillertal",
-      "lat": null,
-      "lon": null
+      "address": "ACON Abholung – AIRPARC Stubai: Telfer Landesstraße 1, 6165 Telfes im Stubai; ACON Abholung – AIRPARC Zillertal: Gewerbestraße 6, 6272 Kaltenbach",
+      "lat": 47.160662,
+      "lon": 11.3551086,
+      "locations": [
+        {
+          "id": "stubai",
+          "name": "ACON Abholung – AIRPARC Stubai",
+          "address": "Telfer Landesstraße 1, 6165 Telfes im Stubai",
+          "lat": 47.160662,
+          "lon": 11.3551086,
+          "addressSource": "https://airparc.com/stubai/kontakt/",
+          "coordinateSource": "https://airparc.com/stubai/anfahrt/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "provider_map"
+        },
+        {
+          "id": "zillertal",
+          "name": "ACON Abholung – AIRPARC Zillertal",
+          "address": "Gewerbestraße 6, 6272 Kaltenbach",
+          "lat": 47.2896627,
+          "lon": 11.8754628,
+          "addressSource": "https://airparc.com/zillertal/kontakt/",
+          "coordinateSource": "https://airparc.com/zillertal/anfahrt/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "provider_map"
+        }
+      ],
+      "locationType": "mixed",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Abholung laut Freizeitticket-Seite im AIRPARC Stubai oder Zillertal; Onlinebestellung weiterhin möglich. Vor Abholung Termin/Verfügbarkeit prüfen."
     },
     {
       "name": "MONS ROYALE STORE INNSBRUCK",
@@ -329,9 +738,12 @@
       "category": "Einkaufen",
       "code": null,
       "website": "https://eu.monsroyale.com",
-      "address": "Maria-Theresien-Straße 42, 6020 Innsbruck",
-      "lat": 47.2642,
-      "lon": 11.3948
+      "address": "Burggraben 2, 6020 Innsbruck",
+      "lat": 47.267532,
+      "lon": 11.394891,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Burggraben 2 Innsbruck verifiziert."
     },
     {
       "name": "CORTHEA CONCEPT STORE",
@@ -340,9 +752,12 @@
       "category": "Einkaufen",
       "code": "FREIZEIT10",
       "website": "https://www.corthea.com",
-      "address": "Erlerstraße 4, 6020 Innsbruck",
-      "lat": 47.2667,
-      "lon": 11.3957
+      "address": "Maria-Theresien-Straße 38, 6020 Innsbruck",
+      "lat": 47.263741,
+      "lon": 11.394814,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Maria-Theresien-Straße 38 Innsbruck verifiziert."
     },
     {
       "name": "Sport Stubai",
@@ -350,10 +765,13 @@
       "detail": "10 % Rabatt auf Verleih (Winter) und Verkauf (ausg. reduzierte Ware, Gutscheine) in Neustift.",
       "category": "Einkaufen",
       "code": null,
-      "website": "https://www.sportstubai.at",
-      "address": "Dorf 3, 6167 Neustift im Stubaital",
-      "lat": 47.11,
-      "lon": 11.3065
+      "website": "https://sport-stubai.com",
+      "address": "Stubaitalstraße 62, 6167 Neustift im Stubaital",
+      "lat": 47.120605,
+      "lon": 11.32144,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Stubaitalstraße 62 Neustift verifiziert."
     },
     {
       "name": "Melon Optics",
@@ -362,9 +780,12 @@
       "category": "Einkaufen",
       "code": null,
       "website": "https://www.melonoptics.com",
-      "address": "Adolf-Pichler-Platz, 6020 Innsbruck",
-      "lat": 47.2651,
-      "lon": 11.3917
+      "address": "Adolf-Pichler-Platz 12, 6020 Innsbruck",
+      "lat": 47.266178,
+      "lon": 11.391722,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Doppelte Ortsangabe in Adresse korrigiert."
     },
     {
       "name": "Odlo Store Innsbruck",
@@ -373,9 +794,12 @@
       "category": "Einkaufen",
       "code": null,
       "website": "https://www.odlo.com",
-      "address": "Maria-Theresien-Straße 57, 6020 Innsbruck",
-      "lat": 47.2635,
-      "lon": 11.3952
+      "address": "Maria-Theresien-Straße 18, 6020 Innsbruck",
+      "lat": 47.265869,
+      "lon": 11.394098,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Maria-Theresien-Straße 18 Innsbruck verifiziert."
     },
     {
       "name": "Eleonto",
@@ -386,7 +810,11 @@
       "website": "https://www.eleonto.com",
       "address": "Online",
       "lat": null,
-      "lon": null
+      "lon": null,
+      "locationType": "online",
+      "locations": [],
+      "locationReviewStatus": "online",
+      "locationReviewNote": "Reines Onlineangebot."
     },
     {
       "name": "Milo Action Communicator",
@@ -397,7 +825,11 @@
       "website": "https://www.okmilo.com",
       "address": "Online",
       "lat": null,
-      "lon": null
+      "lon": null,
+      "locationType": "online",
+      "locations": [],
+      "locationReviewStatus": "online",
+      "locationReviewNote": "Reines Onlineangebot."
     },
     {
       "name": "bolting.eu Klettershop Innsbruck",
@@ -406,9 +838,12 @@
       "category": "Einkaufen",
       "code": null,
       "website": "https://www.bolting.eu",
-      "address": "Andechsstraße 85, 6020 Innsbruck",
-      "lat": 47.2685,
-      "lon": 11.4172
+      "address": "Fischnalerstraße 4, 6020 Innsbruck",
+      "lat": 47.264177,
+      "lon": 11.380068,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Fischnalerstraße 4 Innsbruck verifiziert."
     },
     {
       "name": "DELAYON Eyewear",
@@ -419,7 +854,11 @@
       "website": "https://www.delayon-eyewear.at",
       "address": "Online",
       "lat": null,
-      "lon": null
+      "lon": null,
+      "locationType": "online",
+      "locations": [],
+      "locationReviewStatus": "online",
+      "locationReviewNote": "Reines Onlineangebot."
     },
     {
       "name": "Appelt Juwelen",
@@ -428,9 +867,36 @@
       "category": "Einkaufen",
       "code": null,
       "website": "https://www.appelt.at",
-      "address": "Herzog-Friedrich-Straße 21, 6020 Innsbruck",
-      "lat": 47.2682,
-      "lon": 11.3931
+      "address": "Appelt Rathausgalerien Innsbruck: Maria-Theresien-Straße 18, 6020 Innsbruck; Appelt Fulpmes: Riehlstraße 1, 6166 Fulpmes",
+      "lat": 47.2654702,
+      "lon": 11.3911008,
+      "locations": [
+        {
+          "id": "innsbruck",
+          "name": "Appelt Rathausgalerien Innsbruck",
+          "address": "Maria-Theresien-Straße 18, 6020 Innsbruck",
+          "lat": 47.2654702,
+          "lon": 11.3911008,
+          "addressSource": "https://www.appelt.at/",
+          "coordinateSource": "https://www.appelt.at/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "provider_map"
+        },
+        {
+          "id": "fulpmes",
+          "name": "Appelt Fulpmes",
+          "address": "Riehlstraße 1, 6166 Fulpmes",
+          "lat": 47.152462,
+          "lon": 11.3462432,
+          "addressSource": "https://www.appelt.at/",
+          "coordinateSource": "https://www.appelt.at/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "provider_map"
+        }
+      ],
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Innsbruck Rathausgalerien und Fulpmes verifiziert."
     },
     {
       "name": "Burton Store Innsbruck",
@@ -441,7 +907,10 @@
       "website": "https://www.burton.com",
       "address": "Haller Straße 111, 6020 Innsbruck",
       "lat": 47.273,
-      "lon": 11.4285
+      "lon": 11.4285,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Haller Straße 111 verifiziert."
     },
     {
       "name": "Naturprodukte aus Tirol",
@@ -452,7 +921,11 @@
       "website": "https://www.naturprodukte-tirol.com",
       "address": "Online",
       "lat": null,
-      "lon": null
+      "lon": null,
+      "locationType": "online",
+      "locations": [],
+      "locationReviewStatus": "online",
+      "locationReviewNote": "Reines Onlineangebot."
     },
     {
       "name": "INTERSPORT OKAY - 3x in Innsbruck",
@@ -461,9 +934,47 @@
       "category": "Einkaufen",
       "code": null,
       "website": "https://www.intersport-okay.at",
-      "address": "Maria-Theresien-Straße 31 (Kaufhaus Tyrol), 6020 Innsbruck",
+      "address": "INTERSPORT OKAY Kaufhaus Tyrol: Maria-Theresien-Straße 31, 6020 Innsbruck; INTERSPORT OKAY Landhausplatz: Maria-Theresien-Straße 47, 6020 Innsbruck; INTERSPORT OKAY Cyta: Cytastraße 22, 6176 Völs",
       "lat": 47.2655,
-      "lon": 11.3941
+      "lon": 11.3941,
+      "locations": [
+        {
+          "id": "kaufhaus-tyrol",
+          "name": "INTERSPORT OKAY Kaufhaus Tyrol",
+          "address": "Maria-Theresien-Straße 31, 6020 Innsbruck",
+          "lat": 47.2655,
+          "lon": 11.3941,
+          "addressSource": "https://www.intersport-okay.at/standorte/innsbruck/kaufhaus-tyrol/",
+          "coordinateSource": "https://www.intersport-okay.at/standorte/innsbruck/kaufhaus-tyrol/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "landhausplatz",
+          "name": "INTERSPORT OKAY Landhausplatz",
+          "address": "Maria-Theresien-Straße 47, 6020 Innsbruck",
+          "lat": 47.2648,
+          "lon": 11.3952,
+          "addressSource": "https://www.intersport-okay.at/standorte/innsbruck/flagshipstore-okay/",
+          "coordinateSource": "https://www.intersport-okay.at/standorte/innsbruck/flagshipstore-okay/",
+          "checkedAt": "2026-10-08",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "cyta",
+          "name": "INTERSPORT OKAY Cyta",
+          "address": "Cytastraße 22, 6176 Völs",
+          "lat": 47.2575,
+          "lon": 11.3242,
+          "addressSource": "https://www.intersport-okay.at/standorte/voels/cyta/",
+          "coordinateSource": "https://www.intersport-okay.at/standorte/voels/cyta/",
+          "checkedAt": "2026-10-08",
+          "coordinateStatus": "checked"
+        }
+      ],
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Drei Standorte in Innsbruck/Völs verifiziert und mit GPS-Koordinaten hinterlegt. Landhausplatz und Cyta exakt justiert."
     },
     {
       "name": "Weinshoptirol",
@@ -474,7 +985,11 @@
       "website": "https://www.weinshoptirol.at",
       "address": "Online",
       "lat": null,
-      "lon": null
+      "lon": null,
+      "locationType": "online",
+      "locations": [],
+      "locationReviewStatus": "online",
+      "locationReviewNote": "Reines Onlineangebot."
     },
     {
       "name": "Matadorworld",
@@ -485,7 +1000,11 @@
       "website": "https://www.matadorworld.com",
       "address": "Online",
       "lat": null,
-      "lon": null
+      "lon": null,
+      "locationType": "online",
+      "locations": [],
+      "locationReviewStatus": "online",
+      "locationReviewNote": "Reines Onlineangebot."
     },
     {
       "name": "Rossignol",
@@ -496,7 +1015,11 @@
       "website": "https://www.rossignol.com",
       "address": "Online",
       "lat": null,
-      "lon": null
+      "lon": null,
+      "locationType": "online",
+      "locations": [],
+      "locationReviewStatus": "online",
+      "locationReviewNote": "Reines Onlineangebot."
     },
     {
       "name": "Sport Baumgartner Völs",
@@ -505,9 +1028,12 @@
       "category": "Einkaufen",
       "code": null,
       "website": "https://www.sport-baumgartner.at",
-      "address": "Bahnhofstraße 10, 6176 Völs",
-      "lat": 47.2562,
-      "lon": 11.3255
+      "address": "Gießenweg 1/2, 6176 Völs",
+      "lat": 47.2530,
+      "lon": 11.3218,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Adresse von Bahnhofstraße 10 auf Gießenweg 1/2 korrigiert und exakte Koordinaten hinterlegt."
     },
     {
       "name": "Sport Bartl",
@@ -518,7 +1044,10 @@
       "website": "https://www.sport-bartl.at",
       "address": "Pradler Straße 45, 6020 Innsbruck",
       "lat": 47.2653,
-      "lon": 11.4087
+      "lon": 11.4087,
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Pradler Straße 45 Innsbruck verifiziert."
     },
     {
       "name": "Daniel Haslwanter Fotografie",
@@ -526,10 +1055,13 @@
       "detail": "15 % Ermäßigung auf Familien- und Couple-Shootings. Nicht mit anderen Rabatten kombinierbar.",
       "category": "Erlebnis",
       "code": null,
-      "website": null,
-      "address": null,
+      "website": "https://www.danielhaslwanter.at/",
+      "address": "Tirol (Termin nach Vereinbarung)",
       "lat": null,
-      "lon": null
+      "lon": null,
+      "locationType": "unknown",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Fotografie-Dienstleistung auf Terminvereinbarung in ganz Tirol."
     },
     {
       "name": "InSALT – Salzraum Tirol",
@@ -537,10 +1069,26 @@
       "detail": "10 % Ermäßigung auf Einzelsitzungen bei InSALT. Nicht mit anderen Rabatten, Aktionen oder Karten kombinierbar.",
       "category": "Wellness",
       "code": null,
-      "website": null,
-      "address": null,
-      "lat": null,
-      "lon": null
+      "website": "https://www.insalt.at/",
+      "address": "InSALT Salzraum Tirol: Stublerfeld 25, 6123 Terfens (Vomperbach)",
+      "lat": 47.324806,
+      "lon": 11.675543,
+      "locations": [
+        {
+          "id": "terfens",
+          "name": "InSALT Salzraum Tirol",
+          "address": "Stublerfeld 25, 6123 Terfens (Vomperbach)",
+          "lat": 47.324806,
+          "lon": 11.675543,
+          "addressSource": "https://www.insalt.at/kontakt-und-termin",
+          "coordinateSource": "https://www.insalt.at/kontakt-und-termin",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "provider_map"
+        }
+      ],
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Standort Terfens verifiziert."
     },
     {
       "name": "Silvretta Therme Ischgl",
@@ -548,10 +1096,26 @@
       "detail": "10 % Rabatt auf alle regulären Eintritts- und Nachzahltarife für Therme (Badewelt), Sauna und Kombi-Tickets an der Thermenkassa in Ischgl. Keine Doppelrabattierungen, nicht online einlösbar. Gültig von 01.10. bis 25.11.2026.",
       "category": "Wellness",
       "code": null,
-      "website": null,
-      "address": "Silvrettaplatz 2, 6561 Ischgl",
-      "lat": 47.011,
-      "lon": 10.289
+      "website": "https://www.silvrettatherme.at/",
+      "address": "Silvretta Therme Ischgl: Brandweg 2, 6561 Ischgl",
+      "lat": 47.0132695,
+      "lon": 10.2888147,
+      "locations": [
+        {
+          "id": "ischgl",
+          "name": "Silvretta Therme Ischgl",
+          "address": "Brandweg 2, 6561 Ischgl",
+          "lat": 47.0132695,
+          "lon": 10.2888147,
+          "addressSource": "https://www.silvrettatherme.at/de/Info-Service/Kontakt",
+          "coordinateSource": "https://sgmiatli.com/erleben/winter-aktivitaeten/silvretta-therme/",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "provider_map"
+        }
+      ],
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Adresse und Koordinaten Ischgl verifiziert."
     },
     {
       "name": "IBSF Bob und Skeleton Doppelweltcup",
@@ -559,10 +1123,26 @@
       "detail": "1+1 Gratis-Ticket an der Tageskassa gegen Vorlage des Freizeittickets für den IBSF Bob und Skeleton Doppelweltcup vom 04.–06.12.2026 sowie 10.–13.12.2026.",
       "category": "Sport",
       "code": null,
-      "website": null,
-      "address": "Olympiastraße 10, 6080 Igls",
-      "lat": 47.221,
-      "lon": 11.434
+      "website": "https://www.olympiaworld.at",
+      "address": "Olympia Eiskanal Innsbruck-Igls: Heiligwasserwiese 1, 6080 Innsbruck-Igls",
+      "lat": 47.2261,
+      "lon": 11.4267,
+      "locations": [
+        {
+          "id": "igls",
+          "name": "Olympia Eiskanal Innsbruck-Igls",
+          "address": "Heiligwasserwiese 1, 6080 Innsbruck-Igls",
+          "lat": 47.2261,
+          "lon": 11.4267,
+          "addressSource": "https://www.olympiaworld.at/events-tickets/ibsf-weltcup-bob-und-skeleton-2026-i/",
+          "coordinateSource": "https://www.olympiaworld.at",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        }
+      ],
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "Olympia Eiskanal Igls verifiziert und Koordinaten ergänzt."
     },
     {
       "name": "Vapiano",
@@ -571,9 +1151,36 @@
       "category": "Einkaufen",
       "code": null,
       "website": "https://www.vapiano.at",
-      "address": null,
-      "lat": null,
-      "lon": null
+      "address": "VAPIANO Innsbruck Triumphpforte: Leopoldstraße 1, 6020 Innsbruck; VAPIANO Innsbruck Bleichenweg: Bleichenweg 18, 6020 Innsbruck",
+      "lat": 47.259697,
+      "lon": 11.396531,
+      "locations": [
+        {
+          "id": "innsbruck-triumphpforte",
+          "name": "VAPIANO Innsbruck Triumphpforte",
+          "address": "Leopoldstraße 1, 6020 Innsbruck",
+          "lat": 47.262342,
+          "lon": 11.395152,
+          "addressSource": "https://www.vapiano.at/en/restaurants/innsbruck-triumphpforte/",
+          "coordinateSource": "https://www.vapiano.at/en/restaurants/#innsbruck",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        },
+        {
+          "id": "innsbruck-bleichenweg",
+          "name": "VAPIANO Innsbruck Bleichenweg",
+          "address": "Bleichenweg 18, 6020 Innsbruck",
+          "lat": 47.262596,
+          "lon": 11.433537,
+          "addressSource": "https://www.vapiano.at/en/restaurants/innsbruck-bleichenweg/",
+          "coordinateSource": "https://www.vapiano.at/en/restaurants/#innsbruck",
+          "checkedAt": "2026-10-06",
+          "coordinateStatus": "checked"
+        }
+      ],
+      "locationType": "physical",
+      "locationReviewStatus": "checked",
+      "locationReviewNote": "JSON-Syntaxfehler bei coordinateSource korrigiert und Standorte verifiziert."
     }
   ]
 }
