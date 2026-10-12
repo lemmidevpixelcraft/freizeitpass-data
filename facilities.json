@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "facilities": [
     {
       "name": "Hungerburgbahn (Nordkette)",
@@ -629,7 +629,7 @@
     {
       "name": "Bergbahnen Kühtai",
       "category": "bergbahn",
-      "address": "Kühtai 48, 6183 Kühtai",
+      "address": "Kühtai 42, 6183 Kühtai",
       "lat": 47.214308,
       "lon": 11.0260581,
       "price": 0.0,
@@ -1828,7 +1828,7 @@
       "desc": "",
       "hours": "Sommersaison (ca. Mai–Sept), siehe Website (ohne Gewähr)",
       "notes": "",
-      "url": "https://www.hall-wattens.at/de/schwimmen-alpenschwimmbad.html",
+      "url": "https://www.wattens.com/sport-freizeit/#alpenbadwattens",
       "tickets": [
         {
           "name": "Tageskarte ohne Bürgerkarte",
