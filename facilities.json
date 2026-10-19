@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "facilities": [
     {
       "name": "Hungerburgbahn (Nordkette)",
@@ -560,36 +560,61 @@
       ]
     },
     {
-      "name": "Bergbahnen Rosshütte Seefeld",
-      "category": "bergbahn",
-      "address": "Talstation 419, 6100 Seefeld",
-      "lat": 47.3319211,
-      "lon": 11.199789,
-      "price": 0.0,
-      "maxEntries": 0,
-      "timeMin": 0,
-      "perDay": false,
-      "summerPrice": 0.0,
-      "winterPrice": 0.0,
-      "season": "yearRound",
-      "occupancy": "",
-      "desc": "",
-      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
-      "notes": "Freizeitticket Tirol gültig. Sommer: 3 Bahnen + Erlebnisspielplatz.",
-      "url": "https://www.rosshuette.at",
-      "tickets": [
-        {
-          "name": "Topkarte Sommer (alle 3 Bahnen)",
-          "price": 38.0,
-          "audience": "general"
-        },
-        {
-          "name": "Tagesticket Ski (Winter)",
-          "price": 59.5,
-          "audience": "general"
-        }
-      ]
+  "name": "Bergbahnen Rosshütte Seefeld",
+  "category": "bergbahn",
+  "address": "Rosshütte 419, 6100 Seefeld in Tirol",
+  "lat": 47.3319211,
+  "lon": 11.199789,
+  "price": 0.0,
+  "maxEntries": 0,
+  "timeMin": 0,
+  "perDay": false,
+  "summerPrice": 0.0,
+  "winterPrice": 0.0,
+  "season": "yearRound",
+  "occupancy": "",
+  "desc": "",
+  "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
+  "notes": "Freizeitticket Tirol Sommer wie Winter unbegrenzt und ohne Zutrittsbeschränkung nutzbar. Inkludiert sind alle drei Bergbahnen: Standseilbahn Rosshütte, Seefelder Jochbahn und Härmelekopfbahn. Parken kostet regulär € 10 pro Tag. Mit gültigem Freizeitticket ist das Parken während der Öffnungszeiten kostenlos; das kostenlose Parkticket ist ab 08:00 Uhr an den Parkautomaten erhältlich.",
+  "url": "https://www.rosshuette.at",
+  "tickets": [
+    {
+      "name": "Rosshütte Bergfahrt Sommer",
+      "price": 20.0,
+      "audience": "general"
     },
+    {
+      "name": "Joch- oder Härmelekopfbahn Bergfahrt Sommer",
+      "price": 30.5,
+      "audience": "general"
+    },
+    {
+      "name": "Rosshütte Berg- und Talfahrt Sommer",
+      "price": 28.0,
+      "audience": "general"
+    },
+    {
+      "name": "Joch- oder Härmelekopfbahn Berg- und Talfahrt Sommer",
+      "price": 34.0,
+      "audience": "general"
+    },
+    {
+      "name": "Topkarte Sommer - alle 3 Bahnen",
+      "price": 38.0,
+      "audience": "general"
+    },
+    {
+      "name": "Bergwanderticket Sommer - 3 Fahrten",
+      "price": 32.5,
+      "audience": "general"
+    },
+    {
+      "name": "Tagesticket Ski (Winter)",
+      "price": 59.5,
+      "audience": "general"
+    }
+  ]
+},
     {
       "name": "Kellerjochbahn Schwaz",
       "category": "bergbahn",
