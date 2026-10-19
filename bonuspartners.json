@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "partners": [
     {
       "name": "Ice Magic Innsbruck",
@@ -53,6 +53,20 @@
       "locationReviewStatus": "checked",
       "locationReviewNote": "Stubai-Punkt korrigiert und Kaltenbach ergänzt; jeweils Zielpunkt aus Betreiber-Routenlink, nicht der Kartenmittelpunkt."
     },
+    {
+  "name": "studiø3",
+  "discount": "+2 Monate gratis",
+  "detail": "+2 Monate gratis bei Abschluss einer Jahresmitgliedschaft im Boutique Gym studiø3. Nur bei Abschluss eines Jahresvertrages gültig.",
+  "category": "Sport",
+  "code": null,
+  "website": "https://www.studio03.at/",
+  "address": "Quellenweg 11b, 6167 Neustift",
+  "lat": 47.126781,
+  "lon": 11.336858,
+  "locationType": "physical",
+  "locationReviewStatus": "checked",
+  "locationReviewNote": "Neuer Bonuspartner Oktober 2026."
+},
     {
       "name": "Corthea Innsbruck",
       "discount": "10 %",
