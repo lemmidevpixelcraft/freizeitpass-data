@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "partners": [
     {
       "name": "Ice Magic Innsbruck",
@@ -70,7 +70,7 @@
     {
       "name": "Corthea Innsbruck",
       "discount": "10 %",
-      "detail": "10 % auf alle Anwendungen, online mit Code oder vor Ort bei Vorlage des Tickets. Keine Doppelrabattierung.",
+      "detail": "10 % auf alle Anwendungen, online mit Code FREIZEIT10 oder vor Ort bei Vorlage des Freizeittickets. Keine Doppelrabattierung; nicht mit anderen Aktionen kombinierbar.",
       "category": "Wellness",
       "code": "FREIZEIT10",
       "website": "https://www.corthea.com",
@@ -211,7 +211,7 @@
     {
       "name": "Invibe",
       "discount": "+2 Monate gratis",
-      "detail": "+2 Monate gratis zu jeder neuen Jahresmitgliedschaft. Ein Abo für ganz Tirol.",
+      "detail": "+2 Monate gratis zu jeder neuen Jahresmitgliedschaft. Ein Abo für ganz Tirol. Gültig für Jahresmitgliedschaften; nicht mit anderen Aktionen kombinierbar.",
       "category": "Sport",
       "code": null,
       "website": "https://www.invibe.at",
@@ -541,7 +541,7 @@
     {
       "name": "FLIP LAB Innsbruck",
       "discount": "€ 3,-",
-      "detail": "3 € Rabatt auf deine FLIPTIME. Bei Onlinebuchungen Code verwenden.",
+      "detail": "3 € Rabatt auf deine FLIPTIME. Bei Onlinebuchungen Code FTT2021 verwenden oder vor Ort das Freizeitticket vorzeigen. Gilt nur mit Freizeitticket und ist nicht mit anderen Rabattaktionen kombinierbar.",
       "category": "Erlebnis",
       "code": "FTT2021",
       "website": "https://www.fliplab.at/innsbruck",
@@ -639,7 +639,7 @@
     {
       "name": "Up Stream Surfing",
       "discount": "20 %",
-      "detail": "20 % Rabatt auf eine Up Stream Surfing Session. Ausgenommen reduzierte Leistungen/Gutscheine.",
+      "detail": "20 % Rabatt auf eine Up Stream Surfing Session mit dem Rabattcode Freizeitticket2021. Ausgenommen sind reduzierte Leistungen, Gutscheine und laufende Rabattaktionen.",
       "category": "Sport",
       "code": "Freizeitticket2021",
       "website": "https://www.upstreamsurfing.com",
@@ -748,7 +748,7 @@
     {
       "name": "MONS ROYALE STORE INNSBRUCK",
       "discount": "15 %",
-      "detail": "15% Rabatt auf nicht reduzierte Ware im Mons Royale Store Innsbruck.",
+      "detail": "15 % Rabatt auf nicht reduzierte Ware im Mons Royale Store Innsbruck. Nicht mit anderen Aktionen kombinierbar.",
       "category": "Einkaufen",
       "code": null,
       "website": "https://eu.monsroyale.com",
@@ -762,7 +762,7 @@
     {
       "name": "CORTHEA CONCEPT STORE",
       "discount": "10 %",
-      "detail": "Preisvorteil von 10 % im CORTHEA Concept Store auf das gesamte Sortiment (vor Ort oder online für Supplements).",
+      "detail": "10 % Preisvorteil auf das gesamte Sortiment; vor Ort bei Vorlage des Freizeittickets sowie online auf Supplements mit Code FREIZEIT10. Keine Doppelrabattierung; nicht mit anderen Aktionen kombinierbar.",
       "category": "Einkaufen",
       "code": "FREIZEIT10",
       "website": "https://www.corthea.com",
@@ -776,7 +776,7 @@
     {
       "name": "Sport Stubai",
       "discount": "10 %",
-      "detail": "10 % Rabatt auf Verleih (Winter) und Verkauf (ausg. reduzierte Ware, Gutscheine) in Neustift.",
+      "detail": "10 % Rabatt auf Verleih (Winter) und Verkauf in Neustift. Ausgenommen sind bereits reduzierte Ware, Gutscheine und andere Aktionen.",
       "category": "Einkaufen",
       "code": null,
       "website": "https://sport-stubai.com",
@@ -848,7 +848,7 @@
     {
       "name": "bolting.eu Klettershop Innsbruck",
       "discount": "10 %",
-      "detail": "10 % Rabatt auf das Sortiment bzw. 5 % Rabatt auf Kletterseile (ausg. rabattierte Artikel, Lebensmittel, Bücher und Gutscheine).",
+      "detail": "10 % Rabatt auf das Sortiment bzw. 5 % Rabatt auf Kletterseile. Ausgenommen sind rabattierte Artikel, Lebensmittel, Bücher und Gutscheine; nicht mit anderen Rabatten oder Gutscheinen kombinierbar.",
       "category": "Einkaufen",
       "code": null,
       "website": "https://www.bolting.eu",
@@ -862,7 +862,7 @@
     {
       "name": "DELAYON Eyewear",
       "discount": "20 %",
-      "detail": "20% Rabatt auf alle Produkte (ausgenommen Outlet).",
+      "detail": "20 % Rabatt auf alle Produkte mit Code FZT20. Ausgenommen Outlet; nicht mit anderen Rabattaktionen kombinierbar.",
       "category": "Einkaufen",
       "code": "FZT20",
       "website": "https://www.delayon-eyewear.at",
@@ -944,7 +944,7 @@
     {
       "name": "INTERSPORT OKAY - 3x in Innsbruck",
       "discount": "10 %",
-      "detail": "10 % Rabatt auf Ski- und Snowboard Textilien (Kaufhaus Tyrol, Landhausplatz, Cyta).",
+      "detail": "10 % Rabatt auf Ski- und Snowboard-Textilien im Kaufhaus Tyrol, am Landhausplatz und in der Cyta. Ausgenommen sind bereits reduzierte Ware, Gutscheine und andere Aktionen.",
       "category": "Einkaufen",
       "code": null,
       "website": "https://www.intersport-okay.at",
@@ -1008,7 +1008,7 @@
     {
       "name": "Matadorworld",
       "discount": "bis zu 10 %",
-      "detail": "10 % auf Textilware und 7 % auf Hartware wie Helme, Brillen, Schuhe usw. (ausg. reduzierte Ware).",
+      "detail": "10 % auf Textilware und 7 % auf Hartware wie Helme, Brillen, Goggles und Schuhe. Ausgenommen sind bereits reduzierte Ware, Gutscheine und bereits laufende Rabattaktionen.",
       "category": "Einkaufen",
       "code": null,
       "website": "https://www.matadorworld.com",
@@ -1034,20 +1034,6 @@
       "locations": [],
       "locationReviewStatus": "online",
       "locationReviewNote": "Reines Onlineangebot."
-    },
-    {
-      "name": "Sport Baumgartner Völs",
-      "discount": "15 %",
-      "detail": "15% auf Bekleidung, Helme und Rucksäcke (ausgenommen bereits reduzierte Ware).",
-      "category": "Einkaufen",
-      "code": null,
-      "website": "https://www.sport-baumgartner.at",
-      "address": "Gießenweg 1/2, 6176 Völs",
-      "lat": 47.2530,
-      "lon": 11.3218,
-      "locationType": "physical",
-      "locationReviewStatus": "checked",
-      "locationReviewNote": "Adresse von Bahnhofstraße 10 auf Gießenweg 1/2 korrigiert und exakte Koordinaten hinterlegt."
     },
     {
       "name": "Sport Bartl",
