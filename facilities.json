@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "facilities": [
     {
       "name": "Hungerburgbahn (Nordkette)",
@@ -247,8 +247,13 @@
           "audience": "general"
         },
         {
-          "name": "Tagesticket Ski (Winter)",
-          "price": 65.0,
+          "name": "Tagesticket Ski Winter 2026/27 – Nebensaison (20.11.–18.12. & 22.03.–11.04.)",
+          "price": 60.5,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski Winter 2026/27 – Hauptsaison (19.12.–21.03.)",
+          "price": 67.0,
           "audience": "general"
         }
       ]
@@ -303,8 +308,8 @@
           "audience": "general"
         },
         {
-          "name": "Tagesticket Ski (Winter)",
-          "price": 47.0,
+          "name": "Tagesticket Ski (Winter 2026/27)",
+          "price": 49.0,
           "audience": "general"
         }
       ]
@@ -514,51 +519,76 @@
       ]
     },
     {
-      "name": "Ski- & Freizeit-Arena Bergeralm",
-      "category": "bergbahn",
-      "address": "Huebenweg 25, 6150 Steinach am Brenner",
-      "lat": 47.0869418,
-      "lon": 11.4597823,
-      "price": 0.0,
-      "maxEntries": 0,
-      "timeMin": 0,
-      "perDay": false,
-      "summerPrice": 0.0,
-      "winterPrice": 0.0,
-      "season": "yearRound",
-      "occupancy": "",
-      "desc": "",
-      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
-      "notes": "Sommer: Bikepark Tirol, Wasser- und Erlebniswelt Bärenbachl.",
-      "url": "https://www.bergeralm.net",
-      "tickets": [
-        {
-          "name": "Tal – Mitte",
-          "price": 14.2,
-          "audience": "general"
-        },
-        {
-          "name": "Tal – Mitte + Retour",
-          "price": 21.9,
-          "audience": "general"
-        },
-        {
-          "name": "Tal – Berg",
-          "price": 28.2,
-          "audience": "general"
-        },
-        {
-          "name": "Tal – Berg + Retour",
-          "price": 41.9,
-          "audience": "general"
-        },
-        {
-          "name": "Tagesticket Ski (Winter)",
-          "price": 52.0,
-          "audience": "general"
-        }
-      ]
+  "name": "Ski- & Freizeit-Arena Bergeralm",
+  "category": "bergbahn",
+  "address": "Huebenweg 25, 6150 Steinach am Brenner",
+  "lat": 47.0869418,
+  "lon": 11.4597823,
+  "price": 0.0,
+  "maxEntries": 0,
+  "timeMin": 0,
+  "perDay": false,
+  "summerPrice": 0.0,
+  "winterPrice": 0.0,
+  "season": "yearRound",
+  "occupancy": "",
+  "desc": "",
+  "hours": "Sommerbetrieb siehe Website. Winter 2026/27: 28.11.2026–04.04.2027; Gondelbahn täglich 08:30–16:30 Uhr, weitere Liftanlagen 09:00–16:00 Uhr, Hochsonnlift 09:15–16:00 Uhr (ohne Gewähr)",
+  "notes": "Sommer: Bikepark Tirol, Wasser- und Erlebniswelt Bärenbachl. Winter 2026/27: Nachtskilauf ist separat zu bezahlen. Kartenpfand € 3.",
+  "url": "https://www.bergeralm.net",
+  "tickets": [
+    {
+      "name": "1 Tag ab 08:30 (Winter 2026/27)",
+      "price": 60.2,
+      "audience": "general"
     },
+    {
+      "name": "Vormittag bis 13:00 (Winter 2026/27)",
+      "price": 50.6,
+      "audience": "general"
+    },
+    {
+      "name": "Ab 11:00 (Winter 2026/27)",
+      "price": 54.8,
+      "audience": "general"
+    },
+    {
+      "name": "Ab 12:00 (Winter 2026/27)",
+      "price": 49.0,
+      "audience": "general"
+    },
+    {
+      "name": "Ab 13:00 (Winter 2026/27)",
+      "price": 45.9,
+      "audience": "general"
+    },
+    {
+      "name": "2 Stunden (Winter 2026/27)",
+      "price": 38.0,
+      "audience": "general"
+    },
+    {
+      "name": "Tal – Mitte (Winter 2026/27)",
+      "price": 14.2,
+      "audience": "general"
+    },
+    {
+      "name": "Tal – Mitte + Retour (Winter 2026/27)",
+      "price": 22.1,
+      "audience": "general"
+    },
+    {
+      "name": "Tal – Berg (Winter 2026/27)",
+      "price": 28.7,
+      "audience": "general"
+    },
+    {
+      "name": "Tal – Berg + Retour (Winter 2026/27)",
+      "price": 42.4,
+      "audience": "general"
+    }
+  ]
+},
     {
   "name": "Bergbahnen Rosshütte Seefeld",
   "category": "bergbahn",
@@ -686,8 +716,18 @@
           "audience": "general"
         },
         {
-          "name": "Tagesticket Ski (Winter)",
-          "price": 55.0,
+          "name": "Tagesticket Ski Winter 2026/27 – Nebensaison (27.11.–18.12. & 03.04.–11.04.)",
+          "price": 50.5,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski Winter 2026/27 – Saison (07.01.–29.01. & 27.02.–02.04.)",
+          "price": 63.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski Winter 2026/27 – Top-Saison (19.12.–06.01. & 30.01.–26.02.)",
+          "price": 66.5,
           "audience": "general"
         }
       ]
@@ -708,7 +748,7 @@
       "occupancy": "",
       "desc": "",
       "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
-      "notes": "Sommer: Wandern, Biken, Paragleiten am Unterberghorn.",
+      "notes": "Winter 2026/27: dynamische Ticketpreise; Erwachsenen-Tagesticket laut Betreiber ab € 36. Der tatsächliche Preis hängt von Buchungszeitpunkt, Nachfrage, Saisonphase u. a. ab. Sommer: Wandern, Biken, Paragleiten am Unterberghorn.",
       "url": "https://skisport.com/hochkoessen/de",
       "tickets": [
         {
@@ -717,8 +757,8 @@
           "audience": "general"
         },
         {
-          "name": "Tagesticket Ski (Winter)",
-          "price": 39.0,
+          "name": "Tagesticket Ski (Winter 2026/27 – dynamisch ab)",
+          "price": 36.0,
           "audience": "general"
         }
       ]
@@ -748,8 +788,18 @@
           "audience": "general"
         },
         {
-          "name": "Tagesticket Ski (Winter)",
-          "price": 64.0,
+          "name": "Tagesticket Ski Winter 2026/27 – Vorsaison (19.11.–04.12., ab)",
+          "price": 56.5,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski Winter 2026/27 – Hauptsaison (ab)",
+          "price": 69.5,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski Winter 2026/27 – Topsaison (ab)",
+          "price": 75.5,
           "audience": "general"
         }
       ]
@@ -814,8 +864,8 @@
           "audience": "general"
         },
         {
-          "name": "Tagesticket Ski (Winter)",
-          "price": 67.0,
+          "name": "Tagesticket Ski (Winter 2026/27 – Skischaukel Kappl & See)",
+          "price": 73.0,
           "audience": "general"
         }
       ]
@@ -845,8 +895,13 @@
           "audience": "general"
         },
         {
-          "name": "Tagesticket Ski (Winter)",
-          "price": 55.0,
+          "name": "Tagesticket Ski Winter 2026/27 – Nebensaison (04.12.–18.12.)",
+          "price": 60.0,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski Winter 2026/27 – Hauptsaison (19.12.–11.04.)",
+          "price": 63.0,
           "audience": "general"
         }
       ]
@@ -891,8 +946,8 @@
           "audience": "general"
         },
         {
-          "name": "Tagesticket Ski (Winter)",
-          "price": 79.0,
+          "name": "Tagesticket Ski (Winter 2026/27 – Silvretta Skipass)",
+          "price": 83.0,
           "audience": "general"
         }
       ]
@@ -922,8 +977,13 @@
           "audience": "general"
         },
         {
-          "name": "Tagesticket Ski (Winter)",
-          "price": 75.0,
+          "name": "Tagesticket Ski Winter 2026/27 – Wedel-/Sonnenskiwochen (02.12.–18.12. & 03.04.–18.04.)",
+          "price": 80.5,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski Winter 2026/27 – Hauptsaison (19.12.–02.04.)",
+          "price": 85.0,
           "audience": "general"
         }
       ]
@@ -948,8 +1008,28 @@
       "url": "https://www.geigenbuehel.at",
       "tickets": [
         {
-          "name": "Tageskarte",
-          "price": 20.0,
+          "name": "Tageskarte ab 09:00 (Winter 2026/27)",
+          "price": 40.0,
+          "audience": "general"
+        },
+        {
+          "name": "09:00–13:00 (Winter 2026/27)",
+          "price": 30.5,
+          "audience": "general"
+        },
+        {
+          "name": "Ab 11:00 (Winter 2026/27)",
+          "price": 35.5,
+          "audience": "general"
+        },
+        {
+          "name": "Ab 13:00 (Winter 2026/27)",
+          "price": 30.5,
+          "audience": "general"
+        },
+        {
+          "name": "Ab 14:00 (Winter 2026/27)",
+          "price": 28.5,
           "audience": "general"
         }
       ]
@@ -974,28 +1054,28 @@
       "url": "https://www.birkenlift.at",
       "tickets": [
         {
-          "name": "Vormittag 09:00 - 13:00 Uhr",
-          "price": 29.0,
+          "name": "Tageskarte ab 09:00 (Winter 2026/27)",
+          "price": 40.0,
           "audience": "general"
         },
         {
-          "name": "Tageskarte ab 09:00",
-          "price": 38.0,
+          "name": "09:00–13:00 (Winter 2026/27)",
+          "price": 30.5,
           "audience": "general"
         },
         {
-          "name": "Tageskarte ab 11:00",
-          "price": 34.0,
+          "name": "Ab 11:00 (Winter 2026/27)",
+          "price": 35.5,
           "audience": "general"
         },
         {
-          "name": "Tageskarte ab 13:00",
-          "price": 29.0,
+          "name": "Ab 13:00 (Winter 2026/27)",
+          "price": 30.5,
           "audience": "general"
         },
         {
-          "name": "Tageskarte ab 14:00",
-          "price": 27.0,
+          "name": "Ab 14:00 (Winter 2026/27)",
+          "price": 28.5,
           "audience": "general"
         }
       ]
@@ -2203,7 +2283,7 @@
       "season": "yearRound",
       "occupancy": "",
       "desc": "",
-      "hours": "Mi – Mo 9 – 17 Uhr - letzter Einlass 16.30 Uhr. Sonderöffnungszeiten: 3.10.2026, Lange Nacht der Museen, 18 – 0 Uhr; 26.10.2026, Tag der offenen Tür, 9 – 17 Uhr - Eintritt frei; 24.12.2026, Heiligabend, 9 – 14 Uhr, Eintritt frei; 25.12.2026, Christtag, geschlossen; 31.12.2026, Silvester, 9 – 14 Uhr (ohne Gewähr)",
+      "hours": "Mi – Mo 9 – 17 Uhr, letzter Einlass 16.30 Uhr. Sonderöffnungszeiten: 24.12.2026, Heiligabend, 9 – 14 Uhr, Eintritt frei; 25.12.2026, Christtag, geschlossen; 31.12.2026, Silvester, 9 – 14 Uhr; 1.1.2027, Neujahr, geschlossen; 3.1.–4.1.2027, Vierschanzentournee, Museum/Parkplatz geschlossen (ohne Gewähr)",
       "notes": "Laut AGB 3 Zutritte pro Saison.",
       "url": "https://www.tiroler-landesmuseen.at",
       "tickets": [
@@ -2400,7 +2480,7 @@
       "season": "yearRound",
       "occupancy": "",
       "desc": "",
-      "hours": "Di – So 9 – 17 Uhr, Sonderöffnungszeiten: 3.10.2026, Lange Nacht der Museen, 18 – 0 Uhr; 26.10.2026, Tag der offenen Tür, 9  – 17 Uhr, Eintritt frei; 24.12.2026, Heiligabend, 9  – 17 Uhr, Eintritt frei; 25.12.2026, Christtag, geschlossen; 31.12.2026, Silvester, 9  – 14 Uhr (ohne Gewähr)",
+      "hours": "Di – So 9 – 17 Uhr. Sonderöffnungszeiten: 24.12.2026, Heiligabend, 9 – 17 Uhr, Eintritt frei; 25.12.2026, Christtag, geschlossen; 31.12.2026, Silvester, 9 – 14 Uhr; 1.1.2027, Neujahr, geschlossen; 9.2.2027, Faschingsdienstag, 9 – 12 Uhr (ohne Gewähr)",
       "notes": "Laut AGB 3 Zutritte pro Saison.",
       "url": "https://www.tiroler-landesmuseen.at/haeuser/zeughaus-in-innsbruck/",
       "tickets": [
