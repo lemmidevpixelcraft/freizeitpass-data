@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "partners": [
     {
       "name": "Ice Magic Innsbruck",
@@ -583,9 +583,9 @@
     {
       "name": "FLIP LAB Innsbruck",
       "discount": "€ 3,-",
-      "detail": "3 € Rabatt auf deine FLIPTIME. Bei Onlinebuchungen Code FTT2021 verwenden oder vor Ort das Freizeitticket vorzeigen. Gilt nur mit Freizeitticket und ist nicht mit anderen Rabattaktionen kombinierbar.",
+      "detail": "3 € Rabatt auf deine FLIPTIME. Bei Onlinebuchungen Code FREI27 verwenden oder vor Ort das Freizeitticket vorzeigen. Gilt nur mit Freizeitticket und ist nicht mit anderen Rabattaktionen kombinierbar.",
       "category": "Erlebnis",
-      "code": "FTT2021",
+      "code": "FREI27",
       "website": "https://www.fliplab.at/innsbruck",
       "address": "FLIP LAB Innsbruck: Landesstraße 3, 6176 Völs",
       "lat": 47.2549637,
