@@ -1,5 +1,5 @@
 {
-  "version": 40,
+  "version": 41,
   "facilities": [
     {
       "name": "Hungerburgbahn (Nordkette)",
@@ -110,7 +110,7 @@
       "occupancy": "",
       "desc": "",
       "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
-      "notes": "",
+      "notes": "Am 31.12.2026 ist das Freizeitticket beim Silvesterbetrieb nicht gültig. Die Sonderfahrt kostet 45 € für Erwachsene und 22,50 € für Kinder.",
       "url": "https://www.patscherkofelbahn.at/",
       "tickets": [
         {
@@ -121,6 +121,21 @@
         {
           "name": "Einzelfahrt Sommer",
           "price": 22.3,
+          "audience": "general"
+        },
+        {
+          "name": "Tagesticket Ski (Winter 2026/27)",
+          "price": 55,
+          "audience": "general"
+        },
+        {
+          "name": "Kofel Ticket Berg- und Talfahrt (Winter 2026/27)",
+          "price": 35,
+          "audience": "general"
+        },
+        {
+          "name": "Kofel Ticket Einzelfahrt (Winter 2026/27)",
+          "price": 23.7,
           "audience": "general"
         }
       ]
@@ -187,7 +202,7 @@
       "occupancy": "",
       "desc": "",
       "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
-      "notes": "Die Glungezerbahn fährt in 2 Sektionen bis zur Bergstation Tulfein. Sektion 1 = Talstation zur Mittelstation Halsmarter; Sektion 2 = Mittelstation Halsmarter zur Bergstation Tulfein; Für eine Berg- und Talfahrt bis zur Mittelstation Halsmarter benötigt man 2 Fahrten. Für eine Berg- und Talfahrt bis zur Tulfein Alm benötigt man 4 Fahrten.",
+      "notes": "Die Glungezerbahn fährt in 2 Sektionen bis zur Bergstation Tulfein. Sektion 1 = Talstation zur Mittelstation Halsmarter; Sektion 2 = Mittelstation Halsmarter zur Bergstation Tulfein; Für eine Berg- und Talfahrt bis zur Mittelstation Halsmarter benötigt man 2 Fahrten. Für eine Berg- und Talfahrt bis zur Tulfein Alm benötigt man 4 Fahrten. Winter 2026/27: Freizeitticket auch für die Tourengeher- und Rodelabende gültig. Vorgesehener Abendbetrieb ab 29.12.2026 jeweils Dienstag und Donnerstag, abhängig von den Betriebsbedingungen.",
       "url": "https://www.glungezerbahn.at",
       "tickets": [
         {
@@ -380,8 +395,8 @@
       "season": "yearRound",
       "occupancy": "",
       "desc": "",
-      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",
-      "notes": "",
+      "hours": "Sommer- & Winterbetrieb, Zeiten siehe Website (ohne Gewähr)",      
+      "notes": "Winter 2026/27: Die angegebenen Skipasspreise gelten mit Stubaier Gästekarte in der Hauptsaison (20.12.2026–27.02.2027). Vorsaison 28.11.–19.12.2026: 15 % Ermäßigung. Nachsaison 28.02.–11.04.2027: 10 % Ermäßigung. Ohne Stubaier Gästekarte gelten höhere Tarife. Kartenpfand € 2.",
       "url": "https://www.stubai.at/skigebiete/schlick2000/",
       "tickets": [
         {
@@ -435,15 +450,15 @@
           "audience": "general"
         },
         {
-  "name": "Tagesticket Ski Winter 2026/27",
-  "price": 61.5,
-  "audience": "general"
-},
+          "name": "Tagesticket Ski Winter 2026/27 – Hauptsaison, mit Stubaier Gästekarte",
+          "price": 61.5,
+          "audience": "general"
+        },
         {
-  "name": "Vormittagsticket bis 13:00 Ski Winter 2026/27",
-  "price": 54.5,
-  "audience": "general"
-}
+          "name": "Vormittagsticket bis 13:00 Ski Winter 2026/27 – Hauptsaison, mit Stubaier Gästekarte",
+          "price": 54.5,
+          "audience": "general"
+        }
       ]
     },
     {
@@ -479,10 +494,10 @@
           "name": "Talfahrt",
           "price": 15.5,
           "audience": "general"
-        },
+        },     
         {
-          "name": "Tagesticket Ski (Winter)",
-          "price": 44.0,
+          "name": "Tagesticket Ski (Winter 2026/27)",
+          "price": 49.5,
           "audience": "general"
         }
       ]
@@ -680,8 +695,8 @@
           "audience": "general"
         },
         {
-          "name": "Tagesticket Ski (Winter)",
-          "price": 42.0,
+          "name": "Tagesticket Ski (Winter 2026/27)",
+          "price": 47,
           "audience": "general"
         }
       ]
@@ -1140,11 +1155,21 @@
       "notes": "",
       "url": "https://www.huettegglift.at/",
       "tickets": [
-        {
-          "name": "Tageskarte 9:00 bis 16:00 Uhr",
-          "price": 20.0,
-          "audience": "general"
-        }
+      {
+        "name": "Tageskarte Ski (Winter 2026/27)",
+        "price": 26,
+        "audience": "general"
+      },   
+      {
+        "name": "Tageskarte Ski Jugendliche (Winter 2026/27)",
+        "price": 24,
+        "audience": "general"
+      },
+      {
+        "name": "Tageskarte Ski Kinder (Winter 2026/27)",
+        "price": 21,
+        "audience": "general"
+      }
       ]
     },
     {
@@ -1837,18 +1862,18 @@
       "url": "https://www.telferbad.at",
       "tickets": [
         {
-          "name": "4-Stunden-Karte",
-          "price": 11.0,
+          "name": "4-Stunden-Karte Schwimmen (Winter 2026/27)",
+          "price": 19.2,
           "audience": "general"
         },
         {
-          "name": "Tageskarte",
-          "price": 14.5,
+          "name": "Tageskarte Schwimmen (Winter 2026/27)",
+          "price": 24,
           "audience": "general"
         },
         {
-          "name": "2-Stunden-Tarif",
-          "price": 8.5,
+          "name": "2-Stunden-Tarif Schwimmen (Winter 2026/27)",
+          "price": 9.6,
           "audience": "general"
         }
       ]
